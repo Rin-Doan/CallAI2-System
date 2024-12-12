@@ -1,0 +1,2374 @@
+Person,Category,Quality,Text
+A,Greetings,Positive,Thank you for calling Triple-A bank.
+A,Greetings,Positive,My name is Arianna.
+A,Greetings,Positive,May I have your name?
+C,,,James breed; 
+A,Greetings,Positive,Oh hello Mr. Breed.
+A,Greetings,,How can I make you smile today?
+C,,,Why do I have fees on my bank account? 
+C,,,I want those removed. 
+C,,,Very ridiculous.
+C,,,I can't even afford them.
+A,Engagement,Positive,Oh. I understand that fees are really costly. 
+A,Problem Investigation,Positive,Let me check your account to see what really happened.
+C,,,Ok and remove the fees
+A,Problem Investigation,Positive,I'll see what I can do Mr. Breed. 
+A,Problem Investigation,Positive,As I have checked you were charged some fees because you were not able to pay on time so that means we really cannot do anything about it anymore.
+C,,,What do you mean you can't do anything? 
+C,,,You are supposed to help me.
+C,,,Can you at least try to remove the fees?
+A,Problem Resolution,Negative,"No, no sir. "
+A,Problem Resolution,Negative,I can't do that because you did not make a payment.
+C,,,"If you just look at my account I made a payment but it was just a few hours late."
+C,,,Can you at least consider? 
+C,,,I had to look for funds just to make a payment but I did my best to pay on my due date.
+C,,,I was just late for the cutoff.
+C,,,Can you please just remove at least one fee?
+A,Problem Resolution,Positive,"As much as I'd love to help you Mr. Breed, my hands are tied right now."
+A,Problem Resolution,Positive,There's nothing I can do.
+A,Problem Resolution,Positive,I already told you the reason and I'm afraid you'll have to pay the fees you'll have to pay the fees for now.
+A,Problem Resolution,Positive,I want to let you know that you can actually avoid these fees by paying before 4 p.m. of your due date.
+A,,,I already know that. 
+C,,,You already explained that.
+C,,,You keep telling me the same thing but you're not doing anything.
+C,,,I will make sure to call back and speak to your supervisor. 
+C,,,You are not helping me at all even though I've been a customer for five years!
+C,,,Terrible service!
+A,Engagement,Positive,I'm really really really sorry sir.
+C,,,No. You are not sorry.
+A,Greetings,Positive,Thank you for calling Triple-A bank.
+A,Greetings,Positive,My name is Maria.
+A,Greetings,Positive,May I have your name?
+C,,,James breed; 
+A,Greetings,Positive,Oh hello Mr. Breed.
+A,Greetings,Positive,How can I make you smile today?
+C,,,Why do I have fees on my bank account?
+C,,,I want those removed.
+C,,, Very ridiculous.
+C,,,I can't even afford them.
+A,Engagement,Positive,Oh. I understand that fees are really costly.
+A,Problem Investigation,Positive,Let me check your account to see what really happened.
+C,,,Ok.
+C,,,And remove the fees.
+A,,,I'll see what I can do Mr. Breed.
+A,Problem Investigation,Positive,"As I have checked, the account was charged some fees because there was no payment made before the cut off time of 4 p.m."
+C,,,I made a payment.
+C,,,I did my best to look for funds so I could pay on my due date.
+C,,,It's just that it was done after 4 p.m.
+A,Engagement,Positive,I truly understand what you're going through Mr. Breed.
+A,Problem Resolution,Positive,"However, the fees charged were valid and therefore, the fees can no longer be refunded or removed."
+C,,,Like I said I really did my best. Can you please remove even just one fee?
+C,,,I really can't afford it.
+C,,,Maybe you can make a consideration?
+C,,,Please. Besides I made a payment on the due date itself.
+A,Problem Resolution,Positive,"I understand your concern sir and as much as I want to remove the fees, they really can no longer be removed."
+A,Problem Resolution,Positive,"However, since you requested, okay, I will send a request to the management and it's up to them to decide whatever course of action they will do after reviewing your account but this doesn't guarantee that the fees will be refunded."
+C,,,Okay I understand that it's worth trying though.
+C,,,Thank you for doing that.
+A,Engagement,Positive,You're welcome Mr. Breed.
+A,Closure,Positive,I have already submitted a request and you will receive an email or text message after three days for the decision.
+C,,,Thanks for trying.
+A,Greetings,Positive,Thank you for calling Shapes Reward.
+A,Greetings,Positive,My name is Mathilda.
+A,Greetings,Positive,Can I have your name please?
+C,,,This is ELISA Collins
+A,Greetings,Positive,Hi Miss Collins.
+A,Greetings,Positive,How can I be of service?
+C,,,I wanted to pay my bills using my rewards points but I can't log into your website.
+C,,,What's happening?
+A,Engagement,Positive,Oh I'm so sorry for the inconvenience for the website.
+A,Problem Investigation,Positive,May I know what error message you got?
+C,,,Error message?
+C,,,Where do I get that error message?
+A,Problem Investigation,Positive,You mentioned you were trying to log in.
+A,Problem Investigation,Positive,"When you logged into shapes rewards website, can you please tell me what happened after?"
+C,,,"Oh I just entered my username and my password and then when I clicked log in, the computer the screen."
+C,,,"What I'm seeing, it's the same."
+C,,,It's loading and then it goes back to the login page so I can't get in and I need to use my rewards because I've saved them for so long now.
+A,Engagement,Positive,I understand Miss Collins.
+A,Problem Investigation,Positive,Alright this what actually happened.
+A,Problem Investigation,Positive,When you clicked log in and the screen or the page goes back to the exact same page after loading that means that the page is looping.
+C,,,But what looping?
+C,,,Is your website down?
+A,NA,,Our website is actually up and running.
+A,Problem Investigation,Positive,"However, your browser has an issue."
+A,Problem Investigation,Positive,Looping is when the browser page goes back to the same page again and again even though you've already taken action.
+A,Problem Investigation,Positive,"Just like in your case, you've clicked log in but it doesn't go to your profile on Shapes Rewards, right?"
+A,Problem Investigation,Positive,It just keeps going back to the login page but don't worry you've got the right person on the line to help you.
+A,Problem Investigation,Positive,We just need to do quick troubleshooting on your browser.
+C,,,Okay.
+A,NA,,Great!
+A,Problem Investigation,Positive,Are you using Mac or PC?
+C,,,Windows.
+A,NA,,Ok Windows PC is good.
+A,Problem Investigation,Positive,May I know what browser you're using?
+C,,,I'm not really sure.;
+A,Problem Investigation,Positive,Is it Google Chrome or Firefox?
+C,,,Oh it's Chrome.
+A,NA,,"Oh ok, that's great."
+A,Problem Investigation,Positive,May I know the chrome version?
+C,,,I am really sorry honey but I don't have any idea.
+C,,,My granddaughter just gifted me this computer last Christmas and she's not here right now.
+A,NA,,Oh that's ok Miss Collins.
+A,Problem Resolution,Positive,I'll just give you instructions and we'll get through this.
+C,,,Thank you honey.
+C,,,So you said version?
+A,Problem Resolution,Positive,"Yes, can you please close the Chrome browser and open it again after?"
+C,,,"Yes, done."
+A,NA,,That's good. 
+A,Problem Resolution,Positive,"Now that you have the browser open, do you see 3 dots that are aligned vertically on the upper right part of your screen?"
+C,,,Yes
+A,Problem Resolution,Positive,Please click that and you will see a drop-down box.
+A,Problem Resolution,Positive,Then look for the word help or about Google Chrome.
+C,,,I do see help that about Google Chrome.
+C,,,I clicked it.
+C,,,Oh it's version 68 and a couple random numbers.
+A,Engagement,Positive,Wow thank you.
+A,Problem Resolution,Positive,Looks like you have the most updated browser versions so far.
+A,Problem Resolution,Positive,"So, the next thing, we will do is clear cache from your browser."
+A,Problem Resolution,Positive,This will not affect your stored files or anything on your computer.
+A,Problem Resolution,Positive,It's just that most of the time the information that you click out to the Internet gets saved in a cache memory or storage in your browser and this eventually results to latency or what you just experienced.
+C,,,Oh this is all so new to me.
+C,,,But you don't have to worry because once you do this once it's easier to do this again next time if it happens again.
+A,Problem Resolution,Positive,So just click those three dots that you clicked earlier and look for more tools.
+A,Problem Resolution,Positive,Did you see it?
+C,,,Ok.
+A,Problem Resolution,Positive,Then you will see clear browsing data.
+C,,,Okay I see basic and advanced.
+A,Engagement,Positive,"Alright, we are on the right track."
+A,Problem Resolution,Positive,We can just go to the basic part and make sure you check all the checkboxes for the browsing history cookies and cached images.
+C,,,"Ok, done it."
+A,Problem Resolution,Positive,"Then, if you see the time range you can choose all time. "
+A,Problem Resolution,Positive,Then just click clear data.
+C,,,"Okay, it's loading."
+A,NA,,Yes yes that's normal.
+A,Problem Resolution,Positive,"So once it's done loading, you will be on the same page."
+A,Problem Resolution,Positive,"So, just press f5 on your keyboard to let it refresh and then you can start logging in again."
+C,,,Ok I will try again.
+A,Engagement,,"Ok, let me know what happens."
+C,,,"Oh, I can login now."
+C,,,I'm so happy.
+A,Closure,Positive,I am so happy for you too Miss Collins and it has been my pleasure to assist you.
+A,Closure,Positive,Did I address all your concerns today?
+C,,,"Very much, thank you."
+A,Closure,Positive,You're welcome.
+A,Closure,Positive,Thanks for calling Shapes Rewards and enjoy your day.
+A,Greetings,Positive,Welcome to Grand Number One.
+A,Greetings,Positive,My name Selena.
+A,Greetings,Positive,May I have your name?
+C,,,This is Rebecca Portman.
+A,Greetings,Positive,Hello Miss Portman.
+A,Greetings,Positive,How can I provide you an excellent service today?
+C,,,Yes I just lost my debit card one hour ago.
+C,,,I tried looking for it but I couldn't so I thought I'd let you know.
+A,Engagement,Positive,Oh I'm terribly sorry to hear that.
+A,Engagement,Positive,"But rest assured, I'll be here to make sure everything's well taken care of."
+C,,,Thank you.
+A,Account Verification,Positive,"To put your account, can I please have your account number or debit card number?"
+C,,,I can't memorize my card number though but my account number is 123456785.
+A,NA,Positive,Oh yes.
+A,Engagement,Positive,"Sorry yeah, I should have asked for your account number."
+A,Account Verification,Positive,And for additional security can I also have your birthdate and residential address please?
+C,,,July 25 1985.
+C,,,"Unit 888, Silver Lane Avenue, New York, New York, 10012.;"
+A,Engagement,Positive,"Thank you so much, appreciate it."
+A,NA,Positive,I already have your account information here.
+A,Problem Investigation,Positive,Let me check your transactions for you real quick.
+A,Problem Investigation,Positive,"I see that the last transaction made was using your debit card at Target for 179 54, 179 dollars and 54 cents."
+A,Problem Investigation,Positive,"Yes, This just posted today."
+A,Problem Investigation,Positive,Is this valid?
+C,,,"Oh yes, that's mine."
+C,,,I did that yesterday and it just posted recently here.
+A,Problem Resolution,Positive,"Your debit card is safe, no unauthorized transaction so I'm closing it now tagging is as lost."
+A,Problem Resolution,Positive,Would you like a replacement over the phone?
+A,Problem Resolution,Positive,It's free of charge.
+C,,,"Sure, how long will it take?"
+A,Problem Resolution,Positive,"It will be delivered in 10 business days and while you're waiting for your new card, you may go to any branch to do an over to counter withdrawal."
+A,Problem Resolution,Positive,Just bring two valid IDs.
+C,,,That's fair enough.
+A,NA,Positive,Just a couple of reminders Miss Portman.
+A,Problem Resolution,Positive,Your new debit card will have a new card number but the account number and PIN will remain the same.
+A,Problem Resolution,Positive,Just call us right away once you receive it so that we can activate it for you and everything's good.
+A,Closure,Positive,The replacement has been processed and have I address all your concerns?
+C,,,"Yes yes, you did."
+C,,,Thanks so much for your help.
+A,Closure,Positive,My pleasure and thank you for calling Grand Number One.
+A,Closure,Positive,Enjoy the rest of your day.
+A,Greetings,Positive,It's a great day here at our hotel I'm Rebecca.
+A,Greetings,Positive,How can I assist you?
+A,Greetings,Positive,Hi Rebecca.
+C,,,I'm wondering if you can reserve me a room.
+C,,,My friends and I are staying for a trip.
+A,Problem Investigation,Positive,I'll be happy to check that for you.
+A,Account Verification,Positive,May I have your name?
+C,,,Pauline Soupe.
+A,Engagement,Positive,Thank You Pauline
+A,Problem Investigation,Positive,How many of your friends are staying?
+C,,,"Two, so there are three of us."
+A,Problem Investigation,Positive,Do you prefer to stay in one room or separate rooms?
+C,,,One room.
+A,Problem Investigation,Positive,"Alright, let me check if you have an available room for what days?"
+C,,,September 5 to 7
+A,Problem Resolution,Positive,"Thank you, so, there is one available premium room that is good for three people with three separate beds."
+A,Problem Resolution,Positive,"It comes with free Wi-Fi cable channels, minibar and mini kitchens."
+A,Problem Resolution,Positive,That's 99 dollars per night.
+C,,,Okay.
+A,Problem Resolution,Positive,There's also a deluxe room available that has the same amenities as premier except that it has its own swimming pool.
+A,Problem Resolution,Positive,That costs $150 per night.
+A,Problem Resolution,Positive,Which one you prefer?
+C,,,Oh well we're just staying to sleep in so I'll take the premier.
+C,,,Does it come with free breakfast?
+A,Problem Resolution,Positive,Yes there's free breakfast.
+A,Problem Investigation,Positive,Are you going to reserve today?
+C,,,"Yes, please."
+A,Account Verification,Positive,May I have the names of the guests?
+C,,,Pauline Sue and my friends Andrea Smith and Alexis Washington
+A,Problem Resolution,Positive,"Great, so you will check in on September 5 at 2 p.m. and check out on September 7 12 noon."
+A,Problem Resolution,Positive,"So that's 2 nights for $198 and we have to add the taxes, so the total amount is 217 dollars and 56 cents."
+C,,,"Thank you, so should I pay now or what?"
+A,,,"That's right, you should."
+A,Problem Resolution,Positive,"Yes, you should actually pay now."
+A,Problem Resolution,Positive,"Alright, so just to recap I have already reserved the premier room for you for two nights on September 5 to 7 with total cost two hundred and seventeen dollars and 56 cents."
+A,Problem Resolution,Positive,This is actually considered booked.
+A,Problem Resolution,Positive,"If you decide to cancel within 15 days before your check-in date, there will be no cancellation fee and the money will be refunded to you in 10 business days. "
+A,Problem Resolution,Positive,"But, if you can so within three days before your check-in date, half of the total amount will be forfeited, while, if you cancel within 24 hours before check-in the total amount will be forfeited."
+A,Closure,Positive,Do you have any other questions Pauline?
+C,,,"No, that sounds great."
+A,Closure,Positive,You're welcome.
+A,Closure,Positive,Thanks for calling our hotel.
+A,Closure,Positive,We look forward to your enjoyable stay. 
+A,Closure,Positive,Bye.
+A,Greetings,Positive,"Hi, thank you for calling X Y Z."
+A,Greetings,Positive,My name is Ashley. 
+A,Greetings,Positive,How may i help?
+C,,,You just cut off my internet connection and this is not the first time this happened!
+C,,,Why are you cheating on me? You're getting my money and you're cutting me off!
+A,,,Sorry for the inconvenience ma'am.
+A,Engagement,Positive,I understand that is really frustrating.
+A,Account Verification,Positive,May I have your account number please?
+C,,,"Sorry, you are always sorry, but you're not doing anything!"
+C,,,Never!
+C,,,"You have to fix this now, fix this now!"
+A,Engagement,Positive,"Yes, yes, ma'am. I will do my best."
+A,Account Verification,Positive,May I have your account number so that I can check your account?
+C,,,"Five three four zero zero three, six five four eight"
+A,NA,,"I'm sorry, you were a bit too fast. ."
+A,NA,,Can you please?
+C,,,Oh my god.
+C,,,I can't believe you.
+C,,,I said five three four zero zero three six five four eight.
+A,NA,,"I'm sorry, is that five three four zero zero three six five"
+C,,,"Four eight, got it?"
+A,NA,,"Okay, got it."
+A,Engagement,Positive,Thank you.
+A,Account Verification,Positive,"For verification purposes, can I get your name and birth date, please?;"
+C,,,"Karen America, September 15 1985."
+C,,,The account is under my name.
+C,,,Hello?
+A,NA,,"Hello, I'm still here ma'am."
+A,Engagement,Positive,Sorry. I'm still checking some information.
+C,,,Why is it taking you so long?
+C,,,Don't you guys already know this stuff?
+C,,,You keep fooling people.
+C,,,You must know what to do already.
+A,Problem Investigation,Positive,"Okay, according to our systems data you did pay your last bill last October 20, which was two days ago in one of our affiliated payment centers."
+A,Problem Investigation,Positive,"Unfortunately when you pay through that affiliated center, it takes about 2 to 3 business days more to complete the payment processing."
+A,Problem Investigation,Positive,So that means that the system considered the payment as still pending and not completed yet.
+A,Problem Investigation,Positive,"So the connection has been cut off, but."
+C,,,Are you kidding me?
+C,,,Why have affiliated payment centers when you can't even process the payment on time?
+C,,,So it's my fault?
+C,,,You guys told me I could pay at affiliated centers and that's what I did and now I'm at fault.
+C,,,"Now, I can't continue with my online job because of you or actually because of me?"
+C,,,That's ridiculous!
+A,Engagement,Positive,"I am really sorry, Miss America."
+A,Engagement,Positive,I understand your situation is very tough right now.
+C,,,"Really, huh?"
+A,Account Verification,Positive,"But, what I can do is to open a ticket or submit a report so that the other department assigned can manually complete your payment and reconnect your internet."
+A,Account Verification,Positive,I just need the payment ID number ma'am and which center did you make the payment?
+C,,,Why do you have to ask for that? 
+C,,,You just said so yourself you've seen my payment as pending?
+A,NA,,"Yeah, and just want to verify it."
+C,,,"At the Strawberry Mall, my payment ID. Hold on a second. One one one two eight five six nine seven four."
+A,Engagement,Positive,"Thanks so much for your patience, Miss America."
+A,Problem Resolution,Positive,I'm going to submit the report
+C,,,"Please just stay on the line for a minute, Ma'am."
+A,Problem Resolution,Positive,"I'm done with the report, please expect to have your connection reinstated within 24 hours."
+A,Problem Resolution,,We will send you a text message as well to your phone number and file.
+C,,,Within 24 hours?
+C,,,Can you make it faster than that?
+A,Problem Resolution,Positive,"As much as I'd love to that has been a turnaround time for reconnection since then, so to give enough time for the team to manually complete the payment."
+C,,,"Okay fine, as if I have a choice."
+A,Engagement,Positive,"Again, I'm really sorry."
+A,Closure,Positive,Is there anything else?
+C,,,"Nothing, just make sure you reconnect my line as soon as possible."
+A,Closure,Positive,"Bye, yes, ma'am. "
+A,Closure,Positive,Thank you for calling XYZ.
+C,,,Hello.
+A,Greetings,Positive,Hello.
+A,Greetings,Positive,Good morning. 
+A,Greetings,Positive,My name is Kate.
+A,Greetings,Positive,"Calling from deluxe credit card, may I speak with miss Anastasia Robinson?"
+C,,,"Yes, this is her."
+A,Greetings,Positive,"Hi, good morning Miss Robinson."
+A,Greetings,Positive,I'm calling because deluxe credit card actually has a good news for you.
+A,Greetings,Positive,Do you have 5 to 7 minutes to talk?
+C,,,"Okay, go ahead"
+C,,,Thank you.
+A,Problem Investigation,Positive,So we are well aware that you have been a valued customer of deluxe for 8 years now. 
+A,Problem Resolution,Positive,"And, we would like to reward you with a platinum MasterCard that has amazing benefits and free annual fee for life."
+A,Engagement,Positive,How does that sound to you?
+C,,,Thank you. Appreciate it.
+C,,,So what do I get from that platinum?
+A,NA,,Yes ma'am.
+A,Problem Resolution,Positive,The Platinum MasterCard is a highly prestigious card for highly career oriented individuals like you.
+A,Problem Resolution,Positive,"This card has non-expiring rewards points, free travel insurance up to $20,000, repurchase protection up to $1000, free access to the sky view lounges in different airports locally and abroad, up to five supplementary card. holders with free annual membership fees for life."
+A,Problem Resolution,Positive,"And as mentioned, your annual fee will automatically be waived as well."
+A,Problem Resolution,Positive,Of course it also has a higher credit limit than your usual plastic or regular credit cards.
+A,Engagement,Positive,Ok that sounds good?
+C,,,Sounds great.
+A,Account Verification,Positive,"Since you are already pre-approved, I just need to confirm your building address, phone number and email address."
+C,,,"Ok, my building address is apartment 152, Emerald Building, Rock Street Los Angeles, California."
+C,,,Email is annarobinson@aol.com.
+C,,,And my phone is 2138970362.
+A,Account Verification,Positive,"Got it, thank you so much."
+A,Account Verification,Positive,I'll have this submitted and please expect your card in 10 business days and don't hesitate to call our toll-free number for any assistance.
+A,Account Verification,Positive,"Welcome, thank you so much, bye."
+C,,,"Thank you, bye."
+A,Greetings,Positive,Thanks for calling quick Internet.
+A,Greetings,Positive,My name is Anna.
+A,Greetings,Positive,Can I have your phone number or your account number please?
+C,,,Your who?
+C,,,What?
+C,,,"Can you speak a little slower, would you?"
+A,NA,,Anything for you.
+A,Greetings,Positive,"So, I would say my name is Anna."
+A,Account Verification,Positive,Can I have your account or phone number please?
+C,,,My account is 4 5 6 7 8 9 1 5 6 0.
+C,,,I just want to say Anna that I thought you are quick Internet but look at what you did.
+C,,,Why can't I access my internet today?
+C,,,I can't play my games.
+A,Engagement,Positive,Oh that's very inconvenient.
+A,Engagement,Positive,"I understand how you feel, your friends online might already be waiting for you but don't you worry, you've got the right person on the line to help you."
+A,Account Verification,Positive,May I know the name of the account?
+C,,,What? What's that?
+C,,,"I feel like you're under water, are you?"
+A,NA,,"Oh no, I'm sorry about that it could be my phone connection."
+A,NA,,Let me fix it in 3 seconds here.
+A,NA,,Can you hear me ok now?
+C,,,"Yeah, a lot better."
+A,Account Verification,Positive,Sounds great so I was saying may I know the name on the account?
+C,,,My name?
+A,Account Verification,Positive,"Yes, if the account is under your name."
+C,,,"Yes, it's Anjoe Jones."
+A,Engagement,Positive,Thank You Mr. Jones.
+C,,,What did you say?
+A,Engagement,Positive,Oh I just said thank you Mr. Jones.
+A,,,"So, you mentioned you don't have internet today. "
+A,Problem Investigation,Positive,"Shows here that you don't have a DSL signal, that's why.you cannot connect"
+A,Problem Investigation,Positive,We can actually fix this over the phone and I'd be glad to walk you through.
+A,Problem Investigation,Positive,Would that be fine?
+C,,,I already did everything before I called.
+A,,,That's great.
+A,Problem Investigation,Positive,"Let me ask, can you please check your modem now and tell me which lights are on?"
+C,,,Seriously!
+C,,,"Okay, I have to go back to my brother's room."
+A,NA,,Please check.
+C,,,"Okay., the rest of the of the lights are green but the DSL was red."
+A,Problem Investigation,Positive,"Alright, clearly, there is something wrong with your signal which is highly likely connected to your cell phone service."
+A,Problem Resolution,Positive,Can you please check again your telephone cord is connected to your modem?
+C,,,"Wow, so I have to go back again?"
+A,Problem Resolution,Positive,"Don't worry, that's the last thing we have to check if the cord is indeed not connected tightly plug it back into your modem and everything should be good so that we do not have to call a technician to check out what's wrong with the modem."
+C,,,"Okay fine, just don't hang up!"
+A,NA,,Of course! I won't.
+C,,,I just found out the cord was disconnected.
+C,,,Probably my brother.
+C,,,I can see the DSL light is green.
+A,NA,,Oh that's good to know.
+A,Problem Resolution,Positive,Can you try accessing some website?
+C,,,Okay I can access my online games now and Facebook too.
+C,,,"Yeah, I think you solved it."
+A,Closure,Positive,My pleasure to assist you.
+A,Closure,Positive,Have I addressed your concerns?
+C,,,You sure did.
+C,,,I'll tell my brother.
+C,,,Thank you.
+A,Closure,Positive,Thanks for calling Quick Internet.
+A,Closure,Positive,Once again this is Anna.
+A,Closure,Positive,Have a wonderful day.
+A,Greetings,Positive,Thank you for calling Sprites.
+A,Greetings,Positive,My name is Rhea.
+A,Greetings,Positive,How can I help you today?
+C,,,"Hi, my name is Francis and I have a question about my bill."
+A,Greetings,Positive,Oh hi Francis.
+A,Greetings,Positive,I'll be glad to answer any questions that you have about your bill.
+A,Account Verification,Positive,May I have the account number or the phone number of the account?
+C,,,Ok the account number is 1 2 3 4 5.
+A,Engagement,Positive,Great! Thank you. 
+A,Problem Investigation,Positive,"So, may I know what your question is?"
+C,,,"Oh it's like this, last month, my bill was $25 but for this month it shows that I need to pay $35."
+C,,,What's going on?
+A,Engagement,Positive,Oh I see.
+A,Problem Investigation,Positive,"I understand sometimes looking at your bill can be quite confusing. So, let me check your account and let's go through this together ok?"
+A,Problem Investigation,Positive,By the way do you have a copy of your bill right now?
+C,,,Um yes.
+A,NA,,That's great.
+A,Problem Investigation,Positive,Let's go over your bill together and see the difference.
+A,Problem Investigation,Positive,"Upon checking your account., yes, you're right."
+A,Problem Investigation,Positive,The bill last month was $25 however this billing period there is an additional charge of 10 dollars for a data usage that totals to 3 gigs.
+C,,,Ok. I really thought that my plan included data.
+A,Problem Resolution,Positive,"Well, no, it does not."
+A,Problem Resolution,Positive,But I will be happy to add a data to your plan.
+A,Problem Resolution,Positive,For only five dollars more you get 10 gigs of data and it's more value for your money considering the current situation.
+A,Engagement,Positive,How does that sound to you?
+C,,,Um okay that sounds good.
+A,Problem Resolution,Positive,"That's good, so I'll add the data plan to your account right away and since you are a valued customer, I will also take care of the $10 charge for you."
+C,,,I mean that's great.
+A,Problem Resolution,Positive,So let me just process the reversal real quick okay and it's done so let me just recap everything we have talked about the $10 charge.
+A,Problem Resolution,Positive,I have added a data plan of 10 gigs to your account so that's going to be $5 more in addition to the $25 that you are already paying every month and the $10 charge for this billing period was already reversed.
+C,,,"It's strictly appreciated, thank you."
+A,Problem Resolution,Positive,You're welcome and just to let you know you can also check your data usage by texting data to 777.
+A,Closure,Positive,"So, have I addressed all your concerns today?"
+C,,,Yes you have.
+A,Closure,Positive,Well it's been my pleasure to assist you Francis.
+A,Closure,Positive,"Once again, my name is Rhea."
+A,Closure,Positive,Thank you for calling Sprite and hope you have a great day
+C,,,"Do the same, bye bye."
+A,Greetings,Positive,Thank you for calling Life Member Services.
+A,Greetings,Positive,This is Raya.
+A,Greetings,Positive,How can I help you today?
+C,,,I have a question about something I received in a mail.
+A,Engagement,Positive,"Sure, I'll be glad to assist you with that mail."
+A,Problem Investigation,Positive,Can you please tell me more about the mail you received?
+C,,,"Well you see it's like this: a couple weeks ago, I was involved in an accident and I was rushed to hospital but I feel better now anyways."
+C,,,I was under the impression that my insurance or you guys will cover the whole bill but this paperwork says something else.
+A,Engagement,Positive,I am sincerely glad to know that you're all good now.
+A,Problem Investigation,Positive,I will be happy to check your account so that I can help you better.
+A,Account Verification,Positive,May I have your complete name and member ID?
+C,,,"Peter Porter, ID Number is 6757897."
+A,,,Thank you Peter.
+A,Account Verification,Positive,How about your date of birth and address?
+C,,,It's May 12 85. 
+C,,,"321, First Street, LA."
+A,Engagement,Positive,Thank you.
+A,Problem Investigation,Positive,"Let me check your account real quick, ok?"
+C,,,Ok.
+A,Problem Investigation,Positive,"I've been checking here Peter, it shows that a claim for $1000 was paid last week that was August 12 and that it says that it actually covers your entire bill."
+A,Problem Resolution,Positive,"By the way that letter that you received, on the topmost right part, does it say this is not a bill?"
+C,,,Oh well!
+C,,,"Now that you mention it, it does say this is not a bill."
+A,Problem Resolution,Positive,"Ok, that's good to know because what you have there is an EOB or an explanation of benefits."
+A,Problem Resolution,Positive,It should show the breakdown of the charges and the amount that we your insurance paid for.
+A,Problem Resolution,Positive,"So you see every time a claim is processed, you will get that information for transparency see and I truly apologize for the confusion that this letter has cost you."
+C,,,Ah see.
+C,,,That's good because you know I still have some medicine to buy and the last thing that I want right now is to pay another bill.
+A,Problem Resolution,Positive,I know I understand I'm glad to clear things up for you and again no need to worry about the hospital bill we took care of it for you.
+A,Engagement,Positive,"Just take care of yourself, okay?"
+C,,,"Well, okay."
+C,,,Thank you so much.
+A,Closure,Positive,Have I addressed your concerns today?
+C,,,Yes. you have. Oh I'm just happy everything is paid for.
+A,Closure,Positive,"Yes, it is."
+A,Closure,Positive,"Well Peter, if there's nothing else, thank you so much for choosing Life Member Services."
+A,Closure,Positive,You take care and I'm wishing for your speedy recovery
+C,,,Thank you.
+A,Greetings,Positive,Great day here at Amazing Flowers.
+A,Greetings,Positive,This is Rael.
+A,Greetings,Positive,Would you like to place an order?
+C,,,"Yeah, I'd like to place an order for a bouquet of red and white roses."
+A,Engagement,Positive,I'll be happy to order the bouquet for you.
+A,Account Verification,Positive,Can I have your name please?
+C,,,Amanda Bynes
+A,Engagement,Positive,Thank You Amanda.
+A,Problem Investigation,Positive,"So, just to confirm your order is a bouquet of red and white roses that's going to be $45."
+A,Problem Resolution,Positive,Would you like to add a pack of Hardy chocolates?
+A,Problem Resolution,Positive,You only need to add seven dollars more for that.
+C,,,Okay sounds good.
+C,,,"Yes sure, I'll get that."
+C,,,Will it be delivered by tomorrow?
+A,Problem Resolution,Positive,"Since it's already after the cutoff of orders, the package will be delivered the next day, Wednesday."
+C,,,"Okay, that's fine!"
+A,Engagement,Positive,Perfect.
+A,Account Verification,Positive,Can I please have the name and a shipping address for the order?
+C,,,Diana Ross.
+C,,,"Her address is seven eight nine, North Henderson Road, Philadelphia PA and the zip code is one nine four zero six."
+A,Engagement,Positive,Thank you.
+A,Problem Resolution,Positive,"Would you like to charge that on Visa, Mastercard or American Express?"
+C,,,"Visa, the number is 4293465436245682."
+A,Account Verification,Positive,"Thank you, and, the expiration date and CVV code please."
+C,,,Expiration date is January 2020 and the CVV code is  458.
+A,Account Verification,Positive,"Alright and, can I have the billing address of your card please?"
+C,,,"Sure, it's 3421, 4th avenue, Sacramento California 94235."
+A,Engagement,Positive,Thank You Amanda.
+A,Account Verification,Positive,"All I need now, is the email address for the order and your mobile number and we're all set."
+C,,,That's missamandabynes@gmail.com.
+C,,,My number is 3103450984.
+A,Problem Resolution,Positive,Let me repeat that.
+A,Problem Resolution,Positive,That's miss Amanda Bynes.
+A,Problem Resolution,Positive,That's M I S S A M A N D A B Y N E S.
+A,Problem Resolution,Positive,"So that's Miss Amanda Bynes, your first name and your last name @ gmail.com and number is 3 1 0 3 4 5 0 9 8 4."
+A,Problem Resolution,Positive,Is that right?
+C,,,That's right.
+A,Problem Resolution,Positive,Right so your order has been processed.
+A,Problem Resolution,Positive,That's one bouquet of red and white roses with one pack of hardy chocolates.
+A,Problem Resolution,Positive,That's a total of $52.
+A,Problem Resolution,Positive,It will be delivered this on Wednesday and you will receive an electronic receipt to your email address and a notification to your mobile.
+A,Problem Resolution,Positive,"And, today is the last day of free shipping, so it's good that you will not have to pay a delivery fee at all."
+A,Closure,Positive,Do you have any questions for me?
+C,,,No more.
+C,,,Thank you.
+A,Closure,Positive,My pleasure.
+A,Closure,Positive,Thank you so much for your order Amanda.
+A,Closure,Positive,Have a great evening.
+A,Greetings,Positive,"Hello, Good Morning."
+A,Greetings,Positive,Thank you for calling PLDC customer service.
+A,Greetings,Positive,This is Christine speaking.
+A,Greetings,Positive,How may I help you?
+C,,,You just got off my internet connection and this is not the first time this happened.
+C,,,How is that you're getting my money and you're cutting me off?
+A,Engagement,Positive,I appreciate that you bring this to out attention sir And sorry for the inconvenience sir.
+A,Problem Investigation,Positive,"I understand that it is very frustrating and to work out on your problem about the abrupt disconnection, is that right sir?"
+C,,,"Yes,you just disconnected me."
+C,,,That's what I said.
+,,,"Okay sir, so I'll check our system to see what I can do."
+A,Account Verification,Positive,"But first, give me your account number sir."
+C,,,"Okay, my account number is 4451147619."
+A,Account Verification,Positive,"Okay sir, I got it and for verification you will need your name and your birthday"
+C,,,"I am Matthew Sobremonte and I am born on November 1, 1999."
+C,,,"And, yes I am the account holder."
+A,Problem Investigation,Positive,"Thank you, just a minute sir,  I'll just look at our data."
+A,Problem Investigation,Positive,"According to our system's data, that you did pay your last bill, last February 5 which was 2 days ago in one of our affiliated payment centers."
+A,Problem Investigation,Positive,"Unfortunately sir, when you pay through that affiliated center, it takes about three to five business days more to complete the payment processing so that means that the system conceded the payment as still pending and not completed yet."
+A,Problem Investigation,Positive,"So, the connection has been cut off. But."
+C,,,Are you kidding me?
+C,,,I need it as soon as possible.
+A,Engagement,Positive,I understand that your situation is very tough right now.
+A,Problem Resolution,Positive,"Since you did pay for your connection, what I can do is to open a ticket or submit a report so that the other department can immediately complete your payment and reconnect your internet as soon as possible. "
+A,Account Verification,Positive,"And to make it possible sir, I just need your payment ID."
+C,,,Okay so my payment ID is 19216811.
+C,,,Did you get it?
+A,Engagement,Positive,"Yes sir, thank you."
+A,Problem Resolution,Positive,I am now doing the report and will submit it as soon as I finish this.
+A,Engagement,Positive,Please stay online for a minute Mr. Sobremonte.
+C,,,"Okay I will, thank you."
+A,Problem Resolution,Positive,"Hello sir, kindly expect to have your reconnection within 24 hours."
+A,Problem Resolution,Positive,We will send you a text message informing that you have already paid and connected to the internet service to your phone number.
+C,,,Thank God for that!
+C,,,I am furious because I really need internet connection.
+A,Engagement,Positive,"Again sir, I'm terribly sorry."
+A,Closure,Positive,Is there anything else I can help you with sir?
+C,,,I don't need anything else.
+A,Closure,Positive,"If none, thanks for calling and don't hesitate to call again if ever you'll have a problem with your connection."
+A,Closure,Positive,Have a great day sir.
+C,,,Okay thank you.
+A,Closure,Positive,Bye.
+A,Greetings,Positive,Thank you for calling Martha's flowers.
+A,Greetings,Positive,How may I assist you?
+C,,,"Hello, I'd like to order flowers and I think you have what I'm looking for."
+A,Engagement,Positive,I'd be happy to take care of your order.
+A,Account Verification,Positive,May I have your name please?
+C,,,Randall Thomas
+A,NA,,Can you spell that for me?
+C,,,"Randall R A N D A L L, Thomas T H O M A S"
+A,Engagement,Positive,Thank you for that information Randall.
+A,Account Verification,Positive,May I have your home or office number area code first?
+C,,,4 0 9 8 6 6 5 0 8 8
+A,NA,,That's 4 0 9 8 6 6 5 0 8 8.
+A,Account Verification,Positive,Do you have a fax number or email address?
+C,,,randall.thomas@gmail.com
+A,Account Verification,Positive,May I have your shipping address?
+C,,,"800, Gladys Avenue, Beaumont, Texas. Zip Code is 77706"
+A,Engagement,Positive,Thank you for the information.
+A,Problem Investigation,Positive,What product are you interested in purchasing?
+C,,,"Red roses, probably a dozen."
+A,Problem Investigation,Positive,"A dozen of red roses, do you want long stems?"
+A,Problem Resolution,Positive,"Alright Randall, let me process your order. One moment please."
+A,Problem Resolution,Positive,Okay Randall. we are ordering one dozen of long-stemmed red roses.
+A,Problem Resolution,Positive,The total of your orders is $40 and it will be shipped to your address within 24 hours.
+C,,,When will you be delivering my roses again?
+A,Problem Resolution,Positive,Within 24 hours.
+C,,,"Okay, no problem."
+A,Closure,Positive,Is there anything else I can help you with?
+C,,,"That's all for now, thanks."
+A,Closure,Positive,No problem Randall.
+A,Closure,Positive,Thank you for calling Martha's Flowers.
+A,Closure,Positive,Have a nice day.
+A,Greetings,Positive,Thank you for calling to Delonix.
+A,Greetings,Positive,This is Nina speaking.
+A,Greetings,Positive,How can I help you today?
+C,,,"Hi, I'm just in your website and I know you've got a special on your seventeen spotlights and I wanted to place in an order if there's still available place."
+A,Engagement,Positive,Sure. I will be happy to assist you.
+A,Account Verification,Positive,Can I start with your name please?
+C,,,Jeremy Logan.
+A,Problem Investigation,Positive,Thank you Mr. Jeremy and did you want the invoice made out in your name or your company name?
+C,,,My name is fine.
+A,Account Verification,Positive,"Okay, no problem and can I get the delivery address please?"
+C,,,"It's 123, Blue Ridge Crescent, Bonneville, 2106, NSW."
+A,Engagement,Positive,Thank You Mr. Logan.
+A,Account Verification,Positive,And do you have an email address so I can send your receipt and online tracking too?
+C,,,"Yes, it's jeremymorgan@gmail.com."
+A,Problem Investigation,Positive,"Great, now 217 spotlights are available in 35 watts or 55 watts, which one do you want?"
+C,,,The 55 watts ones please.
+A,Problem Investigation,Positive,All right and do you know what colour temperature you want for the vaults?
+C,,,"Yeah thinking that 6000k ones, that's the bluish colour right?"
+A,NA,,Yes 6000k is slight white which is a blue tinge.
+A,Problem Investigation,Positive,"Okay, Thank you, now, for the postage, we have registered post or express post."
+A,Problem Investigation,Positive,Which one are you interested in?
+C,,,How much are each please?
+A,Problem Resolution,Positive,"Sure, registered post is $12.45 and the delivery time is 3 to 5 business days or express post is $18.85 and delivery time is 1 to 2 days."
+C,,,"Okay, I'll take the Express post."
+A,Account Verification,Positive,"Great, so all I need now is your visa or MasterCard details please?"
+C,,,Okay it's a Visa card and the number is 43211234567821234.
+A,Problem Resolution,Positive,And the expiry please?
+C,,,1/10/2014.
+A,Engagement,Positive,Thank you for that.
+A,Account Verification,Positive,"And, can you also grabbed the security number on the card?"
+A,Problem Resolution,Positive,It's the last 3 digits on the back of the card.
+C,,,"Yeah, that would be 123."
+A,NA,,"Great, let me just repeat those details to you."
+A,Problem Resolution,Positive,"It's a Visa card number 43211234567821234, expiry 10/14 and CCV is 123."
+C,,,Yep.
+A,Engagement,Positive,"Okay great, thank you Mr. Logan."
+A,Problem Resolution,Positive,"So we have one pair of seven-inch spotlights and 55 watt 6000k going to Jeremy Logan at 123, Blue Ridge Crescent, Bonneville, 2106, NSW and that will be shipped out today."
+C,,,Perfect.
+A,Problem Resolution,Positive,"Once your order has been shipped, Jenny will email your online tracking number but you should receive your order before 12 o'clock tomorrow, Sydney time."
+C,,,Right.
+A,Closure,Positive,Is there anything else that I can help you with Mr. Logan?
+C,,,"Oh that's fine, thank you."
+A,Closure,Positive,You're welcome and thank you very much for choosing Delonix and enjoy the rest of your afternoon.
+C,,,You too.
+A,Closure,Positive,"Thank you, bye."
+A,Greetings,Positive,Thank you for calling Amazon customer services.
+A,Greetings,Positive,This is Georgina.
+A,Greetings,Positive,How can I help?
+C,,,"Hi Georgina, this is Brian."
+C,,,I'm calling because I haven't received my item yet.
+A,Engagement,Positive,"Hello Brian, I'm really sorry if you haven't received your parcel."
+A,Engagement,Positive,"No worries, since you have me on the line, I'll be more than willing to assist."
+C,,,Oh okay.
+A,Account Verification,Positive,"Alright, for security purposes, can I have the complete name on the account?"
+C,,,"Sure, it's Brian Johnson."
+A,Account Verification,Positive,"Okay, can I also have your email address?"
+C,,,"Sure, it's brian205@yahoo.com."
+A,Engagement,Positive,Thanks for verifying those information to me.
+A,NA,,Let me proceed to your account.
+A,Problem Investigation,Positive,"It seems that you are referring to Meets Attack 500x5, am i right?"
+C,,,"You've got it right, Georgina."
+A,Problem Investigation,Positive,"Cool, based on the information here yeah, it already passed the estimated delivery date."
+A,Problem Resolution,Positive,"It is quite late for a week already. Since the item is shipped and sold by amazon, we can process a full refund or a replacement."
+A,Problem Resolution,Positive,Which one would work for you?
+C,,,I really wanted to get the item as soon as possible.
+C,,,I chose the free shipping to save shipment fees.
+C,,,"However, I didn't expect that it will come later than expected."
+A,Engagement,Positive,I'm really sorry for the inconvenience Brian.
+A,Problem Resolution,Positive,"To compensate, I can request a refund for that order and process a replacement right now."
+A,Problem Resolution,Positive,"Then, expedited to one day shipping without additional cost for the shipping."
+C,,,"Really, you can do that for me?"
+A,NA,,"Yes, of course."
+A,Problem Resolution,Positive,Let me process your order.
+A,NA,,One moment please.
+C,,,"Thanks, please take your time."
+C,,,May I know how in the world can I receive my refund?
+A,Problem Resolution,Positive,"Brian, the refund was already requested."
+A,Problem Resolution,Positive,Expect to receive the refund within two to three business days.
+A,Problem Resolution,Positive,It will be credited back to the original payment method you use in placing the order.
+A,Problem Resolution,Positive,"Also, I've already processed the replacement you can have the item by today until tomorrow."
+A,Problem Resolution,Positive,Then the confirmation regarding our conversation will be sent to your account.
+A,Engagement,Positive,"If you want, I can also help you track your order and reach you back tomorrow just to make sure that you are receiving the item within the expected date."
+C,,,Yes please.
+A,Account Verification,Positive,"Great, can I have your phone number?"
+C,,,"Sure, it's 3143463534543."
+A,Engagement,Positive,"Got it, thanks."
+A,NA,,Expect my call tomorrow.
+C,,,I will.
+A,Closure,Positive,"Aside from this, is there anything else that I can help you with?"
+C,,,"No, you're doing great great."
+C,,,I really appreciate it.
+A,Engagement,Positive,"Thank you, Brian."
+A,Closure,Positive,I think we are all set.
+A,Closure,Positive,"For other queries, feel free to visit our help pages."
+A,Closure,Positive,Thank you for calling amazon and have a nice day.
+C,,,"Thank you so much, goodbye."
+A,Greetings,Positive,Thank you for calling Rex Global customer service.
+A,Greetings,Positive,This is Megan. 
+A,Greetings,Positive,How can I help you?
+C,,,"Hi Megan, I'm calling because i was charged a dollar like out of nowhere."
+C,,,What is this a scam?
+C,,,Can you help me or can someone from there explain what's happening?
+A,Engagement,Positive,I am sorry to hear about a dollar charge in your account.
+A,Engagement,Positive,But don't you worry. I can definitely help you with that.
+C,,,Oh okay.
+C,,,"Well, let's see."
+A,Account Verification,Positive,"Alright, Can you start with your name please?"
+C,,,Yeah sure.
+C,,,Max Hermit.
+A,,,Thank you.
+A,Account Verification,Positive,How about your email address?
+C,,,"Yeah, Uh, it's max_hermit001@gmail.com."
+A,,,Thank you.
+A,NA,,Let me proceed to your account.
+A,Problem Investigation,Positive,"Max, when you place your first order, Rex Global contacts your issuing bank to confirm the validity of the payment method."
+A,Problem Investigation,Positive,It is not an actual charge but a one dollar authorisation hold.
+C,,,"Seriously, for how long will it take?"
+A,Problem Resolution,Positive,"Well, it isn't that long, most often, it takes 1 to 2 business days."
+A,Problem Resolution,Positive,The authorisation will be removed from your account once a transaction is already processed.
+C,,,"Oh okay, that's a relief."
+C,,,I mean now I understand.
+C,,,"I appreciate that, thanks."
+A,Engagement,Positive,You're most welcome.
+A,Problem Resolution,Positive,I can also send a confirmation regarding this call for your reference.
+C,,,I appreciate it.
+A,Closure,Positive,"Aside from this, is there anything else that I can assist?"
+C,,,"No, I think we are good."
+C,,,Thanks a lot Megan.
+A,Closure,Positive,I'm really glad to help!
+A,Closure,Positive,"You may also see the help pages for other queries, Max."
+A,Closure,Positive,Thank you for calling Rex Global and have a nice day.
+C,,,You too.
+C,,,Have a good one!
+A,Closure,Positive,Goodbye.
+A,Greetings,Positive,Thank you for calling JP International.
+A,Greetings,Positive,This is Carla.
+A,Greetings,Positive,Can I have your name please?
+C,,,"Hi Carla, I'm Athena."
+A,Greetings,Positive,Hello Athena.
+A,Greetings,Positive,How are you today and how can I assist?
+C,,,I am really frustrated right now.
+C,,,I'm calling because I ordered an item last Monday from your store.
+C,,,I expedited it to two-day shipping just to make sure that i'll be receiving the item on or before Thursday.
+C,,,"It's a birthday present, tomorrow."
+C,,,"Listen y'all, I paid for expedited shipping but i'm not receiving the item for three days already."
+C,,,I need someone who can help explain this to me!
+A,NA,,I understand your.
+C,,,You know what's funny?
+C,,,It was tracked as delivered yesterday.
+C,,,I looked everywhere in the house.
+C,,,It's nowhere to be found.
+C,,,I don't know what y'all are doing.
+C,,,What I'm certain is-this is a scam.
+C,,,"If you can't handle this, let me just talk with the supervisor."
+A,Engagement,Positive,I am really sorry to hear if you haven't received your item for a special event.
+A,Engagement,Positive,Also if it was tracked as delivered although not yet received.
+A,Engagement,Positive,I do understand your frustration right now for this inconvenience but no worries.
+A,Engagement,Positive,Rest assured that this company isn't a scam and I can definitely help you.
+C,,,Okay let's see.
+A,Account Verification,Positive,"Alright, For security purposes can I have your complete name please?"
+C,,,It's Athena Salmnher.
+A,Engagement,Positive,Thank you.
+A,Account Verification,Positive,Can I also have the email address associated with your account?
+C,,,It's athena561@yahoo.com.
+A,Engagement,Positive,Okay thank you.
+A,Account Verification,Positive,How about the last four digits of the order number?
+C,,,Okay i think it's 2341.
+A,Account Verification,Positive,"Got it, so those were man sneaker shoes and an iPhone."
+A,Problem Investigation,Positive,"One second, let me check the details for a while."
+A,Problem Investigation,Positive,"Based on the information, here it was delivered and received."
+A,Account Verification,Positive,To verify could you tell me the shipping address you wanted to ship the parcel?
+C,,,Oh you're wasting my time!
+C,,,"It's in Wilmington, North Carolina."
+A,Problem Investigation,Positive,"Hmm, based on the record here, it seems that the parcel was delivered to the wrong address."
+C,,,Wow! This is terrible.
+C,,,I have to request for a refund away to be processed.
+C,,,The worst part is they have to reorder and expedite it without assurance of having the item tomorrow.
+C,,,Horrible!
+A,Engagement,Positive,"Oh, I understand where you're coming from Athena."
+A,Problem Resolution,Positive,"To compensate, I can process a replacement and expedite in the same day shipping."
+A,Problem Resolution,Positive,You don't have to pay for the shipment.
+A,Problem Resolution,Positive,You just have to wait.
+A,Problem Resolution,Positive,I'll get back to you and notify you once the package shipped out.
+A,Problem Resolution,Positive,I'll be tracking the package and I will check with the carrier just to make sure that it will be delivered in the correct address and within a day.
+A,Problem Resolution,Positive,Would that work for you?;
+C,,,Oh that's very kind of you.
+C,,,I really appreciate it.
+A,Engagement,Positive,No problem.
+A,Problem Resolution,Positive,I've successfully processed a replacement and sent you the confirmation regarding this call as your reference.
+A,Problem Resolution,Positive,Expect to receive the products within a day.
+C,,,Oh my gosh.
+C,,,"Wow, you're amazing!"
+C,,,I really apologise for what I said earlier.
+A,Engagement,Positive,"It's okay, I understand I would feel the same way if I am in your situation."
+A,Engagement,Positive,Thank you for your patience by the way.
+A,Closure,Positive,Anything else that I can help?
+C,,,No No No you're doing great.
+C,,,Everything is fine right now.
+A,Closure,Positive,That's good to hear.
+A,Closure,Positive,I'm glad to help you.
+A,Closure,Positive,"For other concerns, feel free to visit our help pages."
+A,Closure,Positive,Thank you for calling JP  International.
+A,Closure,Positive,Have a nice day.
+C,,,You as well.
+C,,,Thank you so much.
+C,,,Goodbye.
+A,Closure,Positive,Goodbye.
+A,Greetings,Positive,Hi.
+A,Greetings,Positive,Thank you for calling home supplies.
+A,Greetings,Positive,This is Candice.
+A,Greetings,Positive,How may I help you?
+C,,,Order number 123456.
+C,,,Full name Amber Hill.
+A,Engagement,Positive,Thank You.
+A,Problem Investigation,Positive,Give me one moment please so I can pull up your account.
+A,Problem Investigation,Positive,"Okay, I got your order here and it was for a convection oven for 129."
+A,Problem Investigation,Positive,Is this correct?
+C,,,"Yes, correct."
+C,,,Except that you guys sent me a cutting board
+A,Engagement,Positive,Oh I am so sorry.
+A,NA,,That was.
+C,,,No no no no no no. 
+C,,,Let me finish.
+C,,,"Don't give me your story for this inconvenience bullshit, because this is not an inconvenience Candice."
+C,,,This is a disaster.
+C,,,I am upset.
+C,,,I waited one long week.
+C,,,One long week and you guys sent me a cutting board.
+C,,,"I mean, how would you even explain that Candice?"
+C,,,How could you even explain that someone from your shipping department could mistake a piece of cutting board for an oven?
+C,,,That's what i'd like to know because I can see how it's my son's birthday this Thursday and I need that oven to bake his cake.
+C,,,It is now Monday and I have no oven but hey I guess that's okay right because I have a fucking cutting board.
+A,Engagement,Positive,"Amber, I truly understand how frustrating this is for you."
+A,Engagement,Positive,"I truly do, I do."
+A,Problem Investigation,Positive,I know that our shipping department tries to their best to keep the orders as accurate as possible but on very rare occasions this kind of mistake happens from time to time.
+A,Engagement,Positive,And I am so sorry that this happened to you.
+A,Problem Investigation,Positive,"Of course, this is not an excuse and a mistake is a mistake."
+A,Problem Resolution,Positive,"And right now, what I can do is to help you resolve this issue."
+C,,,"Well, they shouldn't have done that to me."
+C,,,It's for my son's birthday and a cutting board for an oven?
+C,,,"I mean, I mean I can understand if you sent me an oven with the wrong model number but a cutting board?"
+C,,,"Seriously, I don't know about you but this smells like a practical joke to me."
+A,Problem Resolution,Positive,I assure you amber what happened was an honest mistake.
+A,Problem Resolution,Positive,We would never do that to our customers on purpose.
+A,Problem Resolution,Positive,"Of course, you really should have received precisely what you ordered and we failed on that and for that I am truly sorry."
+A,Problem Resolution,Positive,The best thing that i can do for you now is to make sure that this gets resolved as soon as possible.
+C,,,"Well. I don't really have a choice, do I?"
+C,,,So get on with it.
+A,NA,,"Okay so if i heard you right, your son's birthday is this coming Thursday right?"
+C,,,"Yes, that's right."
+A,Problem Resolution,Positive,Alright here's what I'm gonna do.
+A,Problem Resolution,Positive,"Because you received the wrong item, I will request to have the correct item sent out to you within 24 business hours."
+A,Problem Resolution,Positive,"So if we send it to you today, you should receive the oven before your son's birthday on Thursday."
+A,Problem Resolution,Positive,All I need from you to make that happen is the photo of the wrong item you received along with a photo of the barcode.
+A,Problem Resolution,Positive,Is it possible that you could send to me while we're on the line so I could already process the reshipment for you?
+C,,,I can send you the photo but um let me ask you this.
+C,,,What guarantee do I have that your company is not gonna mess up again?
+C,,,Because my purpose really for calling you guys is to just get a refund.
+C,,,I really just want to order from amazon because they have a one-day shipping.
+C,,,"Uh no offence Candice, but because of what you sent to me, I'm just not confident enough with your company anymore."
+A,Problem Resolution,Positive,Good point Amber and I understand your doubt.
+A,Problem Resolution,Positive,"But, when we encounter this kind of issue where a customer receives a damaged item or as in your case a wrong item, we always make sure to handle the matter with extra care so there will be no second mistake."
+A,Problem Resolution,Positive,No chance for a second mistake happening.
+A,Problem Resolution,Positive,"So, that is why aside from the 24 hour shipping, we will also do a thorough recheck of the reshipment."
+A,Problem Resolution,Positive,"So, I can definitely assure you that it's going to be the correct item this time."
+C,,,Well okay.
+C,,,I guess I'm just gonna have to give you another shot.
+C,,,So where do I send the photos to?
+A,NA,,You can send it to support@homesupplies.com.
+C,,,"Okay hold on, let me go get my phone because I already took a photo of the cutting board yesterday so I should have it on my phone right here."
+C,,,Hold on.
+C,,,"Okay, uh so that's support@homesupplies.com."
+C,,,Okay sent.
+C,,,Can you see it?
+A,NA,,"Okay, let me check."
+A,NA,,"Okay yes, I got it."
+A,Problem Resolution,Positive,"Um, by the way Amber, do you also have the photo of the barcode of the cutting board?"
+C,,,Is that really necessary?
+C,,,I'm not lying.
+A,Problem Resolution,Positive,"Yes Amber, I would need it to have your reshipment approved as soon as possible."
+A,Problem Resolution,Positive,"After that, we will ship the oven to you immediately and you should receive it within 24 hours."
+C,,,Okay let me go upstairs and take a photo.
+C,,,Can you hold?
+A,NA,,"Sure, take your time."
+C,,,"Hello, are you there?"
+C,,,"Yes Amber, I'm here."
+C,,,I've sent it
+C,,,Did you get it? 
+A,NA,,Yes i got it.
+A,Problem Resolution,Positive,"Um so now, I will forward the photos to the reshipment team and you should receive the oven tomorrow."
+A,Problem Resolution,Positive,"About the cutting board you received, you don't have to return it."
+A,Problem Resolution,Positive,Um just feel free to keep it keep it or give it away.
+C,,,"Oh good, I totally forgot to ask you about that."
+C,,,So thank you Candice.
+C,,,I really don't want to drive to the post just to return that.
+C,,,"So alright, um I guess it's all good then."
+C,,,All settled.
+A,Problem Resolution,Positive,"Yeah, yes all you have to do now is to wait for the replacement to arrive tomorrow."
+A,Problem Resolution,Positive,And we will take care of everything and again we are so sorry for this mistake.
+C,,,"Well. As long as the oven arrives tomorrow, I am happy."
+C,,,Thank you Candice.
+C,,,You've been very patient.
+A,Engagement,Positive,You're most welcome Amber.
+A,Closure,Positive,Is there anything else that I can help you with today?
+C,,,No that's all.
+C,,,You have a great day Candice.
+A,Closure,Positive,"Bye, have a great day Amber."
+A,Closure,Positive,Thank you for calling home supplies.
+C,,,Bye.
+A,Greetings,Positive,Hi.
+A,Greetings,Positive,Thank you for calling Power Up company.
+A,Greetings,Positive,This is Candice.
+A,Greetings,Positive,How may I help you?
+C,,,Hi Candice.
+C,,,So I'm calling because you guys overcharged me.
+C,,,"Um my subscription to you guys is supposed to be a flat rate 30 dollar per month but for some reason, I am seeing 33 on my paper bill for the month of July so I don't know what's going on."
+C,,,I would really appreciate an explanation on this.
+A,Engagement,Positive,"Sure, I'll be happy to pull up your account now and check the billing details for you."
+A,Account Verification,Positive,Can I have your account number together with your first and last name?
+C,,,"Sure, it's 12345 and my full name is John Williams."
+A,Engagement,Positive,Thank you John.
+A,Engagement,Positive,Just give me a few seconds to pull up your account.
+A,Problem Investigation,Positive,"It was for the month of July this year, right?"
+C,,,July 2020.
+C,,,That's right.
+A,NA,,Okay let me see that.
+A,Problem Investigation,Positive,"Okay, I have your account pulled up now and I'm only seeing a 30 charge for the month of July this year."
+A,Problem Investigation,Positive,Could you recheck your bill and review the amount?
+C,,,"No, that can't be right."
+C,,,I am literally holding my bill right now and it says July.
+C,,,And it says 33 dollars in big bold letters.
+C,,,"So, maybe the charge was moved to June or August."
+C,,,I don't know.
+C,,,All I know is that you're overcharging me and it's written on my paper bill.
+A,NA,,Yes John.
+A,Problem Investigation,Positive,"I also checked your other month's charges this year from January to July 2020 and all of these months, you were only charged 30."
+A,Problem Investigation,Positive,Let me just check further though your last year.
+A,Problem Investigation,Positive,"Oh, although I am seeing a 33 dollar charge here but this was way back last year on July 2019."
+A,Problem Investigation,Positive,Would you mind checking the year of the billing paper you're holding right now?
+C,,,"Oh, Oh my god Candice."
+C,,,I'm so so sorry to have wasted your time.
+C,,,I really thought this was a recent bill.
+A,Engagement,Positive,"No, don't worry about it John."
+A,NA,,You're fine.
+C,,,This bill was literally on my table this morning.
+C,,,I must have dropped it when I was throwing garbage this morning.
+C,,,So embarrassing.
+C,,,My bad.
+A,NA,,"Oh no problem, It happens."
+A,NA,,I mean it happens to all of us you know.
+C,,,I know right.
+C,,,"Anyway Candice, I won't waste any more of your time and thank you so much for your patience."
+A,Engagement,Positive,You're welcome John.
+A,Closure,Positive,Is there anything else that I can help you with today?
+C,,,Maybe no.
+C,,,I won't waste any more of your time.
+C,,,That's all Candice.
+C,,,Have a good one.
+A,Closure,Positive,Have a good one John.
+A,Closure,Positive,Thank you for calling Power Up.
+A,Closure,Positive,Bye.
+C,,,Bye Candice.
+A,Greetings,Positive,Thank you for calling Coats and Gowns.
+A,Greetings,Positive,My name is Sam.
+A,Greetings,Positive,How can I help you?
+C,,,Oh yes.
+C,,,"Um, I bought a coat from from you guys but I need to return it because it was the wrong size and my size is not available."
+C,,,I haven't received any email from you and I wonder if my payment is gonna get refunded.
+C,,,It seems like it does not reflect on my account yet.
+A,Engagement,Positive,I do apologize for the inconvenience but let me go ahead and check if there are some notes and order details.
+A,Account Verification,Positive,May I ask for the original online order number?
+C,,,"Okay, let me see."
+C,,,"Alright, Please wait for a moment."
+C,,,"Okay, I believe it's 01714257893."
+A,Engagement,Positive,Thank you.
+A,NA,,"Just to verify, that's 01714257893."
+C,,,"Yes, that's right."
+A,Engagement,Positive,I do apologize but the one that you provided is actually not accepting towards our database.
+A,Account Verification,Positive,Do you actually have a number that starts with triple 0 7 or 7?
+A,Account Verification,Positive,"Or, can I ask for your first and last name so I can manually check it in our database?"
+C,,,Yeah. I'm not sure about a triple 0 something.
+C,,,"In a way, it's Adam Wilson."
+A,Engagement,Positive,"Alright, thank you so much Wilson."
+A,NA,,"This is spelled as W for whiskey, I for India, L for Lima, S for Sierra, O for Oscar, and N for November."
+A,NA,,Is that correct Adam? 
+C,,,"Alright, thank you for that information."
+A,Account Verification,Positive,"Okay, let me just quickly look into a portal and check any notes in your order."
+A,Problem Investigation,Positive,Do you still have the return tracking from the courier company when you returned the item?
+C,,,Not sure.
+C,,,Is it the 74391?
+A,Problem Investigation,Positive,That's actually the return authorization from Coats and Gowns.
+A,Problem Investigation,Positive,"When you returned the item to the courier company for shipping, this should have provided you with the return tracking."
+A,Problem Investigation,Positive,Do you still have that?
+A,Problem Investigation,Positive,It's actually printed in the upper right part of the receipt.
+C,,,"Okay, I probably have to take it up okay."
+C,,,I imagine I have it somewhere but it might take some time to look for that.
+A,NA,,"Oh, I see."
+A,Problem Investigation,Positive,"Anyway, I tried to search for your name and nothing is coming up."
+A,Account Verification,Positive,Can I ask for the order under your name originally?
+C,,,Yeah yes under my name.
+C,,,So it's not under Andy or something.
+A,NA,,It's Adam.
+C,,,Yeah exactly.
+A,Engagement,Positive,Thank you.
+A,Account Verification,Positive,Now what's the phone number that you put into order before?
+C,,,Okay probably it's 4113450377.
+A,Engagement,Positive,Thank you.
+A,NA,,"Just to make sure, it's 4113450377."
+A,NA,,Is that correct?
+C,,,Oh 0377.
+A,Account Verification,Positive,Okay and what's the email address that you gave when you filled out the order form?
+C,,,"Okay, that should be adam_wilson@millfence.com."
+A,Engagement,Positive,Thank you.
+A,NA,,"So again, it's adam_wilson@millfence.com."
+A,NA,,Is that correct?
+C,,,"Yes, it is."
+A,Engagement,Positive,Thank you.
+A,NA,,So Adam_wilson@millfence.com.
+A,Engagement,Positive,"Okay, thank you."
+A,Problem Investigation,Positive,Now I just want to make sure that I have the correct details.
+A,Engagement,Positive,Please hold on for a moment.
+A,Problem Investigation,Positive,I will check on the details here on my end.
+A,Engagement,Positive,Okay?
+C,,,"Sure, no problem."
+A,Engagement,Positive,"Alright, okay, thank you for patiently waiting Adam. "
+A,Problem Investigation,Positive,Now I can actually see here that you have called the quality informers that you'd like to return the item on the 15th of November.
+A,Problem Investigation,Positive,Is that correct?
+A,Problem Investigation,Positive,"Yes, now did you return the item to company in the same day that you called?"
+C,,,Probably close to it.
+C,,,I'm not really sure if it's on the same day though.
+C,,,But probably just close to that day.
+A,Engagement,Positive,I understand.
+A,Problem Resolution,Positive,"However, I've been checking the date that you actually called in for the return."
+A,Problem Resolution,Positive,It's already beyond the timeframe that we ask for refunds.
+A,Problem Resolution,Positive,So what we'll do is I'll go ahead and forward this information to our corporate office and I'll have them check and update you directly about the refund.
+A,Problem Resolution,Positive,"So, please expect an email within 2 to 4 business days."
+A,Engagement,Positive,Is that okay with you?
+C,,,2 to 4 business days?
+A,NA,,"Yes, no worries I will send it to to them right now."
+C,,,Alright Alright.
+C,,,"First, I thought that it will probably be like 3 to 5 weeks to process."
+A,Problem Resolution,Positive,Oh no no no don't don't worry Adam it's only 2 to 4 business days.
+A,Problem Investigation,Positive,"So, you already checked your account and nothing has been credited yet in the card ending in 753."
+A,Problem Investigation,Positive,Is that right?
+C,,,Nothing yet.
+A,Problem Resolution,Positive,Okay I understand and I'll go ahead and forward them the details that I have here.
+A,Problem Resolution,Positive,"So I'll send the email to adam_wilson@millfence.com, correct?;"
+C,,,Yes it's right.;
+A,Engagement,Positive,"Alright, thank you so much for that information, Adam."
+A,Closure,Positive,I will be forwarding this over to our corporate office and thank you again for calling Coats and Gowns.
+A,Closure,Positive,Is there anything else I can help you with today?
+C,,,"No no, that's all, thank you."
+A,Closure,Positive,You're welcome and my pleasure.
+A,Closure,Positive,Have a nice day.
+A,Closure,Positive,Bye.
+C,,,"Alright, thank you."
+A,Greetings,Positive,Thank you for calling Nissan.
+A,Greetings,Positive,My name is Lauren.
+A,Greetings,Positive,Can I have your name?
+C,,,My name is John Smith.
+A,Engagement,Positive,Thank you John.
+A,Greetings,Positive,How can I help you?
+C,,,I was just calling about to see how much it would cost to update the map in my car.
+A,Engagement,Positive,I'd be happy to help you with that today.
+A,Account Verification,Positive,Did you receive a mailer from us?
+C,,,I did.
+C,,,Do you need the customer number?
+A,NA,,Yes please.
+C,,,"Okay, it's 15243."
+A,Engagement,Positive,Thank you.
+A,Account Verification,Positive,"And, the year making model of your vehicle?"
+C,,,"Yeah, I have a 2009 Nissan Altima."
+A,NA,,Oh nice car.
+C,,,"Yeah, thank you."
+C,,,We really enjoy it.
+A,Account Verification,Positive,"Okay, I think I found your profile here."
+A,Account Verification,Positive,Can I have you verify your address and phone number please?
+C,,,"Yes, it's 1255, North Research Way. That's in Orem Utah, 84097."
+C,,,"And, my phone number is a 014311000."
+A,Problem Investigation,Positive,"Thanks John, I located your information the newest version we have available for your vehicle is version 7.7 which was released in March of 2012."
+A,Problem Investigation,Positive,The price of the new map is $99 plus shipping and taxes.
+A,Problem Resolution,Positive,Let me go ahead and set up this order for you.
+C,,,"Well, can we wait just a second?"
+C,,,I'm not really sure if I can afford it right now.
+A,Problem Resolution,Positive,"Alright, well here are a few reasons to consider purchasing today."
+A,Problem Resolution,Positive,It looks as though you haven't updated your vehicle for three years.
+A,Problem Resolution,Positive,"So, that would be the equivalent of getting three years worth of updates for the price of one."
+A,Engagement,Positive,Okay?
+A,Problem Resolution,Positive,"In addition, special offers like the current promotion don't come around too often."
+A,Problem Resolution,Positive,I would definitely recommend taking advantage of the extra $50 off before it expires.
+C,,,"Yeah, that does sound pretty good.;"
+A,Problem Resolution,Positive,"If I set this order up for you now , it'll ship out today and for $50 less"
+A,Problem Resolution,Positive,Do you have your credit card handy and I can place this order for you now?
+C,,,Yeah.
+C,,,Let's uh you know let's let's go ahead and use my visa card.
+C,,,My number is 467895018679.
+A,Engagement,Positive,Thank you John.
+A,NA,,Let me repeat that: 467895018679.
+A,,,Am I correct?
+C,,,"Yeah, you got it."
+A,Problem Resolution,Positive,Let me process that for you John.
+C,,,"Yep, all good."
+A,Problem Resolution,Positive,The transaction has been successful.
+A,Problem Resolution,Positive,"Just to repeat, we have upgraded your Nissan Map to the latest version 7.7 at a cost of 99 dollars, all inclusive."
+C,,,"Yeah, thank you for that Lauren."
+A,Closure,Positive,Is there anything else I can help with John?
+C,,,No. Not really.
+C,,,Thank you very much.
+C,,,Have a good day.
+A,Closure,Positive,You too. 
+A,Closure,Positive,Bye.
+A,Greetings,Positive,Thank you for calling South Chicago Southern Cellular service.
+A,Greetings,Positive,This is Robert.
+A,Greetings,Positive,How can I assist you today?
+C,,,"Yes, hi I just received a mail from you guys and the screen is cracked."
+A,Account Verification,Positive,Do you have your phone number so I can pull up your account?
+C,,,I don't remember.
+C,,,I don't normally call myself.
+C,,,Oh here it is 555001223.
+A,NA,,Alright.
+A,Problem Investigation,Positive,"Uhm, I see you've purchased your phone four days ago without mail delivery insurance."
+A,Problem Investigation,Positive,"And, policy states without mail delivery insurance, we can't issue you a replacement."
+C,,,What about the warranty?
+C,,,Doesn't that cover?
+A,Problem Investigation,Positive,"Well, according to your account, you are not paying for standard premium or ultra premium insurance."
+A,Problem Investigation,Positive,"So no, it's policy."
+C,,,Well.
+C,,,Doesn't the phone have one-year manufacturer's warranty?
+A,Problem Investigation,Positive,Well.
+A,Problem Resolution,Positive,"According to policy, I can't help you with that but I can give you the peach phone plus the insurance number."
+A,Problem Resolution,Positive,It's gonna take between six and eight weeks to arrive.
+A,Problem Resolution,Positive,Just give me a minute to sort through this.
+C,,,"No no, I want to know what you can do for me."
+C,,,I don't wanna make this more complicated.
+C,,,"What, according to policy, can you do?"
+A,Problem Resolution,Positive,"Look, without insurance, you have to fix it or buy another phone."
+A,Problem Resolution,Positive,Its 799 plus 30 shipping and not including tax.
+A,Problem Resolution,Positive,It's gonna take between 6 to 8 weeks to arrive.
+C,,,800 dollars.
+C,,,I paid 200 for this one.
+A,NA,,Hold up.
+A,Problem Resolution,Positive,I'm gonna speak with someone that can lower the cost for you.
+A,Problem Resolution,Positive,I'm sorry ma'am I wasn't able to do anything for you about that price.
+C,,,Do you think that I'm stupid?
+C,,,You know what.
+C,,,Forget it.
+C,,,I want to talk to your manager.
+A,NA,,He's sick.
+C,,,"Fine, I'll talk to his manager then."
+A,NA,,Vacation.
+C,,,His Manager?
+A,NA,,Vacation also.
+A,NA,,"Bahamas, I think."
+C,,,"No no, you are not going to pull this."
+C,,,I want to talk to anyone above you.
+A,NA,,"Well, the third shift manager will be in later."
+C,,,"Yeah, what time?"
+C,,,What was your name again?
+A,Problem Resolution,Negative,"Look lady, I already told you my name."
+A,Problem Resolution,Negative,It's Kirk and he'll be in or out 11:30 tonight.
+C,,,You think I'm just gonna wait around till then.
+A,Closure,Positive,Thank you for calling South Chicago Southern Cellular Service.
+A,Closure,Positive,I hope I was able to help you with your issue.
+A,Greetings,Positive,Hello.
+A,Greetings,Positive,This call is from Grey Home Medical.
+A,Greetings,Positive,Calls are recorded for quality purposes.
+A,Greetings,Positive,Is this the residence of Edward Daniels?
+C,,,Yes.
+A,Greetings,Positive,Am I speaking with Edward?
+C,,,Yes.
+A,NA,,Alright Edward.
+A,Problem Investigation,Positive,Your account requires immediate action.
+A,Problem Investigation,Positive,I have an important information about your Grey Home medical account.
+A,Account Verification,Positive,"Due to the sensitive nature of your account information, I will need to verify your identity for security purposes before proceeding."
+A,Account Verification,Positive,Please provide your date of birth.
+C,,,March 18 1988.
+A,Engagement,Positive,Thank you.
+A,Problem Investigation,Positive,Our records indicate that your account with greyhound medical is past due with a balance of 69.33.
+A,Problem Resolution,Positive,You can pay this balance of 69.33 with a credit card.
+A,Problem Resolution,Positive,"If you make a payment today, I can waive the late fee of 20."
+A,Problem Resolution,Positive,Would you like to make a payment for 49.33 today in order to avoid further collection action?
+C,,,"Yes, sure."
+A,Problem Resolution,Positive,"Great you can pay with Discover, Mastercard or Visa."
+A,Problem Resolution,Positive,Do you have a credit card ready for this transaction?
+C,,,Yes.
+A,Problem Resolution,Positive,I've waived the late fee of 20 and you're making a one-time payment for a total of 49.33 and let me confirm that you approved this transaction.
+A,Problem Resolution,Positive,"Yes, I approved it your transaction has been completed and your confirmation number is 845663496."
+A,Closure,Positive,"And, if you have any questions regarding your account."
+A,Closure,Positive,Please call us back at 800 504 3644.
+A,Closure,Positive,Our office hours is 8 a.m to 5 p.m.
+A,Closure,Positive,"Monday to Friday, Central Time."
+A,Closure,Positive,Thank you so much for your time Edward.
+A,Closure,Positive,Have a great day.
+C,,,Thank you.
+A,Greetings,Positive,Thank you for calling.
+A,Greetings,Positive,This is Jeline.
+A,Greetings,Positive,How can I help you today?
+C,,,I'm calling to check the order I placed just this morning.
+C,,,It should be here by 9.00 am but i'm not getting anything yet.
+A,Engagement,Positive,"Oh, I apologise about the delay."
+A,Problem Investigation,Positive,Let me quickly check the status of your order.
+A,Account Verification,Positive,What's your order confirmation number?
+C,,,69
+A,Account Verification,Positive,Thank you and your name and the phone number please?
+C,,,Mary Williams.
+C,,,Area Code:706932199.
+A,Engagement,Positive,Thank you.
+A,Problem Investigation,Positive,"As I've checked on the tracking information, the dispatch time is 8.45 am and our driver is just five minutes away from your place."
+A,Problem Investigation,Positive,"Again, I apologize for the delay Miss Williams and I would like to thank you for your patience as a valued customer of red plate."
+A,Problem Resolution,Positive,Your shipping and handling will be free of charge.
+A,Problem Resolution,Positive,"So, instead of paying 25.99, you only need to pay 23.00."
+A,Engagement,Positive,Okay?
+C,,,Oh thanks.
+A,Closure,Positive,You're most welcome and is there anything else that I can further assist you with today?
+A,Closure,Positive,"Now, that's everything."
+C,,,Thank you so much for your help.
+A,Closure,Positive,"Sure, enjoy your order."
+A,Closure,Positive,Have a good day.
+C,,,You do the same honey.
+C,,,Thank you.
+A,Closure,Positive,Thank you.
+C,,,Bye.
+A,Greetings,Positive,Thank you for calling Ava's Flowers.
+A,Greetings,Positive,This is Jeline.
+A,Greetings,Positive,How can I help you?
+C,,,I like to order flowers and I hope you have what I'm looking for.
+A,Greetings,Positive,"Absolutely, I'm positive that we have what you're looking for."
+A,Problem Investigation,Positive,"So, let me take your order."
+A,Problem Investigation,Positive,What products are you interested in ordering?
+C,,,A dozen of white roses.
+A,Problem Investigation,Positive,One dozen of white roses.
+A,Problem Investigation,Positive,Do you want long stems?
+C,,,Yeah sure.
+A,Problem Investigation,Positive,Would you like to add a pack of Fran's chocolates?
+C,,,That would be great.
+A,NA,,Sure.
+A,Problem Resolution,Positive,"Alright, so your order is one dozen of white roses, $40 and a pack of Fran's chocolates that's $9."
+A,Problem Resolution,Positive,A total of $49 free shipping and handling.
+A,Problem Resolution,Positive,Are you good with these?
+C,,,"Yep, it's perfect."
+A,Account Verification,Positive,"Awesome, let me have your first and last name."
+C,,,"Amanda Cole, thank you. "
+A,Account Verification,Positive,May I have your home or office number?
+A,Account Verification,Positive,Your area code first?
+C,,,Area code 601 409 6969
+A,Engagement,Positive,Thank you.
+A,NA,,That's area code 601 409 6969.
+A,Account Verification,Positive,Do you have an email address?
+C,,,"Yes, it's amandacole49@gmail.com."
+A,Engagement,Positive,Thank you.
+C,,,That's your first and last name: a-m-e-n-d-a c-o-l-e @ gmail.com correct?
+C,,,Yes ma'am.
+A,Account Verification,Positive,May I have the name and the shipping entries for the order?
+C,,,Belinda More.
+C,,,"Her address is 4193, McIntosh Lane, San Antonio, Texas, 78221."
+A,Engagement,Positive,Thank you.
+A,NA,,"Let me confirm that 4193, McIntosh Lane, San Antonio, Texas, 78221."
+A,NA,,Correct?
+C,,,"Yes, you got it right."
+A,Problem Resolution,Positive,"Would you like to use a Visa, Mastercard or American Express for the payment?"
+C,,,Visa.
+C,,,Card number is 5481 2003 3468 5010.
+A,Problem Resolution,Positive,Thank you and the expiration date and cvv code please?
+C,,,Expiration date is January of 2023.
+C,,,CVV code is 486.
+A,Problem Resolution,Positive,"Alright, thank you your order has been successfully processed for a total amount of $49 and it will be shipped within 24 hours."
+A,Closure,Positive,Is there anything else that I can further assist you with today?
+C,,,That's everything.
+C,,,Thank you. 
+A,Closure,Positive,You are most welcome.
+A,Closure,Positive,"Again, thank you so much for calling Ava's Flowers."
+A,Closure,Positive,Have a great day.
+C,,,Thanks.
+C,,,You do the same.
+C,,,Bye.
+A,Closure,Positive,Bye.
+A,Greetings,Positive,Thank you for calling.
+A,Greetings,Positive,My name is Jeline.
+A,Greetings,Positive,May I have your name please?
+C,,,This is Amanda. 
+C,,,How are you?
+A,Engagement,Positive,I'm doing very well.
+A,Engagement,Positive,Thank you so much for asking.
+A,Engagement,Positive,How about you?
+C,,,"Not so good, honey."
+A,Engagement,Positive,"Oh, I hope I can make you feel better today."
+A,Greetings,Positive,How can  help you?
+C,,,"Um, so listen uh Jeline."
+C,,,I can't use my service.
+C,,,I'm in the hospital right now and I need to contact my son so he could help me with my hospital bills.
+C,,,I should be going home in a few days and I need to let him know.
+A,Engagement,Positive,I can only imagine how difficult it is for you not to have a working phone.
+A,Problem Investigation,Positive,"Since you mentioned that you're in hospital right now and you need to get in touch with your son immediately, I'll make sure that I won't let you go unless and until all your services is up and running."
+A,Engagement,Positive,Okay?
+C,,,Thank you so much.
+A,Engagement,Positive,You are welcome.
+A,Problem Investigation,Positive,"And, just in case that we need to do some troubleshooting steps, do you have any alternate number that I can use?"
+C,,,"Yes, it's 419 562 3842."
+A,Account Verification,Positive,"Thank you and to make sure that I'll be looking at the right account, may I know the phone number that you're calling in about?"
+C,,,"Sure, it's 4195624699."
+A,Account Verification,Positive,Thank you so much Amanda and your account security code please?
+C,,,That's a 1031.
+A,Engagement,Positive,Thank you.
+C,,,You are welcome.
+A,Problem Investigation,Positive,"Alright, so as I looked into your account, I've seen that you're in a forty dollar plan that gives you four gigs of data with unlimited calls and text."
+A,Problem Investigation,Positive,And your plan will not expire until the 14th of October.
+A,Problem Investigation,Positive,You've mentioned earlier that you don't have a service right.
+A,Problem Investigation,Positive,So which of your services is not working?
+C,,,The calls only.
+C,,,"I can't call out, I can't receive calls too."
+A,Problem Investigation,Positive,Alright how about sending and receiving messages?
+A,Problem Investigation,Positive,Do you have any problems with those?
+C,,,"No, I'm good with messages, I just received a message from ya'all last night great."
+A,Problem Investigation,Positive,What about your internet?
+C,,,"Well, I uh I think my internet is good."
+C,,,"I can go to my facebook, read my emails so I know it's working."
+C,,,That's perfect.
+A,Problem Investigation,Positive,I just really want to make sure that you don't have any problems with those.
+A,Problem Investigation,Positive,"And, now we just really need to focus on your phone calls."
+A,Problem Investigation,Positive,"So, let me ask you this have you tried doing any basic troubleshooting before you called?"
+A,Problem Investigation,Positive,Like turning off your phone and turning it back?
+C,,,Oh no.
+A,,,"Alright, okay, that's fine."
+A,Problem Investigation,Positive,When was the last time that you were able to make a phone call?
+C,,,Just last night. 
+A,Problem Investigation,Positive,"Okay, is this happening to all of the phone numbers that you're trying to call in?"
+C,,,Yes. It is.
+A,Problem Investigation,Positive,Is this happening in all locations or just one specific location?
+C,,,All locations.
+C,,,"Even if I go outside or in my room, it's the same thing."
+C,,,People can't call me and I can't call them.
+A,Engagement,Positive,"Okay, I know this must be so difficult for you since I know that you need to talk to your family and friends and I thank you for providing me all the necessary information that I need so I can start troubleshooting your phone."
+A,Problem Investigation,Positive,"So right now, can you tell me if your wi-fi is on or off?"
+C,,,Um it's off. 
+A,Engagement,Positive,Thank you.
+A,Problem Investigation,Positive,What about your airplane mode?
+A,Problem Investigation,Positive,Is it on or off?
+C,,,It's uh it's off.
+A,Engagement,Positive,Thank you.
+A,Problem Investigation,Positive,What about your mobile data?
+C,,,It's uh it's on.
+A,Engagement,Positive,"Great, thank you for checking those for me."
+A,Account Verification,Positive,"Now, can you please confirm your ICC ID number or your sim card number?"
+C,,,"Okay, where can I see that?"
+A,Problem Resolution,Positive,You can try to check it on the original box of the phone or your phone settings.
+C,,,"Oh yeah, I still have the box."
+C,,,"Uh, let me look real quick."
+A,Engagement,Positive,Thank you.
+C,,,"Okay,  so uh, it is."
+A,NA,,Oh you can tell me the numbers after the five zeros ma'am.
+C,,,"Oh great, okay."
+C,,,"So, uh because there's a lot of numbers right here, so after the five zeros, I have 4126890633."
+A,Engagement,Positive,Thank you so much.
+A,,,"Let me quickly verify if we have the same ICC ID number on file, okay?"
+C,,,Okay.
+A,NA,,Oh great.
+A,Problem Investigation,Positive,It's the same one and also let me check the coverage in your area.
+A,Problem Investigation,Positive,Are you in Lancaster PA right now?
+C,,,"Yes, I am, thank you."
+A,Problem Investigation,Positive,What's your zip code?
+C,,,It's uh 1717608. 
+A,Engagement,Positive,Thank you.
+A,Problem Investigation,Positive,"Okay, Alright, as I checked, we don't have any problems with the coverage in your area."
+A,Problem Investigation,Positive,It's 4G and no current outages too.
+A,Problem Resolution,Positive,"So, with that being said, let me proceed with the next part of our troubleshooting steps and this time, I will be needing your partnership."
+A,Problem Resolution,Positive,Can you please go to your phone settings?
+C,,,Okay. uh where can I uh check it?
+A,Problem Resolution,Positive,"From your home screen, try to look for a gear icon and below the icon, you'll see the word settings."
+C,,,Alright.
+C,,,"Okay, let me uh look here."
+C,,,"Okay, I found it."
+C,,,"Uh, where should I go?"
+C,,,"I'm uh, I'm on settings now. "
+A,Engagement,Positive,Awesome.
+A,Problem Resolution,Positive,"Now, look for general management."
+C,,,"Okay, got it."
+A,Problem Resolution,Positive,"Alright, so, tap reset."
+C,,,Okay.
+A,NA,,"Alright, great."
+A,Problem Resolution,Positive,"So, before you tap reset network settings, I just want to let you know that this will erase saved wi-fi passwords and bluetooth connections but it won't delete any of your apps or personal data."
+A,Problem Resolution,Positive,Are you okay to proceed?
+C,,,"Yes, I am."
+A,NA,,"Alright, perfect."
+A,Problem Resolution,Positive,"Now, you'll have to confirm that you want to reset your network settings."
+C,,,"Okay, okay, I'm done."
+A,Problem Resolution,Positive,"Great, this time we're almost done with our initial troubleshooting steps and the last thing that I want you to do is to power recycle your phone."
+A,Problem Resolution,Positive,"So, turn it off and wait 10 seconds, power it on then we'll test it."
+A,Engagement,Positive,Okay?
+A,Problem Resolution,Positive,Let me call you on your alternate number.
+A,Problem Resolution,Positive,"So, don't hang up with this line and listen until you reach me on the other line, okay?"
+C,,,Okay.
+A,Greetings,Positive,Hello Amanda.
+C,,,Hello
+A,Problem Resolution,Positive,"Okay, so you can now disconnect the other line and uh turn off that device and wait 10 seconds before you turn it back on."
+A,Problem Resolution,Positive,"Then, let me know once it's on, okay?"
+C,,,Alright.
+A,NA,,Great.
+C,,,"Okay, now uh now it's off."
+C,,,"Okay, wait 10 seconds you said, right?"
+A,NA,,Yes ma'am.
+C,,,"Okay, so, uh alright."
+C,,,"Well, let me turn it on now."
+C,,,Alright.
+C,,,"Okay, now it's turning on."
+C,,,It's on.
+A,NA,,Good.
+A,Problem Resolution,Positive,"So, it's now time for us to test it alright."
+A,Problem Resolution,Positive,"So, can you try to call your son now?"
+C,,,Okay honey.
+C,,,I could give me a moment.
+C,,,I hope it would work.
+A,NA,,"Exactly, Cross fingers now. "
+C,,,Alright.
+C,,,"Hello honey, thank you so much you helped me a lot."
+C,,,I was able to talk to my son and he told me that he'll go there after work.
+C,,,You're such a blessing for me.
+C,,,Thank you so much.
+A,NA,,Oh great.
+A,Engagement,Positive,"Okay, so, it worked."
+A,Engagement,Positive,"You're most welcome, ma'am."
+A,Closure,Positive,I am so happy for you and thank you for partnering with me today.
+A,Closure,Positive,I hope I was able to make you smile and I'm praying for your fast recovery.
+A,Closure,Positive,And is there anything else that I can further assist you with today?
+C,,,"No honey, that's it."
+C,,,Thank you so much.
+A,Closure,Positive,You're most welcome again.
+A,Closure,Positive,This is Jeline.
+A,Closure,Positive,Enjoy the rest of the day.
+A,Closure,Positive,Thank you for being the best part of Verizon.
+A,Closure,Positive,Bye for now.
+C,,,Bye-bye.
+A,Greetings,Positive,Thank you for calling technical support.
+A,Greetings,Positive,My name is Harold.
+A,Greetings,Positive,How can I help you?
+C,,,Hello Harold.
+C,,,My printer is not working.
+A,Engagement,Positive,I'm sorry to hear that your printer is not working.
+A,Problem Investigation,Positive,Let me go and check what's the problem and let's fix it together.
+C,,,Alright.
+A,Account Verification,Positive,"Before we start, may I please have your name and best callback number in case a call got disconnected?"
+C,,,"Sure, it's Mike and my number is 12345678."
+A,Engagement,Positive,Thank you.
+A,Account Verification,Positive,May I also have the model of your printer?
+A,Account Verification,Positive,It's located in front of your printer at the lower right side.
+C,,,Found it.
+C,,,It's wf-250.
+A,Problem Investigation,Positive,"Thank you and just to clarify when you said that the printer is not working, do you mean it's not turning on or do you see any error message or you can't print from your computer?"
+C,,,I can't print from my computer.
+A,Problem Investigation,Positive,"Alright, do you have a windows computer or a mac?"
+C,,,A windows 10.
+A,Engagement,Positive,Thank you.
+A,Problem Investigation,Positive,It's uh connected wirelessly or usb cable?
+C,,,It's connected wirelessly.
+A,Engagement,Positive,Thank you.
+A,Problem Investigation,Positive,"To make sure that this is not a printer problem, we will try to do a copy test."
+A,Problem Investigation,Positive,"So, you have to photocopy any documents and make sure it's coloured and if output is perfect that means that the printer is good. "
+C,,,"Okay, give me a minute. Sure take your time."
+C,,,"Okay, the copy went perfectly fine great."
+A,Problem Investigation,Positive,That means there's no problem on your printer. 
+A,Problem Resolution,Positive,We will now proceed in checking your connection.
+C,,,"Okay, how do we do that? "
+A,Problem Resolution,Positive,"First, let's reboot your modem."
+C,,,What is the modem?
+A,Problem Resolution,Positive,It's an upright standing box given by your internet provider.
+A,Problem Resolution,Positive,It has a blinking green light on it.
+C,,,Oh the internet tower.
+A,Problem Resolution,Positive,"Yes, please go to your modem and at the back there's a tiny black cable that looks like an old cell phone charger."
+C,,,"Okay, I found it."
+A,Problem Resolution,Positive,"Great, please unplug it from the modem."
+C,,,Done.
+A,Problem Resolution,Positive,"Awesome, now, all the lights will go out."
+A,Problem Resolution,Positive,"After 30 seconds, please plug it back, okay?"
+C,,,I'm doing it now.
+A,Problem Resolution,Positive,Now we have to wait two minutes for it to boot up. 
+A,NA,,Okay.
+A,Problem Resolution,Positive,"Once you see at least four green lights, please let me know."
+C,,,The lights are back on now.
+A,Problem Resolution,Positive,Can you please try printing?
+C,,,It's still not working.
+A,Problem Resolution,Positive,Let's check if your printer is connected to the same network as your computer.
+A,Problem Resolution,Positive,Please go to your printer and press the menu button.
+C,,,Okay.
+A,Problem Resolution,Positive,"On the menu, please click the right arrow button to navigate and look for the setup."
+A,Problem Resolution,Positive,It has a wrench icon with screwdriver.
+A,Problem Resolution,Positive,"You have to highlight it, then press enter."
+C,,,Found it.
+A,NA,,Great.
+A,Problem Resolution,Positive,"Under the setup, please click the down arrow button and select wi-fi setup."
+A,Problem Resolution,Positive,"Then, press enter."
+C,,,Okay.
+A,Problem Resolution,Positive,"Under WIFI setup, do you see the name of your WIFI?"
+C,,,Yes.
+A,Problem Resolution,Positive,Select it please.
+A,Problem Resolution,Positive,Now it will ask you to type the password or it will say connected if you are connected.
+C,,,It's asking for a password.
+C,,,How can I type?
+A,Problem Resolution,Positive,I see you have to highlight the box where you need to type in the password and press enter.
+A,Problem Resolution,Positive,It will give you a keyboard and you have to use the arrow buttons to select a letter and press enter to input the selected letter.
+C,,,"Okay, doing it now."
+A,Problem Resolution,Positive,"Awesome, just remember that it is case sensitive. "
+C,,,"Alright, I'm done typing."
+A,Problem Resolution,Positive,"So, you have to put the right password on it."
+C,,,Should I click proceed?
+A,NA,,Yes please.
+C,,,Successfully connected but it's printing now.
+A,Problem Resolution,Positive,That's great all the document that's on the queue will be printed now.
+C,,,Thank you for all your help.
+A,Engagement,Positive,You're welcome.
+A,Closure,Positive,Is there anything else that I can help you with for today Mike?
+C,,,"No, you did wonderful."
+A,Closure,Positive,Thank you.
+A,Closure,Positive,Just a quick recap you called it today because you can't print from your computer.
+A,Closure,Positive,We tested the printer and it's working fine we found out that your printer is not connected to your wi-fi so we reconnected it and now it's printing perfectly.
+A,Closure,Positive,"If ever this happened again try, to turn on and off your modem first and check then follow the steps we did earlier to fix the printer again."
+A,Closure,Positive,This is Harold and thank you for calling tech support.
+A,Closure,Positive,You have a wonderful day.
+A,Greetings,Positive,Hi.
+A,Greetings,Positive,Thank you for calling technical support department.
+A,Greetings,Positive,My name is Sunshine.
+A,Account Verification,Positive,Can I have your first and last name please?
+C,,,"Hi, I'm Brian O'Neill."
+A,Account Verification,Positive,"Thank you Brian and for me to pull up your account, can I also have your account number?"
+C,,,"Sure, it's 001100."
+A,Engagement,Positive,Thank you so much.
+A,Greetings,Positive,"Now, can you tell me how can I assist you today?"
+C,,,"Yeah, I think I need to clear my browsing history but I don't know how to do it."
+A,Problem Investigation,Positive,"Okay, I understand that you need assistance on how to clear the browsing history on your browser and I know that this is very important for you to be addressed."
+A,Problem Investigation,Positive,So let me go ahead and assist you now on how we can clear the browsing history.
+A,Problem Investigation,Positive,Okay but I need to understand what browser browser are you using on your computer.
+C,,,I don't know.
+A,Problem Investigation,Positive,Is the browser that you're using Internet Explorer or Google Chrome?
+C,,,"I really don't know, I'm sorry."
+A,Problem Investigation,Positive,"Internet Explorer actually looks like a blue letter e icon and about Google Chrome it's a round icon away the red, green and yellow colours inside."
+C,,,I think that's the one I'm using.
+A,Problem Investigation,Positive,That's the one you're using.
+A,NA,,Yes all right.
+A,Problem Investigation,Positive,"So, for us to get started in troubleshooting your browser, please make sure that your Google Chrome or browser is open now on your computer."
+C,,,"Yes, it's open now."
+A,Problem Resolution,Positive,"Alright, once it's open, you should be seeing a three dots on the upper right corner."
+C,,,"Yes, I can see it."
+C,,,"Alright, can we click on it?"
+A,Problem Resolution,Positive,"Once you click on it, there will be options available but we select the one that says settings."
+C,,,"Okay, I clicked on settings."
+A,Engagement,Positive,"Okay, good job."
+A,Problem Resolution,Positive,"Now, after clicking on settings on the left side, you should be seeing there an option that says clear browsing data or clear browsing history."
+A,Problem Resolution,Positive,It says clear browsing history.
+A,Problem Resolution,Positive,Okay you can click that one now.
+A,Problem Resolution,Positive,"Actually, it will give you the options to clear the history that was recorded just for today or you can also clear all the browsing history like from the beginning of the time."
+C,,,I cleared all of them.
+A,Engagement,Positive,"Alright, so while it's still loading right now, how are you doing today?"
+C,,,I'm fine thank you.
+C,,,How about you?
+A,NA,,Oh good. I'm doing fine.
+A,Engagement,Positive,Thank you so much for asking.
+C,,,It's done.
+A,Problem Investigation,Positive,"Okay so now that it's done, would you like us to test the resolution?"
+A,,,Can you close your Google Chrome and then relaunch it?
+A,Problem Investigation,Positive,"Let's see if you can, if you will be able to pull up the websites now with no problem at all."
+A,Problem Investigation,Positive,Is it working now?
+C,,,Yes.
+A,Engagement,Positive,"Alright, congratulations."
+A,Closure,Positive,So is there anything else Brian that I can possibly assist with today?
+C,,,"No, you have been very helpful."
+C,,,Thank you.
+A,Closure,Positive,"Oh, you're welcome."
+A,Closure,Positive,Thank you so much as well for calling again technical support department.
+A,Closure,Positive,My name is Sunshine.
+A,Closure,Positive,You have a wonderful day.
+A,Greetings,Positive,"Hi, thank you for calling Mary hotel."
+A,Greetings,Positive,This is Anna.
+A,Greetings,Positive,How may I help you?
+C,,,I'd like to make a reservation for the third week of July.
+C,,,Do you have any vacancies?
+A,NA,,Yes ma'am.
+A,Problem Investigation,Positive,We have several rooms available for that particular weekend and what is the exact date of your arrival?
+C,,,Saturday 18th of July.
+A,Problem Investigation,Positive,How long will you be staying?
+C,,,I will be staying for two nights.
+A,Problem Investigation,Positive,"And, how many people in the reservation? "
+C,,,There will be two of us.
+A,Problem Investigation,Positive,"And, what kind of room you like?"
+A,Problem Investigation,Positive,Do you like a twin bed or a double bed?
+C,,,Double bed please.
+A,Problem Investigation,Positive,"Great, and, would you prefer to have a room with a view of the ocean? "
+C,,,"If that's available, yeah I would love to and how much it would cost me?"
+A,Problem Investigation,Positive,The rate of that room is 590 dollars per night.
+C,,, Okay it's fine for me.
+A,Account Verification,Positive,Okay and now what name would you prefer to be listed on the reservation?
+C,,,Please put Roxanne Roberts.
+A,Account Verification,Positive,Can you spell outyour name for me please?
+C,,,"Sure no problem with that. R as in Romeo, O was in Oscar, X as an X-ray, A as in alpha, N as in Nancy, N as in Nancy, E is an Echo, R as in Romeo, O as in Oscar, B as in Bravo, E as in Echo, R as in Romeo, T as in Tango and S as in Sierra."
+A,Engagement,Positive,Thank you so much and let me fill out the form for you.
+A,NA,,Let me gather some information from you to complete the reservation.
+A,Account Verification,Positive,"And, what is your best callback number?"
+C,,,It's 12345678912.
+A,Account Verification,Positive,May I have your email address where I can send your reservation number?
+C,,,My email address is roxanne.roberts@outlook.com.
+A,Problem Resolution,Positive,Thank you and now I just need your credit card number to complete the reservation.
+A,Problem Resolution,Positive,"And, what type of card will you be using today?"
+C,,,I would like to use my visa card.
+A,Problem Resolution,Positive,"Okay and if you're ready, please state the card number."
+C,,,16 digit number will be 444555512345678.
+A,Problem Resolution,Positive,"And, what is the name appearing on the card?"
+C,,,Its Roxanne Jay Roberts. 
+A,Problem Resolution,Positive,And may I have the expiration date?
+C,,,It is 12/20/22. 
+A,Problem Resolution,Positive,Can I also have the last three digits at the back of the card?
+C,,,"Sure, it's one two three."
+C,,,"And, Ana, I have a question."
+C,,,"If I decided to cancel my reservation, is this refundable anyway?"
+A,Problem Resolution,Positive,Let me check the terms and condition for you.
+A,Problem Resolution,Positive,One moment please.
+C,,,I appreciate it very much.
+C,,,Thank you very much.
+A,Problem Resolution,Positive,"Welcome and upon checking here, the room that we're trying to book is a refundable room at any time."
+A,Problem Resolution,Positive,So you can cancel your room anytime at no cost.
+C,,,"Wow, that's great. Well Anna, let's proceed."
+A,Problem Resolution,Positive,"Alright, so your reservation has been made for the 18th of July for a room with a double bed and view of the ocean."
+A,Problem Resolution,Positive,Check-in is a two o'clock.
+A,Problem Resolution,Positive,Breakfast and dinner is included as well.
+C,,,Okay got it.
+A,Problem Resolution,Positive,"And, Roxanne, I will send the details to your email address that you provided to me earlier."
+A,Closure,Positive,"So, that includes the reservation number and if you have questions, please do not hesitate to call us back, okay?"
+A,Closure,Positive,"Okay and, is there anything else that I can assist you with Roxanne?"
+C,,,"Well, I cannot think of any Anna and thank you so much for helping me today."
+C,,,Good job and have a great day.
+A,Closure,Positive,"Okay, goodbye."
+A,Closure,Positive,They're very much welcome and thank you as well for choosing Mary Hotel.
+A,Closure,Positive,You have a great day.
+A,Closure,Positive,"Okay, goodbye for now."
+A,Greetings,Positive,Good Morning.
+A,Greetings,Positive,Escala Tagaytay hotel reservation.
+A,Greetings,Positive,This is Sydney speaking.
+A,Greetings,Positive,How can I help you?
+C,,,"Yes, I'd like to reserve a room for two please."
+A,Account Verification,Positive,"Before I proceed to the reservation process, may I know who is on the line?"
+C,,,I am Shynymik Hernani.
+A,Account Verification,Positive,Could you spell your first name for me please?
+C,,,Sure. S H Y N Y M I K.
+A,Engagement,Positive,Thank you for that information Ms. Hernani.
+A,Problem Investigation,Positive,May I know which date you would like to make your reservation?
+C,,,I'm planning to visit Tagaytay on 25th until 27th of April.
+C,,,So you have any vacancies?
+A,Problem Investigation,Positive,"Yes, we have several rooms available for those particular days."
+A,Problem Investigation,Positive,May I know what type of room is Ms. Hernani you would like to stay?
+C,,,Do you have any premiere rooms?
+A,Problem Investigation,Positive,I'm sorry to inform you Ms. Hernani but all our premier rooms have been booked on the 25th of April.
+A,Problem Resolution,Positive,How about a deluxe room instead?
+A,Problem Resolution,Positive,We can transfer you once there's availability.
+C,,,"Uh okay, that is fine. "
+A,Problem Resolution,Positive,Perhaps you didn't know that you have new room rates.
+A,Engagement,Positive,Do you find that acceptable Ms. Hernani?
+C,,,Please tell me the price so I can make a decision.
+A,Problem Resolution,Positive,"For a deluxe room, we have it at 6405 pesos Ms. Hernani per room per night."
+C,,,That's a reasonable price.
+A,Problem Investigation,Positive,"Now, as for the room Ms. Hernani, do you prefer smoking or non-smoking?"
+C,,,Definitely non-smoking.
+C,,,I cannot handle that smell non-smoking.
+A,Problem Investigation,Positive,Now is a queen-size bed okay?
+C,,,A queen sounds great.
+A,Problem Investigation,Positive,Would you prefer to have a room with a view of Taal Lake?
+C,,,"If that type of room is available, I would love to have Taal Lake view."
+A,Problem Resolution,Positive,"Great, would you like to confirm your reservation Ms. Hernani?"
+C,,,"Yes, I would like to confirm the reservation."
+A,Account Verification,Positive,Can I have the name of the persons who will be staying Ms. Hernani?
+C,,,Mr. and Mrs. Nuas.
+A,Engagement,Positive,Ok one more second Ms. Hernani.
+A,Problem Resolution,Positive,Your reservation is now verified.
+A,Account Verification,Positive,So all I need to know is your phone number.
+C,,,It's 092910681262.
+A,NA,,Let me repeat that. 092910681262.
+A,Problem Investigation,Positive,Okay Ms. Hernani. How will the bill be settled?
+C,,,Do you accept payments via credit card?
+A,Problem Resolution,Positive,Yes Ms. Hernani.
+A,Problem Resolution,Positive,"Now, I'll need your credit card information to reserve the room for you."
+A,Problem Investigation,Positive,What type of card is it?
+C,,,"Visa, the number is 897654231."
+A,Problem Investigation,Positive,"And, what is the name of the cardholder?"
+C,,,Shynymik M. Hernani.
+A,Problem Resolution,Positive,"Alright Ms. Hernani, your reservation has been made for the 25th until the 27th of April for a deluxe room with a queen-size bed and of course with a view of the lake."
+A,Problem Resolution,Positive,Your bills will be settled via visa amounting to 12800 pesos.
+A,Problem Resolution,Positive,Check-in is at two o'clock.
+A,Problem Resolution,Positive,Is that correct Ms. Hernani?
+C,,,"Yes, that's all correct. "
+A,Problem Resolution,Positive,We wish to inform you about our 6 o'clock policy.
+A,Problem Resolution,Positive,Please be advised that you have to check in not later than 6:00 p.m.
+A,Problem Resolution,Positive,"Otherwise, the hotel reserves the right to give the room to the wait-listed clients."
+C,,,"Noted, thank you for informing me."
+A,Closure,Positive,"My pleasure, Is there anything I can do for you Ms. Hernani?"
+C,,,"No, thank you."
+C,,,That would be all.
+A,Closure,Positive,Thank You Ms. Hernani for calling.
+A,Closure,Positive,We'll see you in April.
+A,Closure,Positive,Have a nice day.
+A,Greetings,Positive,Thank you for calling Blue Cross of Blue Shield.
+A,Greetings,Positive,This is joe speaking.
+A,Greetings,Positive,How can I help you?
+C,,,"Hi, my name is John Smith and I need to get a refill on my prescription."
+A,Problem Investigation,Positive,"Alright John, are you a patient of ours?"
+C,,,"Yes, I am."
+A,Problem Investigation,Positive,"Great, who is your doctor? "
+C,,,"I see it here on my record, Dr. Brenner."
+A,Problem Investigation,Positive,"Okay, so, you'll need to have your pharmacy facts over a prescription refill request."
+A,Problem Investigation,Positive,Do you have a pen to write our fax number down?
+C,,,"Actually, I'm in the middle of something at the moment and can't really write down anything."
+C,,,Would you be able to give me a call back?
+A,Problem Resolution,Positive,"No problem, I'd be happy to take your info and schedule a return call. "
+A,Problem Resolution,Positive,What's the best number to reach you out?
+C,,,My number is 206-555-1234.
+A,Problem Resolution,Positive,Got it and what would be the best time for you for a return call?
+C,,,Any time after 2 pm.
+A,Account Verification,Positive,Sounds good and can I get your date of birth?
+C,,,It's December 25th 1955.
+A,Account Verification,Positive,"Thanks, would you happen to know the prescription number?"
+C,,,"One second, it's right here in my purse."
+C,,,"Okay, it's 327-412-800-5646."
+A,Account Verification,Positive,And the name of the pharmacy?
+C,,,It'd be the Walgreens Over On Grand Pharmacy.
+A,Account Verification,Positive,Okay and do you know their phone number?
+C,,,It's right here on the bottle ready.
+A,Engagement,Positive,"Oh perfect, go ahead please."
+C,,,206-555-2083.
+A,Problem Investigation,Positive,And what is the name of the medication you're looking to get refilled?
+C,,,It's Ativan.
+A,Engagement,Positive,"Okay John, let me just confirm your information."
+A,Problem Resolution,Positive,"Last name is Smith, S M I T H."
+A,Problem Resolution,Positive,"The callback number is 206-555-1234, is that correct?"
+C,,,That's right. 
+A,Problem Resolution,Positive,Okay the office will follow up and give you a call back today after 2pm.
+A,Closure,Positive,Is there anything else I can help you with today?
+C,,,"Nope, that would be all."
+C,,,No problem at all.
+A,Closure,Positive,Thanks for calling and have a great day.
+C,,,You too.
+A,Closure,Positive,Bye.
+C,,,"Hello, can I speak to the customer support department?"
+A,Greetings,Positive,"Yes, this is customer support."
+A,Greetings,Positive,How may I help you?
+C,,,"I got a laptop I ordered from you, but it's not working."
+A,Engagement,Positive,"Oh, I am sorry to hear that."
+A,Account Verification,Positive,Could you tell me your order number please?
+C,,,"Hold on, I have it right here."
+C,,,"Yes, its APK0504949."
+A,Engagement,Positive,"Okay, just let me verify that this order number match with the product you placed."
+A,Engagement,Positive,"Okay, thank you for waiting, Mr. Pandit."
+A,Problem Investigation,Positive,"Now, could you tell me what the problem is?"
+C,,,"Well, I connected it to the outlet but it's not turning on."
+A,Problem Investigation,Positive,"Ok, sir, just to rule out this possibility, may I ask you if other devices are working properly in that outlet?"
+C,,,"Yes, they are."
+A,Problem Investigation,Positive,"Well, could you please remove the battery and the reconnect it one more time?"
+A,Problem Investigation,Positive,And I appreciate if you can connect it into another outlet.
+C,,,Are you deaf?
+C,,,"For the ninth time, the outlet is not the problem."
+A,Engagement,Positive,"Okay sir, I totally understand your situation and I would feel the same."
+A,Engagement,Negative,"But, please. Calm down and stop yelling at me."
+A,Engagement,Negative,"And let me tell you what I could do for you, ok?"
+C,,,"Yeah yeah yeah, alright."
+A,Problem Resolution,Positive,We usually send our products with an extra cable.
+A,Problem Resolution,Positive,Could you take a look inside the box ad verify if we sent you another?
+C,,,Another cable?
+C,,,"Oh, but there was no other cable in the box."
+A,NA,,"Ok, let me see."
+A,Engagement,Positive,"Oh, sorry sir, my mistake."
+A,Problem Resolution,Positive,"According to my system, the extra cable was not included."
+C,,,Why haven't you guys included my extra cable?
+A,Problem Resolution,Positive,"I am sorry sir, but this specific item was at a discount at the moment you purchased it."
+A,Problem Resolution,Positive,"As a result, we didn't include an extra cable so that we could apply the best price on the device instead of charging you for stuffs you won't need."
+C,,,"Okay, but its hell lot of trouble going downtown to get a silly cable. "
+A,Problem Resolution,Positive,"If you want, you can order one from us."
+A,Problem Resolution,Positive,We'll ship it within 24 hours.
+C,,,"Nah, I don't need it from you guys."
+C,,,Thanks anyway.
+A,Engagement,Positive,Sorry to hear that sir.
+A,Closure,Positive,I will discuss your feedback with my supervisor.
+C,,,"Yeah yeah, alright."
+C,,,Bye now.
+A,Closure,Positive,"Have a nice day, sir."
+A,Greetings,Positive,"Hello, Good Morning."
+A,Greetings,Positive,Thank you for calling PLDC customer service.
+A,Greetings,Positive,This is Christine speaking.
+A,Greetings,Positive,How may I help you?
+C,,,You just got off my internet connection and this is not the first time this happened.
+C,,,How is that you're getting my money and you're cutting me off?
+A,Engagement,Positive,I appreciate that you bring this to out attention sir And sorry for the inconvenience sir.
+A,Problem Investigation,Positive,"I understand that it is very frustrating and to work out on your problem about the abrupt disconnection, is that right sir?"
+C,,,"Yes,you just disconnected me."
+C,,,That's what I said.
+,,,"Okay sir, so I'll check our system to see what I can do."
+A,Account Verification,Positive,"But first, give me your account number sir."
+C,,,"Okay, my account number is 4451147619."
+A,Account Verification,Positive,"Okay sir, I got it and for verification you will need your name and your birthday"
+C,,,"I am Matthew Sobremonte and I am born on November 1, 1999."
+C,,,"And, yes I am the account holder."
+A,Problem Investigation,Positive,"Thank you, just a minute sir,  I'll just look at our data."
+A,Problem Investigation,Positive,"According to our system's data, that you did pay your last bill, last February 5 which was 2 days ago in one of our affiliated payment centers."
+A,Problem Investigation,Positive,"Unfortunately sir, when you pay through that affiliated center, it takes about three to five business days more to complete the payment processing so that means that the system conceded the payment as still pending and not completed yet."
+A,Problem Investigation,Positive,"So, the connection has been cut off. But."
+C,,,Are you kidding me?
+C,,,I need it as soon as possible.
+A,Engagement,Positive,I understand that your situation is very tough right now.
+A,Problem Resolution,Positive,"Since you did pay for your connection, what I can do is to open a ticket or submit a report so that the other department can immediately complete your payment and reconnect your internet as soon as possible. "
+A,Account Verification,Positive,"And to make it possible sir, I just need your payment ID."
+C,,,Okay so my payment ID is 19216811.
+C,,,Did you get it?
+A,Engagement,Positive,"Yes sir, thank you."
+A,Problem Resolution,Positive,I am now doing the report and will submit it as soon as I finish this.
+A,Engagement,Positive,Please stay online for a minute Mr. Sobremonte.
+C,,,"Okay I will, thank you."
+A,Problem Resolution,Positive,"Hello sir, kindly expect to have your reconnection within 24 hours."
+A,Problem Resolution,Positive,We will send you a text message informing that you have already paid and connected to the internet service to your phone number.
+C,,,Thank God for that!
+C,,,I am furious because I really need internet connection.
+A,Engagement,Positive,"Again sir, I'm terribly sorry."
+A,Closure,Positive,Is there anything else I can help you with sir?
+C,,,I don't need anything else.
+A,Closure,Positive,"If none, thanks for calling and don't hesitate to call again if ever you'll have a problem with your connection."
+A,Closure,Positive,Have a great day sir.
+C,,,Okay thank you.
+A,Closure,Positive,Bye.
+A,Greetings,Positive,hi thank you for calling. im hannah how may i help you?
+C,NA,NA,good im calling because i receive a bill i just paid my internet bill 2 days ago and why my payment is not reflevted in the bill.
+A,Engagement,Positive,sorry for the inconvenience ma'am let me help you instruct your account. 
+A,Account Verification,Positive,may i have your account number?
+C,NA,NA,534003448
+A,Account Verification,Positive,thank you for verification process can i have your name and date of birth please?
+C,NA,NA,Roxanne Roberts 1991 January 20.
+A,Engagement,Positive,thank you so much for that information extent. 
+A,Problem Investigation,Positive,and here in our system you did paid before which was 2 days ago but our affiliated beam in centers and you currently have a zero balance. however the bill you receive was granted a week ago before you made the payement that's why your latest payement has not been reflected. but you can simply disregard the amount indicate in the bill and continue enjoying our services.
+C,NA,NA,okay thank you.
+A,Engagement,Positive,you are very welcome roxanne and the delay in the village usually caused by a delay in our system so you can visit our website and login to your account and this bill is more updated and more convenient.
+C,NA,NA,thank you yes i will do.
+A,Closure,Positive,im glad to help you and will there be anything that i can assist you today?
+C,NA,NA,i think thats it.
+A,Closure,Positive,thank you so much for calling good by ma'am.
+A,Greetings,Positive,thank you for calling ava's flower! this is jeline. how can i help you?
+C,NA,NA,i like to order flower and i hope you have what im looking for
+A,Engagement,Positive,absolutely! i'm positive that we have what you are looking for so let me take your order.
+A,Problem Investigation,Positive,what products are you interested in ordering?
+C,NA,NA,a dozen of white roses...
+A,Problem Investigation,Positive,one dozen of white roses do you want long stems?
+C,NA,NA,yes sure.
+A,NA,NA,whould you like to add a pack of fran's chocolates?
+C,NA,NA,that would be great! sure.
+A,Problem Resolution,Positive,alright! so you order is: one dozen of white roses 40$ and a pack of fran's chocolate that's $9... a total of $49 free shipping and handling...
+A,Engagement,Positive,are you good with these?
+C,NA,NA,yep that's prefect.
+A,Account Verification,Positive,awesome! let me have your first and last name 
+C,NA,NA,amanda cole
+A,Account Verification,Positive,thank you! may i have your home or office number area code first?
+C,NA,NA,area code 601-409-6969
+A,Problem Resolution,Positive,thank you. your order has been successfully processed for a total amount of $49 and it will be shippes within 24 hours.
+A,Closure,Positive,is there anything else that i can further assist you with today?
+C,NA,NA,that's everything thank you
+A,Closure,good,your most welcome. again. thank you so much for calling ava's flower! have a great day.
+A,Greetings,Positive,hi thank you for calling my name is anna how can i assist you today
+C,NA,NA,yes i need some help. i have a problem with a phone that i bought in the t-mobile store. i have the ima here and the serial number and everything but what is the problem is i left t-mobile for another company and before i left i called in that they told me how to unblock the phone and lock the phone with this application. he gave me a code or something it worked it seemed to work prefectly but now im trying to use the phone in another country and they tell me it's locked blocked forever. so i paid for the phonr in cash. i need this phone to be unlocked and can you help me with that?
+A,Engagement,Positive,ok definitely we can definitely go ahead and assisst you with that unlock today. 
+A,Account Verification,Positive,can i have your mobile number please?
+C,NA,NA,but im no longer with your company i can give you my phone number fine. the phone number was by the way this converstaion has been recorded my number is  544-447-406.
+A,Account Verification,Positive,ok it's not coming up like that. can i have your last name please?
+C,NA,NA,oliver
+A,Problem Investigation,Positive,and what kind of phone is it because i see you have 2 accounts here i don't know which one it is
+C,NA,NA,lg g4. i have the box here i can give you any information what ever you want
+A,Problem Investigation,Positive,do you have the imei number for that?
+C,NA,NA,yes i have the box here and the imei number is 358387-06-2581086
+A,Problem Investigation,Positive,ok it says here that the phone is unlocked.
+C,NA,NA,ok so if the phone is unlocked why doesn't work at all because it should. is possible that you send me and email or something that i can show the operator abroad that this phone is supposed to work
+A,Engagement,Positive,there is no email that i can send you but here you said that it's unlocked and it has been unlocked same.
+C,NA,NA,but how to prove to the operator in the other country?
+A,Problem Resolution,Positive, so give me one moment to see if there is any paper i can provide you. can i have a call back number for you.
+C,NA,NA,yes 954-447-408
+A,Problem Resolution,Positive,ok give me one second. ok it takes up to 30 minutes to get the email.
+C,NA,NA,ok i will wait for that thank you.
+A,Closure,Positive,your welcome
+A,Greetings,Positive,thank you for calling ABC customer care my name is harold. who do i have the pleasure of speaking with today?
+C,NA,NA,my name is john doe
+A,Engagement,Positive,can i call you by your first name?
+C,NA,NA,NA
+A,Problem Investigation,Positive,great! how can i help you today john?
+C,NA,NA,yes! i received my bill on mail today and i noticed that my bill went up.
+A,Problem Investigation,Positive,i hear you! i undrestand that the bill went up suddenly lets check that and see what really happend on your account.
+A,Account Verification,Positive,may i please have your account number and password?
+C,NA,NA,sure it's 912345678 and my password is 1122
+A,Problem Resolution,Positive,thank you let me check your bill now i see your bill went up this month it's becasue of a late payment charge we received your payment on the 28th however your due date is every 15th of the month that's why there's a $10 difference from your last bill
+C,NA,NA,that's good idea please do that
+A,Problem Resolution,Positive,i'll be happy to assist you. alright! i have successfully enrolled your account in autopay moving forward you won't have any late paument charge.
+C,NA,NA,that's great
+A,Closure,Positive,is there else that i can help you with?
+C,NA,NA,no you did great thank you
+A,Closure,Positive,you are welcome john thank you for calling ABC customer care. goodbye
+A,Greetings,bad,good morning may i help you?
+C,NA,NA,yes i think so my name is sylvia hadley and i received your new wire walker internet service brochure in the mail and in the brochure you say that you'll have somebidy come out to the house and connect everything up for me and seeing that i really don't know about this stuff its sounds good to me so i'd like to sign up
+A,Problem Investigation,Positive,we'd be happy to sign you up. let me see now that's the wire walker service right?
+C,NA,NA,that's right. you know you people are really hard to get ahold of i have been trying to call you about this for the past 3 weeks and  i haven't been able to get through
+A,Engagement,Positive,we've had others tell us the same thing we are in the process of adding some telephone lines now so it shouldn't be a problem in the future
+A,Problem Resolution,Positive,now lets see your promotion you're referring to ended 2 weeks ago i can still sign you up and only at the regular rate which is about 10% more per month than the rate shown on the brochure will there be something at your house to make
+C,NA,NA,now hold on are you telling me that i can't get the rate advertised on your brochure. what kind of business are you running 
+A,Engagement,Positive,sorry ma'am but the offer has expired 
+C,NA,NA,if i can't get your advertised rate and i don't think i want the service at all it's not my fault i couldn't get through
+A,Problem Resolution,Positive,definitely you're right i'll go ahead and give you the service at the advertised rate.
+C,NA,NA,thank you.
+A,Closure,Positive,thanks for calling have a great day.
+A,Greetings,Positive,thank you fpr calling AT&T about your wireless service my name is brittany davis and i can help you. who do have the pleasure to speaking with.
+C,NA,NA,hi brittany this is mrs. clarl and i was calling a reference to my bill there's a $40 fee on it and i just wanted to know why exactly it's $40
+A,Engagement,Positive,no problem i definitely undrestand it's concern regarding your bill and i'll definitely be more than happy to pull up your account  and we can take a look at that charge for you today. 
+A,Account Verification,Positive,ok now so i can access the account menu verifies the last four digits of your social number
+C,NA,NA,1234
+A,Problem Resolution,Positive,wonderful and i'm pulling up your account now while i'm in the process of doing that can you go ahead and palce me on the speakerphone and log into your my AT&T app so that we can definitely go ahead and look at these charges together and you know reveal ok?
+C,NA,NA,i undrestand
+A,Problem Investigation,Positive,alright wonderful and just let me know what you have your AT&T app for
+C,NA,NA,???
+A,Problem Resolution,Positive,okay great now as you see the option that says view bill go ahead and click on download view full pdf app
+C,NA,NA,right i did that
+A,Account Verification,Positive,so i see on the line that ends in 24956 it has the $40 upgrate do you want it?
+C,NA,NA,right that's the number i did upgrate
+A,Engagement,Positive,ok so mrs.clarl i'm glad to have your pulled up pretty much to go ahead and explain the $40 upgrate fee AT&T does allow our customers to upgrate to the new two-year contract and it doesn't apply a one-tiem $40 upgrate fee on which it sells.
+C,NA,NA,okay
+A,Closure,Positive,and now i undrestand you do undrestand that fee but i just want to make sure that there was no additional questions or concerns regarding the account devise or any other agency mobility services that i could give to resolve for youn today
+C,NA,NA,i don't have any additional question
+A,Closure,Positive,well once again my name brittany davis and thank you for being a value i phone customer and you have great day
+A,Greetings,Positive,thank you calling for limited and john is speaking
+C,NA,NA,i bought a pair of pink shoes three days ago online but it seems like the delivery hasn't been delivered or yet
+A,Engagement,Positive,i'm afraid to tell you ma'am but there was a serious conflict with a shippment of the goods yesterday due to the typhoon
+C,NA,NA,gosh how am i supposed to get thoes it has to really conflict my schedule now because five days from now i'll be having my debut and the shoes which im getting wear will be the shoes that are in your company
+A,Engagement,Positive,i apologize for the inconvenience ma'am i would probably feel the same way if i'm in your situation but i'm rest assured that all your concerns will be heard and not be taken for granted 
+C,NA,NA,oh that's good to hear
+A,Account Verification,Positive,for us to begin with may i have your account number please
+C,NA,NA,sure that's 0123456789
+A,Account Verification,Positive,just to confirm that's 0123456789
+C,NA,NA,yes
+A,Account Verification,Positive,now for verification purposes may i have your name and date of birth please
+C,NA,NA,my name is cassandra and the account holder birth date is november 12 1995
+A,Engagement,Positive,thank you for that information miss cassandra please bear with me we'll pull up your account in the system
+C,NA,NA,ok
+A,Problem Investigation,Positive,i can see here that you did a payment of 10000 bases last february 19th and that was three days ago were credit card and it seems like your problem needs a premission authorized by my supervisor will you be able to hold the call for a minute ma'am
+C,NA,NA,oh yes
+A,Engagement,Positive,thank you for patiently waiting i'm afraid to tell you ma'am but the delivery will not be delivered to you anymore
+C,NA,NA,are you kidding me what should i do now
+A,Problem Resolution,Positive,serious apology ma'am however there is a good news the company will refund your payment one of the company's policies to give a refund for the customers whose orders have not been deliverd or shipped 
+C,NA,NA,it hurts but the only way to set me free is acceptance so how will it be protected
+A,Problem Resolution,Positive,the process will proceed in your account 20 minute right after this conversation
+C,NA,NA,thanks godness what a relief will there be a charge
+A,Problem Resolution,Positive,no worries ma'am the second good news is there will be a 25% increase of the amount rendered meaning to say your amount will increase to a quarter
+C,NA,NA,oh thank you so much 
+A,Closure,Positive,will there be anything else i van assist you with
+C,NA,NA,no you really helped me a lot
+A,Closure,Positive,so thank you for calling finish limited enjoy your weekdays bye
+A,Greetings,Positive,hello my name is angela and i will take care of you may i have your name please
+C,NA,NA,yeah this is emanuel and i'm calling you because i am currently facing some issues with the new software i purchased from you every time i try to run the software it keeps showing a pop-up unknown error message
+A,Problem Investigation,Positive,i understand you said you are getting an unkown error correct?
+C,NA,NA,exactly every time i try to run it the system crashes and now it's popping up a new error message.
+A,Problem Investigation,Positive,what kind of error
+C,NA,NA,how the hell am i suppose to know im not a specialist it says 04 error something i don't know perhaps a data error
+A,Problem Resolution,Positive,data error this is a sophisticated program and a data error can be tricky for anyone im going to connect you to a specialist this issue for  you i'll stay with you until you are connected does that work for you
+C,NA,NA,ok i hope the specialist can help me out
+A,Closure,Positive,ok great thanks for calling us good bye
+A,Greetings,Positive,thank you for calling hiponary tech support this is john how could i help today?
+C,NA,NA,yeah i'm calling because my hipronary router is not working you know i booted it up and it reset back to factory setting then i don't know how to get it back to work
+A,Engagement,Positive,uh ok sir as a technician i could definitely help you out with that right away
+A,Account Verification,Positive,but before we move on may i have your full name and your eight digit subscriber number please
+C,NA,NA,sure my name is emanuel and my subscriber nember is 12340999
+A,Engagement,Positive,ok sir thanks let's see what we can do with your router what seems to be the problem sir?
+C,NA,NA,ok i want to know how a router works since i'm not very handy with technology sir
+A,Engagement,Positive,well thats a good question sir a router basically forwards data packets between computer networks
+A,Problem Investigation,Positive,ok let me see here on my system to understand what is your problem uh sir this is weird it says here that you have a hiporonary ccp router and it doesn't really require a configuration process to install have you recently update it's software?
+C,NA,NA,yes i had the latest version of it
+A,Problem Resolution,Positive,ok lets try something new ok there is a blue hiporonary icon shown on the task bar please click on it
+C,NA,NA,ok let me do that
+A,Account Verification,Positive,ok now could you kindly tell me your router's product number please?
+C,NA,NA,ok i can see here is 125AU59TB
+A,Account Verification,Positive,ok let me verify it on my system and i'll try to set it up remotely
+A,Problem Resolution,Positive,i can see here that is shows successful connection
+C,NA,NA,uh sir its working thank you so much
+A,Closure,Positive,you are welcome sir have a nice day 
+A,Greetings,Positive,thank you for calling hipronary tech support this is john how could i be of help you today
+C,NA,NA,hello my name is emanuel springer and my 8 digit subscriber number is 12340909
+A,Engagement,Positive,ok please let me know what can i do for you
+C,NA,NA,see i called a couple of days ago to report an issue i was facing with my router and now im experiencing internet connection issue again
+A,Engagement,Positive,i'm pretty sure we'll be able to resolve this matter once and for all
+A,Problem Investigation,Positive,ok did you try by rebooting the router
+C,NA,NA,yeah that was the first thing i did
+A,Problem Resolution,Positive,ok now please type this URL address in your browser http://hiporonaryrouter.local
+C,NA,NA,ok done
+A,Problem Resolution,Positive,now click advanced setting
+C,NA,NA,i jusr did sir
+A,Problem Resolution,Positive,now click wifi channel box and select auto channel and click save
+C,NA,NA,done sir
+A,Problem Resolution,Positive,now let's check it if you have a internet connection or not
+C,NA,NA,oh yes it's working now i appreciate your help
+A,Closure,Positive,your welcome mr.springer have a nice day.
+A,Greetings,Positive,thank you for calling technical support my name is harold how can i help you
+C,NA,NA,hello harold my printer is not working
+A,Engagement,Positive,i'm sorry to hear that your printer is not working let me go and check what's the problem and let us  fix it together
+A,Account Verification,Positive,before we start may i please have your name and your best call back number incase the call got disconnected
+C,NA,NA,sure it's mike and my number is 912345678
+A,Account Verification,Positive,thank you may i also have the model of your printer? it's located in front of your printer at the lower right
+C,NA,NA,found it it's WF250
+A,Problem Investigation,Positive,thank you and just to clarify when you said the printer is not working do you mean it's not turning on?do you see any error message or you can't print from your computer
+C,NA,NA,i can't print from my computer
+A,Problem Investigation,Positive,ok to make sure this is not a printer problem we will do a copy test you have to photocopy any document and sure it's colored if the output is prefect that means the printer is good
+C,NA,NA,ok the copy went prefectly fine
+A,Problem Resolution,Positive,great that means there's no problem on the printer we can now proceed in chechking your connection first let's reboot your modem
+C,NA,NA,done
+A,Engagement,Positive,ok now can you please try printing
+C,NA,NA,it's successfully connected oh wait it's printing now thank you for all of your help
+A,Closure,Positive,you're welcome is there anything else that i can help you with for today mike?
+C,NA,NA,no you did wonderful
+A,Closure,Positive,again this is harold thank you for calling tech support you have a wonderful day
+A,Greetings,Positive,good evening ??? depeartment this is alex how can i help you
+C,NA,NA,hey yeah i'm in a problem 104 in the first floor i'm calling to compalin about my neighbors
+A,Problem Investigation,Positive,ok what seems to be a problem sir
+C,NA,NA,oh i just got my newborn baby to sleep and they are being loud
+A,Problem Resolution,Positive,ok i'm very sorry about that just let em take down your contact information and i'll contact the lamdlord right away to get this all straightened out
+C,NA,NA,ok my name is jeff matthews
+A,Account Verification,Positive,ok mr.matthews can i have the best number you can be reached out and also your apartment number
+C,NA,NA,sure it's 6102671431 department 104 in the first floor
+A,Problem Resolution,Positive,ok mr. matthews i'm gonna pass this information on to the landlord right away and he'll be contacting you shortly
+A,Closure,Positive,is there anything else i can help you with today
+C,NA,NA,no that's all thank you
+A,Closure,Positive,thank you have a great night
+A,Greetings,Positive,good afternoon welcome to elkins builders
+C,NA,NA,hi i'm Cole speak to someone about building a house and a property I'm looking to purchase
+A,Account Verification,Positive,ok great let me get your name what's your first name please
+C,NA,NA,jerry 
+A,Account Verification,Positive,and you're last name
+A,Account Verification,Positive,thank you and may i have your call back number
+C,NA,NA,10284563
+A,Engagement,Positive,that's 10284563?
+C,NA,NA,yes
+A,Engagement,Positive,and where is the property that you're looking for an estimate on  it's in Westchester I haven't purchased the land yet I'd like to see if I could get an estimate or haven't take a look at it before before I do
+A,Engagement,Positive,okay no problem is it a good time to reach you with this number or is that an anytime
+C,NA,NA,that's my cell phone if they could call me back today that would be great
+A,Problem Resolution,Positive,okay no problem I'll pass your message along and somebody should be getting back to you this afternoon
+C,NA,NA,great thank you so much
+A,Closure,Positive,you're welcome and thank you for calling elkins builders
+A,Greetings,Positive,ABC plumbing and heating this is Betty how can i help you today 
+C,NA,NA,hi Betty I'm having a problem with my sewer drain 
+A,Engagement,Positive,oh I'm so sorry to hear that sir would you like me to get a hold of the plumber for you 
+C,NA,NA,do you know how much is going to cost
+A,Problem Resolution,Positive,unfortunately I wouldn't be able to quote prices but I can get a hold of someone who would be able to give you a better idea I'm getting them back up throughout the entire house are you a client of ABC
+C,NA,NA,i did use them before they were put in my garbage disposal but nothing major like this
+A,Account Verification,Positive,okay let me get your name and number and I can patch you right through to the plumber your name sir
+C,NA,NA,mike berry
+A,Account Verification,Positive,ok and your call back number
+C,NA,NA,that's 6102683292 do you call me right back
+A,Problem Resolution,Positive,actually mr. berry I'm going to call him right now and patch you directly through to the plumber 
+A,Engagement,Positive,would you stay on the line for a moment
+C,NA,NA,oh sure awesome thank you
+A,Closure,Positive,you are welcome bye
+A,Greetings,Positive,hi this is Stella at Cline Dale University what can I do for you today 
+C,NA,NA,alright my name is Brian I'm calling asked a couple questions about your online courses tour
+A,Engagement,Positive,no problem Brian what did you need to know
+C,NA,NA,I'm currently working at an auto shop part-time and was wondering whether or not the online classes would be flexible around my work schedule
+A,Problem Resolution,Positive,they are indeed the only classes that we offer are centered around you and your schedule whenever you find the time to settle down and check out the classes completely up to you
+C,NA,NA,how cool is there a lot of homework
+A,Problem Resolution,Positive,problem for the classes the way that the online classes at Cline del university usually operate are with a homework assignment - every week or so sometimes a paper other times the PowerPoint presentation it really depends on the course and also the instructor
+C,NA,NA,ok great is there any way you can get started right away or do you just feel like certain semesters
+A,Account Verification,Positive,sure bill couch is in charge of the over the phone application process if you could just give me your name and phone number I can pass you right through to him
+C,NA,NA,it's brain charter
+A,Account Verification,Positive,and i also need your phone number brian
+C,NA,NA,6102651715
+A,Problem Resolution,Positive,all right you are good to go if I can put you on hold for just a moment I'll get bill on the other line and transfer you right to him is that okay 
+C,NA,NA,perfect thank you
+A,Greetings,Positive,sure thank you bye bye
+A,Greetings,Positive,green lawns this is Alex can I help you
+C,NA,NA,hi Alison Zach Jones on the client of yours I'd like to offer two of my neighbors to sign up for your lawn services
+A,Account Verification,Positive,sure that's great can I have their names and phone numbers please mr. Jones
+C,NA,NA,sure the first neighbors name is Larry fields fi eld s and his telephone number is six ten to sixty five one seven one four
+A,NA,NA,okay great I have Larry fields I'm going to spell it back to you la rry f IE LDS at six one zero two six five one seven one four 
+C,NA,NA,correct and the other neighbor the second one his name is palm bridges that spelledBri D GES and he has a very similar number at six one zero two six five one seven one five
+A,NA,NA,ok great I have Tom bridges t om d RI d GES at six one zero two six five one seven one five
+C,NA,NA,correct am i understanding there's some sort of customer appreciation program where if I were for people to use your lawn care I get something 
+A,Problem Resolution,Positive,yes you're correct you receive one free month of lawn services for each person you refer to us so since you referred to people you'll receive two free months of service once they sign up with green lawns
+C,NA,NA,oh great excellent
+A,Account Verification,Positive,is your email still Z Jones at gmail.com
+A,Problem Resolution,Positive,just to send confirmation of this conversation and also as soon as your neighbors sign up with green lawns I can send you your vouchers to that email 
+C,NA,NA,oh thank you so much
+A,Closure,Positive,great have nice day
+A,Greetings,Positive,good afternoon Mountain security services
+C,NA,NA,hi I'm having a security system issue installed in my house 
+A,Engagement,Positive,let me get your information and I'll have a security specialist give you a call and discuss your needs
+A,Account Verification,Positive,first could I have your name sir
+C,NA,NA,it's Brad sagan 
+A,Account Verification,Positive,and a number where you can be reached
+C,NA,NA,six one zero two sixty five one seven one five 
+A,Account Verification,Positive,and could I get the address of where you would like the security system installed
+C,NA,NA,sure it's 800 North Henderson Road in King of Prussia
+A,Account Verification,Positive,and your zip code please
+C,NA,NA,406
+A,Problem Resolution,Positive,Thank You mr. sagen a security specialist will be calling you momentarily 
+A,Closure,Positive,is there anything else that I can do for you today
+C,NA,NA,no i appreciate your help thank you
+A,Closure,Positive,ok thank you have a great day
+A,Greetings,Positive,reason limited this is gina may i help you today
+C,NA,NA,yeah hi I'm waiting for my limo to show up it's about 30 minutes late already
+A,Problem Investigation,Positive,oh I'm so sorry about that if you could give me the pick up time and location we can get this settled for you
+C,NA,NA,my daughter's going our senior prom they're already half an hour late I need to speak to someone
+A,Problem Investigation,Positive, I totally understand and we're truly sorry I'll have someone there as soon as possible what time was the pickup
+C,NA,NA,six o'clock
+A,Problem Investigation,NA,ok and the location
+C,NA,NA,800 North Henderson Road 
+A,Problem Investigation,NA,and the town and zip code please 
+C,NA,NA,king of Prussia 1/9 406 
+A,Problem Resolution,Positive,okay if you don't mind staying on the line for just a moment Drake is scheduled as your driver I'm going to give him the call and I'll find out his whereabouts
+C,NA,NA,okay this better not take long
+A,NA,NA,just a minute please
+A,Problem Resolution,Positive,I spoke with Drake he will be there in five minutes
+C,NA,NA,he's supposed to be here half an hour ago if he doesn't show up in five minutes
+A,Engagement,Positive,he was stuck in traffic but he is now on First Avenue and King of Prussia and nwill be there momentarily 
+C,NA,NA,all right
+A,Engagement,Positive,and I'm so sorry about the delay
+C,NA,NA,thanks for your help
+A,Closure,NA,you're welcome goodbye
+A,Greetings,Positive,parker scarves how may i help you
+C,NA,NA,i bought a scarf online for my wife and it turns out they shipped the wrong color 
+A,Engagement,Positive,oh I am so sorry sir
+C,NA,NA,got it for birthday which is tonight and now I'm not a hundred percent sure what I need to do
+A,Problem Investigation,Positive,okay letme see if I can help you do you have the item number of the parker scarf
+C,NA,NA,uh i don't think so it's called a New Yorker I think
+A,Problem Investigation,Positive,excellent okay what color did you want the New Yorker
+C,NA,NA,blue the one was shipped was light blue i wanted it the darker one
+A,Problem Investigation,Positive,did you want navy blue or royal blue 
+C,NA,NA,what's the difference there
+A,Engagement,Positive,um the royal blue is a bit brighter
+C,NA,NA,that's the one i want
+A,Account Verification,Positive,okay what zip code are you located in
+C,NA,NA,19046
+A,Problem Resolution,Positive,hey it appears that we do not I'm sorry that we do have that item in stock at Karen's boutique at the hunter mall is that close by it
+C,NA,NA,is it's right by my office
+A,Account Verification,Positive,okay what is your name sir
+C,NA,NA,Charlie Johnson
+A,Problem Investigation,Positive,mr. Johnson do you have the Parker scarf in light blue with you now
+C,NA,NA,I do they shipped it to my office it just came in not that long ago
+A,Problem Resolution,Positive,okay what I will do is make arrangements with karyn's to take for you to exchange the parker scarf at no additional cost and in addition i was able to look up your order in our system and i'm going to send out a special gift to you to make up for the inconvenience
+C,NA,NA,Oh excellent thank you so much
+A,Closure,Positive,you're welcome and thank you for calling Parker scarf and I hope your wife enjoys your birthday gift
+A,Greetings,Positive,good evening Valley View Apartments
+C,NA,NA,hi Betty I'm having a problem with my sewer drain
+A,NA,NA,oh okay let me page our maintenance man
+A,Account Verification,Positive,may have your first name please
+C,NA,NA,ShoreTel
+A,Account Verification,Positive,and your last name
+C,NA,NA,Grover G ro V er
+A,Account Verification,Positive,okay and a callback number 
+C,NA,NA,6102651714
+A,Problem Investigation,Positive,and you said there's a leak coming through your kitchen ceiling 
+C,NA,NA,yes a little bit more than a drip so if you get somebody out here as soon as possible 
+A,Problem Resolution,Positive,no problem I will page him right away and you'll be hearing from him shortly
+C,NA,NA,thank you very much
+A,Closure,Positive,you're welcome bye bye
+A,Greetings,Positive,bouncing appliance this is alice how may i help you
+C,NA,NA,I recently purchased a blender from you guys and I just got an email saying that there's a recall on the model because one of the blades are defective so I want to return it and get a different model
+A,Engagement,Positive,sure I can definitely help you with that
+A,Account Verification,Positive,what is your first and last name
+C,NA,NA,sure Steve Simmons
+A,Account Verification,Positive,okay can I also have your email address
+C,NA,NA,sure it's Steve Simmons just like it's spelled at gmail.com
+A,Problem Investigation,Positive,okay great I have located you in our system and you purchased the model numbers 23 0 87 which has been recalled
+A,Problem Resolution,Positive,I'm going to email you a prepaid shipping label to send back the recalled blender and we will be mailing you our latest model
+C,NA,NA,well thank you very much how long it's going to take to get the new blender
+A,Engagement,Positive,you can expect your new burner to arrive in about four to six business days
+C,NA,NA,oh great thank you very much 
+A,Closure,Positive,no problem is there anything else I could help you with today
+C,NA,NA,now that's all I need but thank you 
+A,Closure,Positive,thank you have a nice day
+A,Greetings,Positive,[compony name] this is gina how can i help you
+C,NA,NA,hi Gina i need help moving on being relocated to Chicago for a new job
+A,Engagement,Positive,okay sure we can definitely help you
+A,Account Verification,Positive,may have your name?
+C,NA,NA,it's bob davis d-a-v-i-s
+A,Problem Investigation,Positive, and are you currently located in the Philadelphia area or are you near one of our national locations 
+C,NA,NA,I'm in Philadelphia
+A,Problem Investigation,Positive,okay what type of truck are you looking for to have for the move
+C,NA,NA,large one you got
+A,Problem Investigation,Positive,and what date are you looking to move 
+C,NA,NA,September 28th
+A,NA,NA, ok perfect 
+A,Problem Resolution,Positive,the large furniture trucks come with two movers you must rent the truck for a minimum of two days due to the distance okay?
+C,NA,NA,alright
+A,Problem Resolution,Positive,I approximated the distance between Philadelphia and Chicago the price will be one thousand $65 per day and you must also pay tolls
+C,NA,NA,okay great how do I pay for that
+A,Problem Resolution,Positive,okay many of our customers put down 50% of the estimated price as a deposit once arriving at your destination an exact price will be reached and the differenc will be due those customers write out a check at that point
+C,NA,NA,perfect can I stop by the office this week to drop off the deposit 
+A,Problem Resolution,Positive,absolutely I'm going to reserve that largest check that we have for September 28 and 29 is this correct?
+C,NA,NA,yes
+A,Engagement,Positive,all right Bob we will see you in about a month stop in whenever you are free and we can work out the deposit
+C,NA,NA,excellent thank you
+A,Closure,Positive,thank you have a nice day
+A,Greetings,Positive,thank you for calling Nissan my name is Lauren 
+A,Account Verification,Positive,can i have your name?
+C,NA,NA,yes my name is john smith
+A,Greetings,Positive,thank you John how can I help you?
+C,NA,NA,I was just calling about to see how much it would cost to update the map in my car
+A,Engagement,Positive,I'd be happy to help you with that today
+A,Problem Investigation,Positive,did you receive a mailer from us?
+C,NA,NA,i did do need the customer number 
+A,NA,NA,yes please
+C,NA,NA,it's one five two four three
+A,Problem Investigation,Positive,thank you and the year making model of your vehicle 
+C,NA,NA,yeah I have a 2009 Nissan Altima
+A,Engagement,Positive,Oh nice car 
+C,NA,NA,yeah thank you
+A,Account Verification,Positive,okay I think I found your profile here can I have you verify your address and phone number please
+C,NA,NA,yes it's 12:55 North research way that's in Orem Utah eight four zero nine seven and my phone number is a zero one four three one one
+A,Problem Resolution,Positive,thanks John I located your information the newest person we have available for your vehicle is version 7.7 which was released in March of 2012 the price of the new map is $99 plus shipping and tax let me go ahead and set up this order for you
+C,NA,NA,well can we wait just a second I'm not really sure if I can afford it right now
+A,Engagement,Positive,all right well here are a few reasons to consider purchasing today it looks as though you haven't updated your vehicle for three years so that would be the equivalent of getting three years worth of updates for the price of one 
+C,NA,NA,ok
+A,Engagement,Positive,in addition special offers like the current promotion don't come around too often I would definitely recommend taking advantage of the extra $50 off before it expires
+C,NA,NA,yeah that sounds pretty good
+A,Problem Resolution,Positive,if I set this order up for you now it'll ship out today and for $50 less do you have your credit card handy and I can place this order for you now 
+C,NA,NA,uh you know let's let's go ahead and use a visa
+A,NA,NA,ok great
+A,Greetings,Positive,welcome to Smith and Martin law offices I'm Joyce how many i help you?
+C,NA,NA,hello wow I'm glad your office is still open um I'd like to have an appointment with mr. Smith to discuss about legal separation issues
+A,Engagement,Positive,yes ma'am you can call us 24/7 and yes I can help you set up any meeting with counselor Smith what is your preferred date
+C,NA,NA,as soon as possible time
+A,Account Verification,Positive,before anything Alice may I have your name please so I can address you properly as well is tainted for the appointment wrong
+C,NA,NA,???
+A,Problem Investigation,Positive,thank you  let's see counselor Smith's early availability is on Friday at 8:00 a.m
+C,NA,NA,what that long
+A,Engagement,Positive,mi'm sorry ma'am unfortunately that's the only time is free although check to see if there's another time lot sooner than that
+A,Problem Resolution,Positive,I believe there's one here ok my apologies it's on Thursday at 5 p.m
+C,NA,NA,oh well that'll have to do that 
+A,Problem Resolution,Positive,very well ma'am so I'll Book you for a meeting with counselor Smith on Thursday at 5 p.m
+C,NA,NA,alright then
+A,Closure,Positive,ok is there anything else i can help you with
+C,NA,NA,no that's fine
+A,Closure,Positive,thank you for calling  Smith and Martin law offices have a nice day
+A,Greetings,Positive,thank you for choosing rocket speed internet my name is taylor how can i help you today
+C,NA,NA,hi my modem is mulfunctioning and i can't really afford for new modem so i would rather cancel my internet service
+A,Engagement,Positive,oh i am sorry to hear about that ma'am don't worry i'm hear to help you
+A,Account Verification,Positive,let's start first by verifying account number
+C,NA,NA,my number is 12345678 and my name is deborah brown
+A,NA,NA,thank you ms. brown
+A,Account Verification,Positive,may i please verify the last four digit of your social security number?
+C,NA,NA,its 1234
+A,NA,NA,got it thanks 
+A,Problem Resolution,Positive,ok here what i could for you since you have been with us for more than 5 years i'm gonna get you a free modem andm you will get it by tomorrow
+A,Problem Resolution,Positive,and also i'll sign you up for a 6 bmonths trial speed upgrade
+C,NA,NA,that is awsome thanks for that
+A,Closure,Positive,you are welcome and thanks for calling rocket speed internet have a nice day
+A,Greetings,Positive,thank you for ABC company my name is ashely how may i help you today
+C,Na,NA,i am calling beacuse i am receiving a wrong bill
+A,Engagement,Positive,sorry for the inconvenience madam 
+A,Account Verification,Positive,may i have your account number
+C,Na,NA,12345678
+A,Account Verification,Positive,for verification purpose mam can i get your name
+C,Na,NA,megan simpson
+A,Problem Investigation,Positive,thank you for that information per our system's data you did pay your bill last august 12 which was two days ago however the bill that you received was generated a week ago before  you made the payment that is why your last payment had not been reflected you can simply disregard it
+C,Na,NA,thank you
+A,Closure,Positive,will there be anything else that you need madam
+C,Na,NA,no thanks
+A,Closure,Positive,thank you for calling we are glad to assist you
+A,Greetings,Positive,This is Rodney of computer assistance
+C,NA,NA,This is Rodney of computer assistance
+A,Problem Investigation,Positive,What sort of trouble?
+C,NA,NA,Well it wouldn’t turn on.
+A,Problem Investigation,Positive,Are you in front of your PC right now
+C,NA,NA,yes
+A,Problem Resolution,Positive,Kindly check if the computer is properly plugged in
+C,NA,NA,yes it is
+A,Problem Resolution,Positive,Now try to push the power button in the System Unit – CPU
+C,NA,NA,ok nothing happened
+A,Problem Resolution,Positive,Can you turn on the light in your room
+C,NA,NA,Damn
+A,Problem Resolution,Positive,Sir
+C,NA,NA,Yup I guess so
+A,Closure,Positive,Thank you for calling and we are glad to be of your service.
+A,Greetings,Positive,Good morning madam
+C,NA,NA,Yes
+A,Account Verification,Positive,Yes
+C,NA,NA, my name is rose
+A,Account Verification,Positive,Can you provide me your account number please?
+C,NA,NA,I don’t know what it is?
+A,Problem Investigation,Positive,Do you have any previous bill with you madam?
+C,NA,NA,yes
+A,Engagement,Positive,Your account number is located at the top right hand corner of the bill statement. It’s a 9 digit code.
+C,NA,NA,Ok
+A,NA,NA,Please hold while I check your account in our system..
+C,NA,NA,ok
+A,Problem Resolution,Positive,As of the date today
+C,NA,NA,Ok
+A,Problem Investigation,Positive,Can you check the date of the bill?
+C,NA,NA,Ok
+A,Problem Resolution,Positive,Madam
+C,NA,NA,Ok. Thanks a lot.
+A,Closure,Positive,you are welcome have a nice day
+A,Greetings,Positive,Thank you for Calling
+A,Account Verification,Positive,May I please have your Phone or Account Number?
+C,NA,NA,Sure
+A,Account Verification,Positive,Got it
+C,NA,NA,It's Robert W. Smith I am the account holder.
+A,Problem Investigation,Positive,Agent: Ok
+A,Problem Investigation,Positive,can you check for me which lights are lit up on your modem.
+C,NA,NA,Fine! I have Power and Ethernet lights green on my modem. But
+A,Problem Investigation,Positive,the DSL light is flashing red on your modem. That means that you are not getting any dsl signal. The good thing is
+C,NA,NA,Well that's good then
+A,Problem Resolution,Positive,: You might have already checked on it. But
+C,NA,NA,Oh my goodness
+A,Closure,Positive,You are welcome. We are open 24 by 7 just in case that you'll need our help again. And again my name is JERRY we do value your business and thank you for choosing Rocket Speed Internet. Have a blessed day!
+A,Greetings,Positive,thank you for calling the k-state my name is Miranda 
+A,Account Verification,Positive,may you have your complete name
+C,NA,NA,sure this is laura perez
+A,Account Verification,Positive,can you have your email address
+C,NA,NA,ok it's laura_perez@gmail.com
+C,NA,NA,okay as you can see I cannot complete my booking through my mobile application I'm actually out today and I cannot use my computer I already tried to refresh application several times I also checked my internet connection and everything is working fine
+A,Problem Investigation,Positive,don't worry Laura I will help you resolve it so you cannot complete your booking even if you already refresh the page you also have a strong internet connection and you also double-check your payment method details does it show you any error messeage
+C,NA,NA,no
+A,Problem Investigation,Positive,are your apps automatically updated
+C,NA,NA,i don't think so
+A,Problem Investigation,Positive,oh but have you updated our software into its latest version
+C,NA,NA,no
+A,Problem Resolution,Positive,alright we havebupdated our software last week to remove the bugs that are solving this system now all we need to do is to update app on your phone so just open your App Store and look for the updates button on the lower right part of the Apple stores home screen please click the Update button
+C,NA,NA,ok i am doing it right now it is done
+A,Problem Resolution,Positive,oh great open the app and then try to book the place again 
+C,NA,NA,ok sure this is amazing I already booked a place
+A,Closure,Positive,glad to hear that do you have additional concerns that will do for now
+C,NA,NA,thank you so much for to help 
+A,Closure,Positive,you're welcome  and thank you for calling the k-state have a nice day
+A,Greetings,Positive,thank you for calling Martha's flowers how may i assist you?
+C,NA,NA,hello I'd like to order flowers and I think you have what I'm looking for
+A,Engagement,Positive,I'd be happy to take care of your order
+A,Account Verification,Positive,may have your name please
+C,NA,NA,Randall thomas
+A,Account Verification,Positive,thank you for that information Randall may have your home or office number area code first
+A,Problem Investigation,Positive,thank you for the information what flowers do yoy want to purchase
+C,NA,NA,one thousand of red roses do you want the long stem
+A,Problem Resolution,Positive,okay Randall we are ordering one dozen long-stemmed red roses to toll them out of your orders $40 and it will be shipped to your address within 24 hours
+C,NA,NA,ok thanks
+A,Closure,Positive,is there anything else I can help you with
+C,NA,NA,that's all for now
+A,Closure,Positive,no problem randall thank you for calling Martha's flowers have a nice day
+A,Greetings,Positive,good evening thank you for calling electronics rs this is Rachel how may I assist you
+C,Na,NA,hi Rachel I'd like to know how to use this car Bluetooth headset I recently purchased from your store 
+A,Engagement,Positive,sure ma'am I can help you out with that
+A,Account Verification,Positive,but before anything else may I have your name so that I can address you properly
+C,NA,NA,yes this is Meredith Blake
+A,Problem Investigation,Positive,okay thank you for that mrs. Blake what exactly do you want to do with your headset
+C,NA,NA,um I want to know how to use it
+A,Problem Investigation,Positive,okay ma'am I may get your headsets model name and number as well as the model of your phone
+C,NA,NA,i bought a Plantronics mark a 2m 165 and I use an iPhone 4s
+A,Problem Investigation,Positive,okay ma'am so have you tried pairing it with your headset with your phone
+C,NA,NA,yes i have
+A,Problem Resolution,Positive,first I need you to unpair your device with your phone
+C,NA,NA,ok done
+A,Problem Resolution,Positive,now please switch off your phone then turn it on again after around 5 seconds switch it off and on
+C,NA,NA,yes
+A,Problem Resolution,Positive,ok please pair it with your phone now
+C,NA,NA,ok paired now what
+A,Engagement,Positive,ma'am is your headset working now
+C,NA,NA,yes thank you so much
+A,Closure,Positive,you're welcome have a nice day
+A,Greetings,Positive,good afternoon tbh network solution how can i help you
+C,NA,NA,yeah my system is down and i need to speak with a technician
+A,Engagement,Positive,ok let me gather some information and see if we can help
+A,Account Verification,Positive,what is your name
+C,NA,NA,fred
+A,Account Verification,Positive,and your last name
+C,NA,NA,perez
+A,Problem Investigation,Positive,ok and what seems to be a problem today
+C,NA,NA,my agents aren't able to make or receive any telephone calls
+A,Problem Investigation,Positive,ok and what kind of system you have
+C,NA,NA,i have amstar700
+A,Problem Investigation,Positive,ok according to my records the amstar700 is a voiceover internet protocol phone that is appear that becuase your internet is not working your phonr is not working as well
+A,Problem Resolution,Positive,ok i'm going to get a hold of randy and have him return your call
+C,NA,NA,thank you very much for your help
+A,Closure,Positive,you're welcome thank you have a nice day
+A,Greetings,Positive,it's agood day at bank of wealth my name is john how can i halp you
+C,NA,NA,i woul like to know my remaining money in my account
+A,Account Verification,Positive,i'll be glad to help you may i please get your bank account number and the name on the account
+C,NA,NA,sure it is mary and the acoount number is 1234567
+A,Problem Investigation,Positive,thanlks let's me just check on it
+A,Account Verification,Positive,ok can you please verify the last four digits of your id
+C,NA,NA,it is 7396
+A,Problem Resolution,Positive,you still have 10000 dollars 
+A,Closure,Positive,is there anything else that i can assist you with
+C,NA,NA,no that's it for today thank you
+A,Closure,Positive,you are very much welcome you have a great day

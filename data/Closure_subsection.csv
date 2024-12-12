@@ -1,0 +1,637 @@
+Category,Text,Offer further assistance,Thank the customer for calling,Greet farewell to the customers,Express Gratitude
+Closure,"I have already submitted a request and you will receive an email or text message after three days for the decision.",0,0,0,0
+Closure,"I am so happy for you too Miss Collins and it has been my pleasure to assist you.",0,0,0,1
+Closure,"Did I address all your concerns today?",1,0,0,0
+Closure,"You're welcome.",0,0,0,1
+Closure,"Thanks for calling Shapes Rewards and enjoy your day.",0,1,1,1
+Closure,"The replacement has been processed and have I address all your concerns?",1,0,0,0
+Closure,"My pleasure and thank you for calling Grand Number One.",0,1,0,1
+Closure,"Enjoy the rest of your day.",0,0,1,0
+Closure,"Do you have any other questions Pauline?",1,0,0,0
+Closure,"You're welcome.",0,0,0,1
+Closure,"Thanks for calling our hotel.",0,1,0,1
+Closure,"We look forward to your enjoyable stay.",0,0,1,0
+Closure,"Bye.",0,0,1,0
+Closure,"Is there anything else?",1,0,0,0
+Closure,"Bye, yes, ma'am.",0,0,1,0
+Closure,"Thank you for calling XYZ.",0,1,0,1
+Closure,"My pleasure to assist you.",0,0,0,1
+Closure,"Have I addressed your concerns?",1,0,0,0
+Closure,"Thanks for calling Quick Internet.",0,1,0,1
+Closure,"Once again this is Anna.",0,0,0,0
+Closure,"Have a wonderful day.",0,0,1,0
+Closure,"So, have I addressed all your concerns today?",1,0,0,0
+Closure,"Well it's been my pleasure to assist you Francis.",0,0,0,1
+Closure,"Once again, my name is Rhea.",0,0,0,0
+Closure,"Thank you for calling Sprite and hope you have a great day.",0,1,1,1
+Closure,"Have I addressed your concerns today?",1,0,0,0
+Closure,"Yes, it is.",0,0,0,0
+Closure,"Well Peter, if there's nothing else, thank you so much for choosing Life Member Services.",0,1,0,1
+Closure,"You take care and I'm wishing for your speedy recovery.",0,0,1,0
+Closure,"Do you have any questions for me?",1,0,0,0
+Closure,"My pleasure.",0,0,0,1
+Closure,"Thank you so much for your order Amanda.",0,0,0,1
+Closure,"Have a great evening.",0,0,1,0
+Closure,"Is there anything else I can help you with sir?",1,0,0,0
+Closure,"If none, thanks for calling and don't hesitate to call again if ever you'll have a problem with your connection.",1,1,0,1
+Closure,"Have a great day sir.",0,0,1,0
+Closure,"Bye.",0,0,1,0
+Closure,"Is there anything else I can help you with?",1,0,0,0
+Closure,"No problem Randall.",0,0,0,0
+Closure,"Thank you for calling Martha's Flowers.",0,1,0,1
+Closure,"Have a nice day.",0,0,1,0
+Closure,"Is there anything else that I can help you with Mr. Logan?",1,0,0,0
+Closure,"You're welcome and thank you very much for choosing Delonix and enjoy the rest of your afternoon.",0,1,1,1
+Closure,"Thank you, bye.",0,1,1,1
+Closure,"Aside from this, is there anything else that I can help you with?",1,0,0,0
+Closure,"I think we are all set.",0,0,0,0
+Closure,"For other queries, feel free to visit our help pages.",0,0,0,0
+Closure,"Thank you for calling amazon and have a nice day.",0,1,1,1
+Closure,"Aside from this, is there anything else that I can assist?",1,0,0,0
+Closure,"I'm really glad to help!",0,0,0,1
+Closure,"You may also see the help pages for other queries, Max.",1,0,0,0
+Closure,"Thank you for calling Rex Global and have a nice day.",0,1,1,1
+Closure,"Goodbye.",0,0,1,0
+Closure,"Anything else that I can help?",1,0,0,0
+Closure,"That's good to hear.",0,0,0,0
+Closure,"I'm glad to help you.",0,0,0,1
+Closure,"For other concerns, feel free to visit our help pages.",1,0,0,0
+Closure,"Thank you for calling JP International.",0,1,0,1
+Closure,"Have a nice day.",0,0,1,0
+Closure,"Goodbye.",0,0,1,0
+Closure,"Is there anything else that I can help you with today?",1,0,0,0
+Closure,"Bye, have a great day Amber.",0,0,1,0
+Closure,"Thank you for calling home supplies.",0,1,0,1
+Closure,"Is there anything else that I can help you with today?",1,0,0,0
+Closure,"Have a good one John.",0,0,1,0
+Closure,"Thank you for calling Power Up.",0,1,0,1
+Closure,"Bye.",0,0,1,0
+Closure,"I will be forwarding this over to our corporate office and thank you again for calling Coats and Gowns.",0,1,0,1
+Closure,"Is there anything else I can help you with today?",1,0,0,0
+Closure,"You're welcome and my pleasure.",0,0,0,1
+Closure,"Have a nice day.",0,0,1,0
+Closure,"Bye.",0,0,1,0
+Closure,"Is there anything else I can help with John?",1,0,0,0
+Closure,"You too.",0,0,1,0
+Closure,"Bye.",0,0,1,0
+Closure,"Thank you for calling South Chicago Southern Cellular Service.",0,1,0,1
+Closure,"I hope I was able to help you with your issue.",0,0,0,0
+Closure,"And, if you have any questions regarding your account.",1,0,0,0
+Closure,"Please call us back at 800 504 3644.",0,0,0,0
+Closure,"Our office hours is 8 a.m to 5 p.m.",0,0,0,0
+Closure,"Monday to Friday, Central Time.",0,0,0,0
+Closure,"Thank you so much for your time Edward.",0,0,0,1
+Closure,"Have a great day.",0,0,1,0
+Closure,"You're most welcome and is there anything else that I can further assist you with today?",1,0,0,1
+Closure,"Now, that's everything.",0,0,0,0
+Closure,"Sure, enjoy your order.",0,0,1,0
+Closure,"Have a good day.",0,0,1,0
+Closure,"Thank you.",0,0,0,1
+Closure,"Is there anything else that I can further assist you with today?",1,0,0,0
+Closure,"You are most welcome.",0,0,0,1
+Closure,"Again, thank you so much for calling Ava's Flowers.",0,1,0,1
+Closure,"Have a great day.",0,0,1,0
+Closure,"Bye.",0,0,1,0
+Closure,"I am so happy for you and thank you for partnering with me today.",0,0,0,1
+Closure,"I hope I was able to make you smile and I'm praying for your fast recovery.",0,0,1,1
+Closure,"And is there anything else that I can further assist you with today?",1,0,0,0
+Closure,"You're most welcome again.",0,0,0,1
+Closure,"This is Jeline.",0,0,0,0
+Closure,"Enjoy the rest of the day.",0,0,1,0
+Closure,"Thank you for being the best part of Verizon.",0,0,0,1
+Closure,"Bye for now.",0,0,1,0
+Closure,"Is there anything else that I can help you with for today Mike?",1,0,0,0
+Closure,"Thank you.",0,0,0,1
+Closure,"Just a quick recap you called it today because you can't print from your computer.",0,0,0,0
+Closure,"We tested the printer and it's working fine we found out that your printer is not connected to your wi-fi so we reconnected it and now it's printing perfectly.",0,0,0,0
+Closure,"If ever this happened again try, to turn on and off your modem first and check then follow the steps we did earlier to fix the printer again.",0,0,0,0
+Closure,"This is Harold and thank you for calling tech support.",0,1,0,1
+Closure,"You have a wonderful day.",0,0,1,0
+Closure,"So is there anything else Brian that I can possibly assist with today?",1,0,0,0
+Closure,"Oh, you're welcome.",0,0,0,1
+Closure,"Thank you so much as well for calling again technical support department.",0,1,0,1
+Closure,"My name is Sunshine.",0,0,0,0
+Closure,"You have a wonderful day.",0,0,1,0
+Closure,"So, that includes the reservation number and if you have questions, please do not hesitate to call us back, okay?",1,0,0,0
+Closure,"Okay and, is there anything else that I can assist you with Roxanne?",1,0,0,0
+Closure,"Okay, goodbye.",0,0,1,0
+Closure,"They're very much welcome and thank you as well for choosing Mary Hotel.",0,1,0,1
+Closure,"You have a great day.",0,0,1,0
+Closure,"Okay, goodbye for now.",0,0,1,0
+Closure,"My pleasure, Is there anything I can do for you Ms. Hernani?",1,0,0,1
+Closure,"Thank You Ms. Hernani for calling.",0,1,0,1
+Closure,"We'll see you in April.",0,0,0,0
+Closure,"Have a nice day.",0,0,1,0
+Closure,"Is there anything else I can help you with today?",1,0,0,0
+Closure,"Thanks for calling and have a great day.",0,1,1,0
+Closure,"Bye.",0,0,1,0
+Closure,"I will discuss your feedback with my supervisor.",0,0,0,0
+Closure,"Have a nice day, sir.",0,0,1,0
+Closure,"Is there anything else I can help you with sir?",1,0,0,0
+Closure,"If none, thanks for calling and don't hesitate to call again if ever you'll have a problem with your connection.",1,1,0,0
+Closure,"Have a great day sir.",0,0,1,0
+Closure,"Bye.",0,0,1,0
+Closure,"I'm glad to help you and will there be anything that I can assist you today?",1,0,0,0
+Closure,"Thank you so much for calling, goodbye ma'am.",0,1,1,1
+Closure,"Is there anything else that I can further assist you with today?",1,0,0,0
+Closure,"You're most welcome. Again, thank you so much for calling Ava's Flower! Have a great day.",0,1,1,1
+Closure,"You're welcome.",0,0,0,1
+Closure,"Is there else that I can help you with?",1,0,0,0
+Closure,"You are welcome John, thank you for calling ABC customer care. Goodbye.",0,1,1,1
+Closure,"Thanks for calling, have a great day.",0,1,1,0
+Closure,"And now I understand you do understand that fee but I just want to make sure that there was no additional questions or concerns regarding the account, device, or any other agency mobility services that I could resolve for you today.",1,0,0,0
+Closure,"Well, once again my name Brittany Davis and thank you for being a valued iPhone customer. You have a great day.",0,1,1,1
+Closure,"Will there be anything else I can assist you with?",1,0,0,0
+Closure,"So thank you for calling Finish Limited, enjoy your weekdays, bye.",0,1,1,1
+Closure,"Okay great, thanks for calling us, goodbye.",0,1,1,0
+Closure,"You are welcome sir, have a nice day.",0,0,1,1
+Closure,"You're welcome Mr. Springer, have a nice day.",0,0,1,1
+Closure,"You're welcome. Is there anything else that I can help you with for today Mike?",1,0,0,1
+Closure,"Again this is Harold, thank you for calling tech support. You have a wonderful day.",0,1,1,1
+Closure,"Is there anything else I can help you with today",1,0,0,0
+Closure,"Thank you, have a great night",0,0,1,1
+Closure,"You're welcome and thank you for calling Elkins Builders",0,1,0,1
+Closure,"You are welcome, bye",0,0,1,1
+Closure,"Great, have a nice day",0,0,1,0
+Closure,"Is there anything else that I can do for you today",1,0,0,0
+Closure,"Ok, thank you, have a great day",0,0,1,1
+Closure,"You're welcome and thank you for calling Parker Scarf and I hope your wife enjoys your birthday gift",0,1,0,1
+Closure,"You're welcome, bye bye",0,0,1,1
+Closure,"No problem, is there anything else I could help you with today",1,0,0,0
+Closure,"Thank you, have a nice day",0,0,1,1
+Closure,"Thank you, have a nice day",0,0,1,1
+Closure,"Ok, is there anything else I can help you with",1,0,0,0
+Closure,"Thank you for calling Smith and Martin Law Offices, have a nice day",0,1,1,1
+Closure,"You are welcome and thanks for calling Rocket Speed Internet, have a nice day",0,1,1,1
+Closure,"Will there be anything else that you need, madam",1,0,0,0
+Closure,"Thank you for calling, we are glad to assist you",0,1,0,1
+Closure,"Thank you for calling and we are glad to be of your service",0,1,0,1
+Closure,"You are welcome, have a nice day",0,0,1,1
+Closure,"You are welcome. We are open 24 by 7 just in case that you'll need our help again. And again, my name is JERRY, we do value your business and thank you for choosing Rocket Speed Internet. Have a blessed day!",0,1,1,1
+Closure,"Glad to hear that, do you have additional concerns that will do for now",1,0,0,0
+Closure,"You're welcome and thank you for calling the K-State, have a nice day",0,1,1,1
+Closure,"Is there anything else I can help you with",1,0,0,0
+Closure,"No problem Randall, thank you for calling Martha's Flowers, have a nice day",0,1,1,1
+Closure,"You're welcome, have a nice day",0,0,1,1
+Closure,"You're welcome, thank you, have a nice day",0,1,1,1
+Closure,"Is there anything else that I can assist you with",1,0,0,0
+Closure,"You are very much welcome, you have a great day",0,0,1,1
+Closure,"Thank you for reaching out! Your issue has been resolved. Have a great day!",0,0,1,1
+Closure,"Unfortunately, I was unable to resolve your issue at this time. Please contact support for further help.",0,0,0,0
+Closure,"I’m glad I could assist you today. If you need anything else, don’t hesitate to reach out.",1,0,0,1
+Closure,"We weren’t able to solve your issue. Please let us know if we can help you in another way.",1,0,0,0
+Closure,"Your issue has been resolved! Feel free to reach out if you have any more questions.",1,0,0,1
+Closure,"Sorry, we couldn’t resolve your issue. You can follow up with our support team.",0,0,0,0
+Closure,"It was a pleasure assisting you! Your case is now closed.",0,0,1,1
+Closure,"We haven’t reached a resolution yet, but I’ll make sure to escalate it.",1,0,0,0
+Closure,"Thank you for your patience. Your issue has now been resolved!",0,0,0,1
+Closure,"Unfortunately, your issue is still open. Please check back soon for updates.",0,0,0,0
+Closure,"Your case has been closed. Thank you for contacting us!",0,1,0,1
+Closure,"Thank you for your patience, and we appreciate you reaching out to us.",0,1,0,1
+Closure,"We were unable to resolve your issue today. Please contact us for further assistance.",0,0,0,0
+Closure,"It’s been a pleasure helping you. Your case is now closed.",0,0,1,1
+Closure,"Thank you for your time. Your case has been resolved successfully.",0,0,1,1
+Closure,"Unfortunately, I am unable to close your case without a resolution.",0,0,0,0
+Closure,"We’ve solved the issue. Thank you for your understanding!",0,0,0,1
+Closure,"I’m happy to report that your issue is resolved! Let me know if you need any further assistance.",1,0,0,1
+Closure,"Unfortunately, we couldn’t resolve your issue today. Please follow up with us later.",0,0,0,0
+Closure,"Unfortunately, we haven’t been able to fix the issue yet. Please try again later.",0,0,0,0
+Closure,"Your case is now resolved! Thank you for reaching out to us.",0,1,0,1
+Closure,"Unfortunately, we haven’t resolved your issue yet. Please check back later.",0,0,0,0
+Closure,"Thank you for reaching out! Your issue is resolved and your case is closed.",0,0,0,1
+Closure,"Your issue is now resolved! Let me know if you need further assistance.",1,0,0,0
+Closure,"Unfortunately, we couldn’t find a resolution. Please contact us again.",1,0,0,0
+Closure,"We’ve successfully resolved your issue. Thank you for reaching out!",0,0,0,1
+Closure,"I’m afraid your issue hasn’t been resolved yet. Please follow up in a few hours.",1,0,0,0
+Closure,"Unfortunately, we couldn’t fix the issue in this session. Please try again later.",1,0,0,0
+Closure,"Your case has been resolved! Thank you for contacting us.",0,1,0,1
+Closure,"Unfortunately, I couldn’t resolve your issue. Please contact us again for further support.",1,0,0,0
+Closure,"Your case has been closed successfully. Thank you for your time!",0,0,0,1
+Closure,"I’m happy to inform you that your issue has been resolved. Thank you for your patience!",0,0,0,1
+Closure,"Your case is now closed. Thank you for allowing us to assist you!",0,0,0,1
+Closure,"Your issue has been successfully resolved. Thank you for contacting us!",0,1,0,1
+Closure,"Your issue hasn’t been resolved yet. We’ll keep you updated with any progress.",1,0,0,0
+Closure,"Thank you for contacting us! Your issue has been successfully resolved.",0,1,0,1
+Closure,"I’m sorry, we were unable to resolve your issue at this time. Please try again later.",1,0,0,0
+Closure,"Unfortunately, we weren’t able to resolve your issue. Please try again later.",1,0,0,0
+Closure,"Your issue has been successfully resolved. Thank you for your understanding.",0,0,0,1
+Closure,"Your case has been closed. Thank you for reaching out, and have a great day!",0,1,1,1
+Closure,"Unfortunately, we weren’t able to resolve your issue. Please reach out again if needed.",1,0,0,0
+Closure,"Your issue has been resolved successfully. Thanks for contacting us!",0,1,0,1
+Closure,"The issue is resolved and your case has been closed. Thank you!",0,0,0,1
+Closure,"Unfortunately, your issue remains unresolved. Please check back later.",1,0,0,0
+Closure,"Your issue has been successfully resolved. Thank you for your patience.",0,0,0,1
+Closure,"We weren’t able to resolve your issue this time, but we’ll keep trying.",1,0,0,0
+Closure,"Unfortunately, we couldn’t resolve your issue, but please reach out again if needed.",1,0,0,0
+Closure,"Your issue has been resolved successfully. Thank you for your patience.",0,0,0,1
+Closure,"We couldn’t resolve your issue this time, but we are committed to fixing it.",1,0,0,0
+Closure,"Your case is still open, and we haven’t been able to resolve your issue yet.",1,0,0,0
+Closure,"Unfortunately, your issue remains unresolved. Please reach out again if needed.",1,0,0,0
+Closure,"Great! I’m glad we were able to resolve that for you.",0,0,0,1
+Closure,"Thank you for reaching out. If you need any further help, feel free to ask.",1,0,0,1
+Closure,"I’m happy we could solve your issue. Let me know if you need anything else.",1,0,0,1
+Closure,"Thank you for your patience. I’m glad we got that sorted for you.",0,0,0,1
+Closure,"We’ve resolved that issue. If you have any other questions, feel free to ask.",1,0,0,0
+Closure,"Everything should be working now. Thank you for your time!",0,0,0,1
+Closure,"I’m glad we could assist you. Please don’t hesitate to reach out again!",1,0,0,1
+Closure,"Thank you! If you need further help, we’re always here.",1,0,0,1
+Closure,"Glad to have helped you. Let us know if anything else comes up.",1,0,0,1
+Closure,"I’m sorry, but it seems we haven’t resolved the issue fully yet. Let me know if you'd like further assistance.",1,0,0,0
+Closure,"Unfortunately, we haven't been able to resolve everything yet. Please don’t hesitate to reach out again.",1,0,0,0
+Closure,"I’m sorry we couldn't resolve that completely. Please let us know if you need further support.",1,0,0,0
+Closure,"I regret we weren't able to fix that issue. Let me know if you'd like further assistance.",1,0,0,0
+Closure,"Unfortunately, the issue still persists. We can look into it further if you wish.",1,0,0,0
+Closure,"I’m sorry the problem wasn’t completely resolved. We can continue working on it if you need.",1,0,0,0
+Closure,"I understand you’re still facing issues. Feel free to reach out anytime for further help.",1,0,0,0
+Closure,"I regret that we were not able to resolve everything. Please let me know if you’d like additional assistance.",1,0,0,0
+Closure,"Unfortunately, the problem isn’t fully fixed yet. Let me know if you'd like us to continue working on it.",1,0,0,0
+Closure,"Thank you for working with me. Everything is resolved now!",0,0,0,1
+Closure,"I’m happy to hear that the issue is fixed! Let me know if you need further help.",1,0,0,1
+Closure,"Great! The issue has been resolved. Feel free to contact us again if you need anything.",1,0,0,1
+Closure,"I’m glad everything is working now. Please let us know if there’s anything else we can do.",1,0,1,0
+Closure,"I’m happy we’ve solved your issue. Feel free to reach out again if needed!",1,0,1,0
+Closure,"It was a pleasure helping you. Everything should be good now!",0,0,1,1
+Closure,"I’m glad we could resolve the issue for you. Have a great day!",0,0,1,1
+Closure,"Thanks for your patience! All issues have been addressed, take care!",0,0,1,1
+Closure,"Everything’s taken care of now. Don’t hesitate to ask if you need more assistance!",1,0,0,0
+Closure,"Unfortunately, we haven’t quite resolved the issue. Would you like further assistance?",1,0,0,0
+Closure,"The issue seems to persist. Let me know if you’d like to continue troubleshooting.",1,0,0,0
+Closure,"I regret we weren’t able to resolve everything fully. Please reach out again.",0,0,0,0
+Closure,"I’m sorry the problem isn’t completely fixed. We can try again if you'd like.",1,0,0,0
+Closure,"It appears the issue isn’t fully resolved yet. Let me know if you’d like to continue working on it.",1,0,0,0
+Closure,"Unfortunately, we couldn’t fully solve the problem. Feel free to contact us again.",1,0,0,0
+Closure,"I apologize for the inconvenience. We can continue working on this if needed.",1,0,0,0
+Closure,"I’m afraid we haven’t resolved everything completely yet. Feel free to reach out for further assistance.",1,0,0,0
+Closure,"I regret that we couldn't resolve the issue entirely. Please feel free to contact us again.",1,0,0,0
+Closure,"I’m glad we were able to solve the issue! Let me know if you need further assistance.",1,0,1,0
+Closure,"Thank you for your patience. Everything has been resolved!",0,0,0,1
+Closure,"Great! The issue is fully resolved. Let me know if you need help with anything else.",1,0,1,0
+Closure,"I'm happy to confirm everything is now fixed! Feel free to reach out if needed.",1,0,1,0
+Closure,"It was my pleasure to help! Everything is good now, don’t hesitate to ask if needed.",1,0,1,1
+Closure,"I'm glad to hear everything's resolved! Feel free to contact me again if you need anything.",1,0,1,0
+Closure,"Awesome! The issue is fixed. If anything else comes up, I’m here to help.",1,0,1,0
+Closure,"Everything is resolved now. Feel free to contact us if you need further help.",1,0,1,0
+Closure,"Unfortunately, the problem isn’t completely fixed yet. Let me know if you need further assistance.",1,0,0,0
+Closure,"It seems the issue persists. Would you like to continue troubleshooting?",1,0,0,0
+Closure,"I'm sorry, but we haven't fully resolved the issue. Do you want to try again?",1,0,0,0
+Closure,"I’m afraid the issue is still unresolved. Let me know if you need more help.",1,0,0,0
+Closure,"It appears there’s still a problem. We can continue troubleshooting if you'd like.",1,0,0,0
+Closure,"Unfortunately, everything isn’t fixed yet. Would you like to keep working on it?",1,0,0,0
+Closure,"I'm sorry the problem hasn’t been fully solved yet. Would you like additional help?",1,0,0,0
+Closure,"It looks like we haven’t resolved everything yet. Feel free to contact me again.",1,0,0,0
+Closure,"Glad we could resolve the issue! Let me know if you need anything else.",1,0,1,0
+Closure,"Great! Everything is fixed. Feel free to reach out if you need further help.",1,0,1,0
+Closure,"The issue is resolved! Let me know if you need anything else.",1,0,1,0
+Closure,"It looks like everything is working now! Let me know if you need more assistance.",1,0,1,0
+Closure,"The problem is solved! Feel free to reach out again if needed.",1,0,1,0
+Closure,"All set! The issue is fixed. Feel free to contact me again.",1,0,1,0
+Closure,"I’m glad we resolved the issue. Let me know if you need help again.",1,0,1,0
+Closure,"I’m afraid the issue still persists. Would you like to try again?",1,0,0,0
+Closure,"It seems the problem hasn't been fully fixed. Would you like more help?",1,0,0,0
+Closure,"Unfortunately, the issue isn’t resolved yet. Should we continue troubleshooting?",1,0,0,0
+Closure,"I’m sorry the problem persists. Can I assist you further?",1,0,0,0
+Closure,"It looks like we haven't fully resolved everything. Would you like to continue?",1,0,0,0
+Closure,"I’m afraid there’s still an issue. Would you like to continue working on it?",1,0,0,0
+Closure,"The problem still seems to be there. Would you like more assistance?",1,0,0,0
+Closure,"The issue isn’t fully fixed yet. Can I assist you with that?",1,0,0,0
+Closure,"The issue is resolved! Let me know if there's anything else I can assist with.",1,0,1,0
+Closure,"Great! Everything is sorted. Feel free to reach out again if you need help.",1,0,1,0
+Closure,"Your issue has been resolved. Let me know if you need anything else.",1,0,1,0
+Closure,"The problem is fixed! Let me know if you need further assistance.",1,0,1,0
+Closure,"All done! If you have any more questions, feel free to ask.",1,0,1,0
+Closure,"Glad we got that resolved! Let me know if you need help again.",1,0,0,0
+Closure,"The issue is now resolved. Don’t hesitate to ask if you need anything further.",1,0,0,0
+Closure,"It looks like there’s still an issue. Would you like me to continue helping?",1,0,0,0
+Closure,"Unfortunately, the issue isn't fixed. Would you like to continue troubleshooting?",1,0,0,0
+Closure,"It seems like we need to keep working on this. Can I assist you further?",1,0,0,0
+Closure,"I’m afraid the issue persists. Would you like to proceed with more assistance?",1,0,0,0
+Closure,"It seems there’s still a problem. Can I continue assisting you?",1,0,0,0
+Closure,"I’m sorry, but the issue is still there. Would you like to try again?",1,0,0,0
+Closure,"The problem is not fully resolved. Let me know if you need further assistance.",1,0,0,0
+Closure,"It seems we haven’t fully solved the issue yet. Can I help you further?",1,0,0,0
+Closure,"Thanks for your patience! The issue is resolved now.",0,0,0,1
+Closure,"The resolution is complete. Let me know if anything else comes up.",1,0,0,0
+Closure,"Everything is taken care of. Reach out if you have further questions!",1,0,0,0
+Closure,"Great news! The issue has been sorted out.",0,0,0,0
+Closure,"Thank you for waiting. Your problem is now resolved.",0,0,0,1
+Closure,"All set! Please let me know if there’s anything else I can help with.",1,0,0,0
+Closure,"The matter is resolved. If anything else arises, I’m here to help.",1,0,0,0
+Closure,"We’re still working on it. Do you want me to explore further solutions?",1,0,0,0
+Closure,"Unfortunately, the issue persists. Shall we proceed with additional troubleshooting?",1,0,0,0
+Closure,"I apologize, but the matter isn’t fully resolved yet. Can I continue helping?",1,0,0,0
+Closure,"It looks like there’s more work to be done. Shall we carry on resolving it?",1,0,0,0
+Closure,"I see that the problem remains unresolved. Would you like further assistance?",1,0,0,0
+Closure,"The issue isn’t completely fixed. Let me know how else I can assist.",1,0,0,0
+Closure,"We haven’t completely resolved the issue. How can I continue to help?",1,0,0,0
+Closure,"I’m sorry, but we need more time to fix this. Would you like me to continue?",1,0,0,0
+Closure,"Everything is all set now. Thanks for your cooperation!",0,0,0,1
+Closure,"Thank you for your patience! The issue has been resolved.",0,0,0,1
+Closure,"The matter is resolved. Let me know if there’s anything more I can do.",1,0,0,0
+Closure,"We’ve completed everything. Please reach out if you have more concerns.",1,0,0,0
+Closure,"We weren’t able to resolve everything today, but I’ll continue working on it.",1,0,0,0
+Closure,"I’m sorry for the inconvenience. We’ll need more time to fully resolve this.",1,0,0,0
+Closure,"The resolution is still in progress. Thanks for understanding!",0,0,0,1
+Closure,"The issue remains unresolved, but I’ll ensure to follow up soon.",1,0,0,0
+Closure,"We’ve wrapped everything up. Thanks for reaching out to us!",0,0,1,1
+Closure,"The case is closed successfully. Let me know if there’s more I can do.",1,0,0,0
+Closure,"Thank you for allowing me to assist you. Have a great day!",0,0,1,1
+Closure,"The problem has been resolved completely. Feel free to reach out anytime.",1,0,0,0
+Closure,"Unfortunately, we couldn’t resolve this fully today, but I’ll follow up.",1,0,0,0
+Closure,"I apologize for the delay. We’ll continue to work on this issue.",1,0,0,0
+Closure,"We’re not done yet, but I’ll ensure this is resolved soon.",1,0,0,0
+Closure,"I’m sorry for the inconvenience. We’ll follow up with further updates.",1,0,0,0
+Closure,"If there’s anything more I can do, please let me know!",1,0,0,0
+Closure,"Do you need any further help with this?",1,0,0,0
+Closure,"Feel free to ask for more assistance if needed!",1,0,0,0
+Closure,"Would you like me to look into this further?",1,0,0,0
+Closure,"Let me know if there’s anything else I can assist you with.",1,0,0,0
+Closure,"If the issue persists, I’m happy to help further.",1,0,0,0
+Closure,"Would you like me to investigate additional solutions for you?",1,0,0,0
+Closure,"Let me know if we need to dive deeper into this problem.",1,0,0,0
+Closure,"Should I explore other ways to resolve this for you?",1,0,0,0
+Closure,"I’m here if you’d like further clarification or assistance.",1,0,0,0
+Closure,"If this doesn’t fully resolve the issue, I’m available to help more.",1,0,0,0
+Closure,"Would you like me to continue assisting with this matter?",1,0,0,0
+Closure,"Let me know if additional help is needed to solve this completely.",1,0,0,0
+Closure,"I’m ready to assist further if necessary. Just let me know!",1,0,0,0
+Closure,"If there’s anything else you’d like me to check, I’m here to help.",1,0,0,0
+Closure,"Should we try a different approach to resolve this issue?",1,0,0,0
+Closure,"Would you like me to continue exploring options to fix this?",1,0,0,0
+Closure,"Please let me know if there’s more I can do to help resolve this.",1,0,0,0
+Closure,"Feel free to let me know if further assistance is required.",1,0,0,0
+Closure,"I’m available if you need additional support to address this.",1,0,0,0
+Closure,"If you’d like more guidance, I’m happy to assist.",1,0,0,0
+Closure,"Do you need me to check anything else to fully resolve this?",1,0,0,0
+Closure,"Let me know if there’s anything else I can follow up on.",1,0,0,0
+Closure,"I’d be happy to assist further if you have more questions.",1,0,0,0
+Closure,"Would you like me to keep troubleshooting this issue with you?",1,0,0,0
+Closure,"If the issue still isn’t resolved, I can look into it further.",1,0,0,0
+Closure,"Should we explore additional steps to fix the problem?",1,0,0,0
+Closure,"I’m here to help further if you’d like to continue troubleshooting.",1,0,0,0
+Closure,"Let me know if there’s anything else you’d like me to address.",1,0,0,0
+Closure,"Would you like me to provide more support for this issue?",1,0,0,0
+Closure,"If you require additional help, don’t hesitate to let me know.",1,0,0,0
+Closure,"Should you need any further guidance, feel free to reach out.",1,0,0,0
+Closure,"I’m happy to assist with any other concerns you might have.",1,0,0,0
+Closure,"If you have any lingering questions, I can continue helping.",1,0,0,0
+Closure,"Let me know if there’s anything else I can do to resolve this for you.",1,0,0,0
+Closure,"Feel free to ask if you’d like me to look into this issue further.",1,0,0,0
+Closure,"I’m here if you want me to explore other options for you.",1,0,0,0
+Closure,"Should I walk you through additional troubleshooting steps?",1,0,0,0
+Closure,"If you encounter any more issues, don’t hesitate to contact me.",1,0,0,0
+Closure,"Would you like me to assist further with this matter?",1,0,0,0
+Closure,"Please let me know if you'd like more help with this issue.",1,0,0,0
+Closure,"If you need clarification on anything, I’m happy to help!",1,0,0,0
+Closure,"Feel free to reach out if you need further assistance or details.",1,0,0,0
+Closure,"Should we explore other potential solutions to resolve this?",1,0,0,0
+Closure,"I’m here if you’d like to continue with troubleshooting or need more help.",1,0,0,0
+Closure,"Let me know if I should take another look at this for you.",1,0,0,0
+Closure,"If you need more information, I’m ready to assist.",1,0,0,0
+Closure,"Would you like me to help with another approach to this issue?",1,0,0,0
+Closure,"I can continue to assist if the problem persists.",1,0,0,0
+Closure,"If you'd like to keep going with troubleshooting, I’m available.",1,0,0,0
+Closure,"I can provide more support if needed, just let me know.",1,0,0,0
+Closure,"If you need any more assistance, please feel free to reach out.",1,0,0,0
+Closure,"Should I investigate further to ensure everything is fixed?",1,0,0,0
+Closure,"If you have any other concerns, I’m happy to keep helping.",1,0,0,0
+Closure,"Let me know if you need me to check anything else for you.",1,0,0,0
+Closure,"I’m here if you want me to assist with another step.",1,0,0,0
+Closure,"Feel free to contact me again if anything else comes up.",1,0,0,0
+Closure,"Would you like me to continue supporting you with this issue?",1,0,0,0
+Closure,"If you have any other questions, I’m more than happy to assist further.",1,0,0,0
+Closure,"Should you need additional help or clarification, feel free to reach out.",1,0,0,0
+Closure,"I can guide you through the next steps if needed.",1,0,0,0
+Closure,"If you'd like, I can assist you with any further troubleshooting.",1,0,0,0
+Closure,"Please don’t hesitate to contact me if more issues arise.",1,0,0,0
+Closure,"Should you need any additional support, I’m here to help.",1,0,0,0
+Closure,"If you encounter any challenges, just let me know and I’ll help.",1,0,0,0
+Closure,"I’m available if you need me to dive deeper into this issue.",1,0,0,0
+Closure,"Feel free to ask if you’d like me to investigate further.",1,0,0,0
+Closure,"If you need any additional information, I’m here for you.",1,0,0,0
+Closure,"Should we continue working on this or would you prefer to check something else?",1,0,0,0
+Closure,"I’d be happy to assist you with any other questions you may have.",1,0,0,0
+Closure,"Let me know if you’d like me to follow up with more details or help.",1,0,0,0
+Closure,"I can assist you further if you need any more guidance on this.",1,0,0,0
+Closure,"I’m ready to help if you encounter any more issues.",1,0,0,0
+Closure,"Feel free to reach out if you need further explanation or help.",1,0,0,0
+Closure,"Let me know if you would like me to assist with more options.",1,0,0,0
+Closure,"If you feel the need for more assistance, I’m happy to continue helping.",1,0,0,0
+Closure,"Let me know if I should look into this matter a bit further for you.",1,0,0,0
+Closure,"If you need anything else, I’m here to help and resolve it.",1,0,0,0
+Closure,"If you want me to review anything else, just let me know.",1,0,0,0
+Closure,"If you need additional help with this, I’m here and ready to assist.",1,0,0,0
+Closure,"I’m happy to assist if you would like to try another approach.",1,0,0,0
+Closure,"Feel free to contact me again if anything else comes to mind.",1,0,0,0
+Closure,"If you think of any other questions, just reach out to me.",1,0,0,0
+Closure,"If you need any follow-up support, don’t hesitate to ask.",1,0,0,0
+Closure,"I can walk you through further troubleshooting if necessary.",1,0,0,0
+Closure,"Thank you so much for reaching out. It’s been a pleasure assisting you.",0,1,1,0
+Closure,"I really appreciate you taking the time to call. Have a wonderful day!",0,1,1,0
+Closure,"Thank you for your call. I'm glad I could help you today.",0,1,1,0
+Closure,"It was great speaking with you. Thanks for calling and trusting us!",0,1,1,0
+Closure,"Thank you for your call, and I hope you have a fantastic day ahead!",0,1,1,0
+Closure,"We really appreciate you getting in touch today. Thanks for calling!",0,1,1,0
+Closure,"Thanks for calling! I’m happy we could resolve your issue.",0,1,1,0
+Closure,"Thank you for calling today. It’s been a pleasure assisting you!",0,1,1,0
+Closure,"Thank you for reaching out. Your feedback is always appreciated!",0,1,1,0
+Closure,"It was wonderful talking to you. Thanks for your call!",0,1,1,0
+Closure,"Thank you for contacting us today. It was a pleasure helping you!",0,1,1,0
+Closure,"Thanks for your call! I hope everything is set now.",0,1,1,0
+Closure,"Thank you for reaching out today! Take care and feel free to call back anytime.",0,1,1,0
+Closure,"Thank you for your time and patience. It was a pleasure speaking with you!",0,1,1,0
+Closure,"We’re so glad you called. Thanks for choosing to reach out to us today!",0,1,1,0
+Closure,"It was great hearing from you. Thank you for calling, and take care!",0,1,1,0
+Closure,"Thank you for your call. I hope everything is good to go now!",0,1,1,0
+Closure,"Thanks so much for calling. We’re always here to help you!",0,1,1,0
+Closure,"I appreciate you taking the time to call. It’s been great assisting you!",0,1,1,0
+Closure,"Thank you for contacting us! Wishing you a great day ahead!",0,1,1,0
+Closure,"Thank you for your call! I hope the issue is fully resolved now!",0,1,1,0
+Closure,"Thank you for taking the time to call us today. It's been a pleasure!",0,1,1,0
+Closure,"I really appreciate you reaching out to us. Have a great day!",0,1,1,0
+Closure,"Thanks so much for calling! I'm glad I could assist you.",0,1,1,0
+Closure,"It was wonderful speaking with you. Thanks for calling today!",0,1,1,0
+Closure,"Thank you for your call. It was a pleasure helping you with your inquiry.",0,1,1,0
+Closure,"Thanks for getting in touch with us. We're always here if you need anything!",0,1,1,0
+Closure,"We truly appreciate your call today. Have a fantastic day ahead!",0,1,1,0
+Closure,"Thank you for reaching out. It was great assisting you today.",0,1,1,0
+Closure,"Thank you for calling us today. We're always happy to help!",0,1,1,0
+Closure,"We appreciate your call. Let us know if you need any further assistance!",0,1,1,0
+Closure,"Thank you for calling in today. It’s been a pleasure helping you out.",0,1,1,0
+Closure,"Thanks for reaching out to us. Have a wonderful day ahead!",0,1,1,0
+Closure,"Thank you for your call! We’re here anytime you need help.",0,1,1,0
+Closure,"It was great speaking with you. Thank you for reaching out!",0,1,1,0
+Closure,"Thanks for calling today. I hope everything is now to your satisfaction.",0,1,1,0
+Closure,"Thank you for calling. I'm glad we could resolve everything for you!",0,1,1,0
+Closure,"I appreciate you calling us today. Feel free to contact us again anytime!",0,1,1,0
+Closure,"Thanks for reaching out! Let us know if you have any more questions.",0,1,1,0
+Closure,"I truly appreciate your time today. Thanks for calling, and take care!",0,1,1,0
+Closure,"Thank you for your call! It was a pleasure assisting you.",0,1,1,0
+Closure,"Thank you for taking the time to call us today!",0,1,0,0
+Closure,"We appreciate you reaching out to us. Your call means a lot!",0,1,0,0
+Closure,"Thanks for calling today. It was great to assist you.",0,1,0,0
+Closure,"We’re glad you contacted us. Your inquiry is important to us.",0,1,0,0
+Closure,"Thank you for giving us a chance to help you. We appreciate your call!",0,1,0,0
+Closure,"We’re grateful for your call and the opportunity to assist you.",0,1,0,0
+Closure,"Thank you for getting in touch with us today. We’re happy to help!",0,1,0,0
+Closure,"I appreciate you taking the time to reach out. Your call is valuable to us!",0,1,0,0
+Closure,"Thank you for calling. We truly appreciate your business and trust.",0,1,0,0
+Closure,"Thanks for calling in today. It’s always a pleasure to assist you.",0,1,0,0
+Closure,"Thank you for your time today! We're always here to help.",0,1,0,0
+Closure,"We’re thankful for your call today and glad to be of service.",0,1,0,0
+Closure,"Thank you for contacting us. We look forward to serving you again.",0,1,0,0
+Closure,"Thanks for reaching out. We value your call and appreciate your trust.",0,1,0,0
+Closure,"We appreciate your patience and the opportunity to assist you today.",0,1,0,0
+Closure,"Thanks for calling. We’re pleased to have been able to help you today.",0,1,0,0
+Closure,"Thank you for calling us! We're here whenever you need assistance.",0,1,0,0
+Closure,"We appreciate you reaching out to us. Let us know if you need anything else.",0,1,0,0
+Closure,"Thank you for your call today! We’re always happy to help.",0,1,0,0
+Closure,"Thank you for your call today! We appreciate your time.",0,1,0,0
+Closure,"We are grateful for your call and the opportunity to assist you.",0,1,0,0
+Closure,"Thank you for contacting us! Your inquiry is important to us.",0,1,0,0
+Closure,"We sincerely appreciate you reaching out today. Thank you for calling!",0,1,0,0
+Closure,"Thank you for calling. We're happy to assist you with your needs.",0,1,0,0
+Closure,"Thanks for taking the time to call. Your trust in us means a lot.",0,1,0,0
+Closure,"We appreciate you calling in. Your concern is valuable to us.",0,1,0,0
+Closure,"Thank you for reaching out to us. We're here to help anytime.",0,1,0,0
+Closure,"Thank you for calling today! We truly value your business.",0,1,0,0
+Closure,"We appreciate your call and are happy we could assist you.",0,1,0,0
+Closure,"Thank you for your time today. We're glad to have had the chance to help.",0,1,0,0
+Closure,"We appreciate you taking the time to reach out to us. Thank you for your call!",0,1,0,0
+Closure,"Thank you for contacting us! Your call is greatly appreciated.",0,1,0,0
+Closure,"We're thankful for your call and are happy to assist you with your needs.",0,1,0,0
+Closure,"Thanks for calling! It was a pleasure to help with your inquiry.",0,1,0,0
+Closure,"We truly appreciate your call today. Thank you for trusting us with your questions.",0,1,0,0
+Closure,"Thank you for reaching out. Your call is greatly appreciated!",0,1,0,0
+Closure,"We’re grateful for your call and happy to have helped today.",0,1,0,0
+Closure,"Thank you for your call. We value your time and are here to help whenever you need.",0,1,0,0
+Closure,"Thank you for calling us today. We appreciate your time and trust.",0,1,0,0
+Closure,"We’re grateful for your call and happy to have been of assistance.",0,1,0,0
+Closure,"Thank you for reaching out. Your inquiry is important to us.",0,1,0,0
+Closure,"We appreciate you taking the time to call. Your concerns matter to us.",0,1,0,0
+Closure,"Thanks for contacting us! We're glad we could assist you today.",0,1,0,0
+Closure,"We truly appreciate your call today. Thank you for trusting us with your needs.",0,1,0,0
+Closure,"Thank you for reaching out. Your feedback is valued and appreciated.",0,1,0,0
+Closure,"We appreciate you calling us. It was our pleasure to assist you.",0,1,0,0
+Closure,"Thank you for your call. We're grateful to have been able to help.",0,1,0,0
+Closure,"Thanks for your call today. We value your inquiry and look forward to helping again.",0,1,0,0
+Closure,"We are thankful for your call. Your questions are always welcome.",0,1,0,0
+Closure,"Thank you for calling. It’s been a pleasure assisting you with your concern.",0,1,0,0
+Closure,"We appreciate your time and the opportunity to help you. Thanks for calling!",0,1,0,0
+Closure,"Thanks for reaching out. Your call is important to us, and we’re happy to assist.",0,1,0,0
+Closure,"Thank you for contacting us today. We are happy to have helped you.",0,1,0,0
+Closure,"We value your call and appreciate the chance to provide support.",0,1,0,0
+Closure,"Thanks for calling us. We appreciate the opportunity to assist you with your request.",0,1,0,0
+Closure,"Thank you for taking the time to call. We’re glad to have been of service.",0,1,0,0
+Closure,"We appreciate your call. Your feedback and concerns are important to us.",0,1,0,0
+Closure,"It was a pleasure assisting you. Take care and have a wonderful day!",0,0,1,0
+Closure,"Wishing you all the best! Feel free to reach out if you need anything else.",0,0,1,0
+Closure,"Thank you for your time today. We look forward to helping you again!",0,0,1,0
+Closure,"Goodbye for now! We’re always here if you need further assistance.",0,0,1,0
+Closure,"Take care and don’t hesitate to contact us if you need anything else!",0,0,1,0
+Closure,"I hope you have a great day ahead! Reach out anytime.",0,0,1,0
+Closure,"Thanks again for your time. Wishing you all the best moving forward!",0,0,1,0
+Closure,"It was great helping you. Take care and have a fantastic day!",0,0,1,0
+Closure,"Goodbye! Feel free to get in touch if you need anything else from us.",0,0,1,0
+Closure,"Thank you for your time! We hope to assist you again in the future.",0,0,1,0
+Closure,"I hope everything goes well for you. Don’t hesitate to call again!",0,0,1,0
+Closure,"It’s been a pleasure assisting you. Have a wonderful rest of your day!",0,0,1,0
+Closure,"Take care! Remember, we’re always here to assist whenever you need.",0,0,1,0
+Closure,"We’re glad to have been of help! Best wishes and don’t hesitate to reach out again.",0,0,1,0
+Closure,"Have a great day! We’re here if you need further support.",0,0,1,0
+Closure,"Take care and stay safe! You know where to find us if you need help.",0,0,1,0
+Closure,"Wishing you all the best! Don’t hesitate to reach out in the future.",0,0,1,0
+Closure,"Goodbye for now! We’re always ready to assist when you need us.",0,0,1,0
+Closure,"It was great talking to you! Take care and don’t hesitate to contact us again.",0,0,1,0
+Closure,"Goodbye for now! We’re here anytime you need more help.",0,0,1,0
+Closure,"Take care! We’ll be ready to assist you again whenever you need.",0,0,1,0
+Closure,"It’s been a pleasure. Take care, and don’t hesitate to reach out!",0,0,1,0
+Closure,"See you next time! Feel free to contact us anytime you need assistance.",0,0,1,0
+Closure,"Wishing you all the best! Don’t hesitate to come back if you need help.",0,0,1,0
+Closure,"Stay safe and well! We’ll be happy to help you again soon.",0,0,1,0
+Closure,"Goodbye for now! Reach out anytime you need anything further.",0,0,1,0
+Closure,"Take care! We’re just a call away if you need help later.",0,0,1,0
+Closure,"It’s been great assisting you. Don’t hesitate to reach out next time.",0,0,1,0
+Closure,"Have a fantastic day! Feel free to come back when you need more help.",0,0,1,0
+Closure,"Goodbye! Take care, and we’re always here to assist you whenever needed.",0,0,1,0
+Closure,"Wishing you a wonderful day ahead! Don’t hesitate to contact us again.",0,0,1,0
+Closure,"Take care and have a great time! Feel free to reach out for more assistance.",0,0,1,0
+Closure,"See you later! We’ll be happy to help you again when you need it.",0,0,1,0
+Closure,"Thanks for contacting us! Take care and we’ll be here for any future needs.",0,0,1,0
+Closure,"Stay safe! Reach out anytime if you need more help in the future.",0,0,1,0
+Closure,"I hope everything goes smoothly for you. We’ll be here if you need us.",0,0,1,0
+Closure,"Goodbye! Feel free to get in touch whenever you need more assistance.",0,0,1,0
+Closure,"Take care! We're here when you need us next time.",0,0,1,0
+Closure,"Have a wonderful day! Don't hesitate to reach out whenever needed.",0,0,1,0
+Closure,"Goodbye for now! We're always here if you need further support.",0,0,1,0
+Closure,"Wishing you all the best! Feel free to reach out when you need assistance.",0,0,1,0
+Closure,"See you soon! We’ll be ready to assist whenever you need us.",0,0,1,0
+Closure,"Goodbye! We’re just a call away whenever you need help.",0,0,1,0
+Closure,"Take care and be safe! We’re here whenever you have more questions.",0,0,1,0
+Closure,"It was a pleasure assisting you. Don't hesitate to reach out again!",0,0,1,0
+Closure,"Stay well! We’ll be happy to help you anytime you need us.",0,0,1,0
+Closure,"Goodbye! Let us know if you need anything in the future.",0,0,1,0
+Closure,"Have a great day ahead! We're always here for future assistance.",0,0,1,0
+Closure,"Take care, and reach out again if anything comes up.",0,0,1,0
+Closure,"Wishing you a great time ahead! Let us know if you need further help.",0,0,1,0
+Closure,"Goodbye for now! We're available whenever you need more assistance.",0,0,1,0
+Closure,"Have a wonderful time! Don't hesitate to contact us for future help.",0,0,1,0
+Closure,"It’s been great helping you! Feel free to reach out next time.",0,0,1,0
+Closure,"Take care! We’re happy to assist you again if you need more help.",0,0,1,0
+Closure,"All the best! We’ll be here whenever you need further assistance.",0,0,1,0
+Closure,"Thank you so much for your time and patience! We truly appreciate it.",0,0,0,1
+Closure,"We really appreciate your understanding and cooperation. Thank you!",0,0,0,1
+Closure,"Your patience means a lot to us. Thank you for working through this!",0,0,0,1
+Closure,"We’re grateful for your trust in us. Thanks for choosing to work with us!",0,0,0,1
+Closure,"Thank you for being so patient throughout this process. We value your time!",0,0,0,1
+Closure,"We appreciate your continued support! Thank you for your understanding.",0,0,0,1
+Closure,"Your cooperation has been invaluable. We can’t thank you enough!",0,0,0,1
+Closure,"Thanks again for your help! We couldn’t have done it without your patience!",0,0,0,1
+Closure,"We’re extremely grateful for your patience and assistance. Thank you!",0,0,0,1
+Closure,"Thank you for being so understanding. It really makes a difference to us!",0,0,0,1
+Closure,"Your support means the world to us. We really appreciate your time and effort.",0,0,0,1
+Closure,"We are incredibly thankful for your cooperation. It’s been a pleasure working with you!",0,0,0,1
+Closure,"We’re grateful for your willingness to help. Thank you so much for your time!",0,0,0,1
+Closure,"Thanks so much for your patience while we worked through this together.",0,0,0,1
+Closure,"Your patience and understanding are deeply appreciated. Thank you!",0,0,0,1
+Closure,"We can’t thank you enough for your kindness and patience throughout the process!",0,0,0,1
+Closure,"We sincerely appreciate your time and your understanding. Thank you for working with us.",0,0,0,1
+Closure,"We’re so grateful for your feedback and your patience. Thank you for everything!",0,0,0,1
+Closure,"Your cooperation and patience mean so much to us. Thank you for your support!",0,0,0,1
+Closure,"We truly appreciate your patience and support throughout this process.",0,0,0,1
+Closure,"Thank you for your understanding and for working with us to resolve this.",0,0,0,1
+Closure,"Your patience has been incredibly valuable to us. We’re so grateful.",0,0,0,1
+Closure,"We can’t express how much we appreciate your cooperation. Thank you!",0,0,0,1
+Closure,"Thank you for being so understanding. We’re grateful for your continued trust.",0,0,0,1
+Closure,"Your support throughout this process has been truly appreciated. Thank you so much!",0,0,0,1
+Closure,"We are sincerely thankful for your patience and understanding. It makes all the difference.",0,0,0,1
+Closure,"Your continued cooperation and understanding are greatly appreciated. Thank you!",0,0,0,1
+Closure,"We’re incredibly grateful for your time and patience in resolving this matter.",0,0,0,1
+Closure,"Thank you for being so cooperative and patient. We truly value your support.",0,0,0,1
+Closure,"We really appreciate the time and effort you've put into this. Thank you!",0,0,0,1
+Closure,"Your assistance and patience are very much appreciated. Thank you for your understanding.",0,0,0,1
+Closure,"We cannot thank you enough for your patience and understanding through this process.",0,0,0,1
+Closure,"Your trust and patience mean a lot to us. Thank you for your ongoing support.",0,0,0,1
+Closure,"We are so thankful for your time and your helpful input. Thank you for everything.",0,0,0,1
+Closure,"We are grateful for your patience and for allowing us to assist you. Thank you!",0,0,0,1
+Closure,"Thank you for being such a valuable partner in this process. Your cooperation is appreciated.",0,0,0,1
+Closure,"Your patience and support have been a great help to us. We appreciate it greatly.",0,0,0,1
+Closure,"We want to express our gratitude for your understanding and patience. Thank you!",0,0,0,1
+Closure,"We’re incredibly thankful for your patience and support during this process.",0,0,0,1
+Closure,"Thank you for sticking with us through this. We truly value your cooperation.",0,0,0,1
+Closure,"We deeply appreciate your understanding and willingness to work with us.",0,0,0,1
+Closure,"We’re grateful for your positive attitude throughout this entire process. Thank you!",0,0,0,1
+Closure,"Your understanding and patience have made all the difference. We can’t thank you enough.",0,0,0,1
+Closure,"We truly appreciate your cooperation. It has been a pleasure working with you.",0,0,0,1
+Closure,"Thank you so much for your continuous support and understanding during this time.",0,0,0,1
+Closure,"Your patience has been invaluable. We are very grateful for your understanding.",0,0,0,1
+Closure,"Thank you for your continued trust. We are sincerely grateful for your cooperation.",0,0,0,1
+Closure,"We really appreciate you taking the time to work with us. Your support means a lot.",0,0,0,1
+Closure,"Thank you for your patience and understanding. We greatly appreciate your collaboration.",0,0,0,1
+Closure,"We can’t express enough how much we appreciate your cooperation in this matter.",0,0,0,1
+Closure,"Your willingness to work with us has been greatly appreciated. Thank you!",0,0,0,1
+Closure,"Thank you for your understanding. We are truly grateful for your time and patience.",0,0,0,1
+Closure,"We truly appreciate your patience and support while we worked through this issue.",0,0,0,1
+Closure,"Thank you for being so cooperative and understanding. Your support is greatly appreciated.",0,0,0,1
+Closure,"We appreciate you working with us. Your cooperation has been incredibly helpful.",0,0,0,1
+Closure,"We are so thankful for your assistance and patience throughout this entire process.",0,0,0,1
+Closure,"Thank you for your unwavering support. It’s been a pleasure assisting you.",0,0,0,1

@@ -1,0 +1,17 @@
+Person,Category,Quality,Text
+A,Greetings,Positive,Thank you for calling Triple-A bank.
+A,Greetings,Positive,My name is Arianna. How can I assist you today?
+C,Greetings,Positive,Hi Arianna, my name is David.
+A,Engagement,Positive,Hello David! How can I help you today?
+C,Engagement,Positive,Well, I noticed some unexpected charges on my account, and I need help sorting them out.
+A,Problem Investigation,Positive,Let me check your account to see what really happened. 
+A,Problem Investigation,Positive,I'll just need to verify your account details first, David.
+C,Account Verification,Positive,Sure, my account number is 1234567890.
+A,Account Verification,Positive,Thank you for that. Let me quickly look up your account.
+A,Problem Investigation,Positive,It looks like there was an incorrect fee applied to your account. Let me see how we can resolve this.
+C,Problem Investigation,Positive,Oh, I see. That doesn’t seem right. What can be done to fix it?
+A,Problem Resolution,Positive,We can remove that fee and refund it to your account. It will take 3-5 business days to process.
+C,Problem Resolution,Positive,That sounds great! Thank you for taking care of that.
+A,Closure,Positive,You're welcome, David! Is there anything else I can help you with today?
+C,Closure,Positive,No, that should be everything. Thanks again for your help!
+A,Closure,Positive,It was a pleasure assisting you. Have a wonderful day!

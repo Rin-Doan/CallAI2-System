@@ -1,0 +1,474 @@
+Category,Text,Thank the customer for calling, Ask about the reason for the call,Introduce themself,Ask the name of the person calling
+Greetings,"Thank you for calling Triple-A bank.",1,0,0,0
+Greetings,"My name is Arianna.",0,0,1,0
+Greetings,"May I have your name?",0,0,0,1
+Greetings,"Oh hello Mr. Breed.",0,0,0,0
+Greetings,"Thank you for calling Triple-A bank.",1,0,0,0
+Greetings,"My name is Maria.",0,0,1,0
+Greetings,"May I have your name?",0,0,0,1
+Greetings,"Oh hello Mr. Breed.",0,0,0,0
+Greetings,"How can I make you smile today?",0,1,0,0
+Greetings,"Thank you for calling Shapes Reward.",1,0,0,0
+Greetings,"My name is Mathilda.",0,0,1,0
+Greetings,"Can I have your name please?",0,0,0,1
+Greetings,"Hi Miss Collins.",0,0,0,0
+Greetings,"How can I be of service?",0,1,0,0
+Greetings,"Welcome to Grand Number One.",0,0,0,0
+Greetings,"My name Selena.",0,0,1,0
+Greetings,"May I have your name?",0,0,0,1
+Greetings,"Hello Miss Portman.",0,0,0,0
+Greetings,"How can I provide you an excellent service today?",0,1,0,0
+Greetings,"It's a great day here at our hotel I'm Rebecca.",0,1,1,0
+Greetings,"How can I assist you?",0,1,0,0
+Greetings,"Hi Rebecca.",0,0,0,0
+Greetings,"Hi, thank you for calling X Y Z.",1,0,0,0
+Greetings,"My name is Ashley.",0,0,1,0
+Greetings,"How may I help?",0,1,0,0
+Greetings,"Hello.",0,0,0,0
+Greetings,"Good morning.",0,0,0,0
+Greetings,"My name is Kate.",0,0,1,0
+Greetings,"Calling from deluxe credit card, may I speak with miss Anastasia Robinson?",0,0,0,1
+Greetings,"Hi, good morning Miss Robinson.",0,0,0,0
+Greetings,"I'm calling because deluxe credit card actually has a good news for you.",0,0,0,0
+Greetings,"Do you have 5 to 7 minutes to talk?",0,0,0,0
+Greetings,"Thanks for calling quick Internet.",1,0,0,0
+Greetings,"My name is Anna.",0,0,1,0
+Greetings,"Can I have your phone number or your account number please?",0,0,0,1
+Greetings,"So, I would say my name is Anna.",0,0,1,0
+Greetings,"Thank you for calling Sprites.",1,0,0,0
+Greetings,"My name is Rhea.",0,0,1,0
+Greetings,"How can I help you today?",0,1,0,0
+Greetings,"Oh hi Francis.",0,0,0,0
+Greetings,"I'll be glad to answer any questions that you have about your bill.",0,0,0,0
+Greetings,"Thank you for calling Life Member Services.",1,0,0,0
+Greetings,"This is Raya.",0,0,1,0
+Greetings,"How can I help you today?",0,1,0,0
+Greetings,"Great day here at Amazing Flowers.",0,0,0,0
+Greetings,"This is Rael.",0,0,1,0
+Greetings,"Would you like to place an order?",0,1,0,0
+Greetings,"Hello, Good Morning.",0,0,0,0
+Greetings,"Thank you for calling PLDC customer service.",1,0,0,0
+Greetings,"This is Christine speaking.",0,0,1,0
+Greetings,"How may I help you?",0,1,0,0
+Greetings,"Thank you for calling Martha's flowers.",1,0,0,0
+Greetings,"How may I assist you?",0,1,0,0
+Greetings,"Thank you for calling to Delonix.",1,0,0,0
+Greetings,"This is Nina speaking.",0,0,1,0
+Greetings,"How can I help you today?",0,1,0,0
+Greetings,"Thank you for calling Amazon customer services.",1,0,0,0
+Greetings,"This is Georgina.",0,0,1,0
+Greetings,"How can I help?",0,1,0,0
+Greetings,"Thank you for calling Rex Global customer service.",1,0,0,0
+Greetings,"This is Megan.",0,0,1,0
+Greetings,"How can I help you?",0,1,0,0
+Greetings,"Thank you for calling JP International.",1,0,0,0
+Greetings,"This is Carla.",0,0,1,0
+Greetings,"Can I have your name please?",0,0,0,1
+Greetings,"Hello Athena.",0,0,0,0
+Greetings,"How are you today and how can I assist?",0,1,0,0
+Greetings,"Hi.",0,0,0,0
+Greetings,"Thank you for calling home supplies.",1,0,0,0
+Greetings,"This is Candice.",0,0,1,0
+Greetings,"How may I help you?",0,1,0,0
+Greetings,"Hi.",0,0,0,0
+Greetings,"Thank you for calling Power Up company.",1,0,0,0
+Greetings,"This is Candice.",0,0,1,0
+Greetings,"How may I help you?",0,1,0,0
+Greetings,"Thank you for calling Coats and Gowns.",1,0,0,0
+Greetings,"My name is Sam.",0,0,1,0
+Greetings,"How can I help you?",0,1,0,0
+Greetings,"Thank you for calling Nissan.",1,0,0,0
+Greetings,"My name is Lauren.",0,0,1,0
+Greetings,"Can I have your name?",0,0,0,1
+Greetings,"How can I help you?",0,1,0,0
+Greetings,"Thank you for calling South Chicago Southern Cellular service.",1,0,0,0
+Greetings,"This is Robert.",0,0,1,0
+Greetings,"How can I assist you today?",0,1,0,0
+Greetings,"Hello.",0,0,0,0
+Greetings,"This call is from Grey Home Medical.",0,0,0,0
+Greetings,"Calls are recorded for quality purposes.",0,0,0,0
+Greetings,"Is this the residence of Edward Daniels?",0,0,0,0
+Greetings,"Am I speaking with Edward?",0,0,0,0
+Greetings,"Thank you for calling.",1,0,0,0
+Greetings,"This is Jeline.",0,0,1,0
+Greetings,"How can I help you today?",0,1,0,0
+Greetings,"Thank you for calling Ava's Flowers.",1,0,0,0
+Greetings,"This is Jeline.",0,0,1,0
+Greetings,"How can I help you?",0,1,0,0
+Greetings,"Absolutely, I'm positive that we have what you're looking for.",0,0,0,0
+Greetings,"Thank you for calling.",1,0,0,0
+Greetings,"My name is Jeline.",0,0,1,0
+Greetings,"May I have your name please?",0,0,0,1
+Greetings,"How can I help you?",0,1,0,0
+Greetings,"Hello Amanda.",0,0,0,0
+Greetings,"Thank you for calling technical support.",1,0,0,0
+Greetings,"My name is Harold.",0,0,1,0
+Greetings,"How can I help you?",0,1,0,0
+Greetings,"Hi.",0,0,0,0
+Greetings,"Thank you for calling technical support department.",1,0,0,0
+Greetings,"My name is Sunshine.",0,0,1,0
+Greetings,"Now, can you tell me how I can assist you today?",0,1,0,0
+Greetings,"Hi, thank you for calling Mary hotel.",1,0,0,0
+Greetings,"This is Anna.",0,0,1,0
+Greetings,"How may I help you?",0,1,0,0
+Greetings,"Good Morning.",0,0,0,0
+Greetings,"Escala Tagaytay hotel reservation.",0,0,0,0
+Greetings,"This is Sydney speaking.",0,0,1,0
+Greetings,"How can I help you?",0,1,0,0
+Greetings,"Thank you for calling Blue Cross of Blue Shield.",1,0,0,0
+Greetings,"This is Joe speaking.",0,0,1,0
+Greetings,"How can I help you?",0,1,0,0
+Greetings,"Yes, this is customer support.",0,0,1,0
+Greetings,"How may I help you?",0,1,0,0
+Greetings,"Hello, Good Morning.",0,0,0,0
+Greetings,"Thank you for calling PLDC customer service.",1,0,0,0
+Greetings,"This is Christine speaking.",0,0,1,0
+Greetings,"How may I help you?",0,1,0,0
+Greetings,"Hi, thank you for calling. I'm Hannah. How may I help you?",1,1,1,0
+Greetings,"Thank you for calling Ava's Flower! This is Jeline. How can I help you?",1,1,1,0
+Greetings,"Hi, thank you for calling. My name is Anna. How can I assist you today?",1,1,1,0
+Greetings,"Thank you for calling ABC customer care. My name is Harold. Who do I have the pleasure of speaking with today?",1,1,1,1
+Greetings,"Good morning. May I help you?",0,1,0,0
+Greetings,"Thank you for calling AT&T about your wireless service. My name is Brittany Davis, and I can help you. Who do I have the pleasure of speaking with?",1,1,1,1
+Greetings,"Thank you for calling Limited and John is speaking.",1,0,1,0
+Greetings,"Hello, my name is Angela and I will take care of you. May I have your name please?",0,0,1,1
+Greetings,"Thank you for calling Hiponary tech support. This is John. How could I help today?",1,1,1,0
+Greetings,"Thank you for calling Hipronary tech support. This is John. How could I be of help to you today?",1,1,1,0
+Greetings,"Thank you for calling technical support. My name is Harold. How can I help you?",1,1,1,0
+Greetings,"Good evening ??? department. This is Alex. How can I help you?",0,1,1,0
+Greetings,"Good afternoon. Welcome to Elkins Builders.",0,0,0,0
+Greetings,"ABC Plumbing and Heating. This is Betty. How can I help you today?",0,1,1,0
+Greetings,"Hi, this is Stella at Cline Dale University. What can I do for you today?",0,1,1,0
+Greetings,"Sure, thank you. Bye bye.",0,0,0,0
+Greetings,"Green Lawns. This is Alex. Can I help you?",0,1,1,0
+Greetings,"Good afternoon Mountain Security Services.",0,0,0,0
+Greetings,"Reason Limited. This is Gina. May I help you today?",0,1,1,0
+Greetings,"Parker Scarves. How may I help you?",0,1,0,0
+Greetings,"Good evening Valley View Apartments.",0,0,0,0
+Greetings,"Bouncing Appliance. This is Alice. How may I help you?",0,1,1,0
+Greetings,"[Company Name]. This is Gina. How can I help you?",0,1,1,0
+Greetings,"Thank you for calling Nissan. My name is Lauren.",1,0,1,0
+Greetings,"Thank you John, how can I help you?",0,1,0,0
+Greetings,"Welcome to Smith and Martin law offices. I'm Joyce. How may I help you?",0,1,1,0
+Greetings,"Thank you for choosing Rocket Speed Internet. My name is Taylor. How can I help you today?",1,1,1,0
+Greetings,"Thank you for calling ABC company. My name is Ashley. How may I help you today?",1,1,1,0
+Greetings,"This is Rodney of Computer Assistance.",0,0,1,0
+Greetings,"Good morning madam.",0,0,0,0
+Greetings,"Thank you for calling.",1,0,0,0
+Greetings,"Thank you for calling the K-State. My name is Miranda.",1,0,1,0
+Greetings,"Thank you for calling Martha's Flowers. How may I assist you?",1,1,0,0
+Greetings,"Good evening. Thank you for calling Electronics RS. This is Rachel. How may I assist you?",1,1,1,0
+Greetings,"Good afternoon. TBH Network Solution. How can I help you?",0,1,0,0
+Greetings,"It's a good day at Bank of Wealth. My name is John. How can I help you?",0,1,1,0
+Greetings,"Hello! How can I assist you today?",0,1,0,0
+Greetings,"Sorry, I didn't catch that. Can you please repeat your request?",0,0,0,0
+Greetings,"Good afternoon! What can I help you with today?",0,1,0,0
+Greetings,"I’m afraid I didn’t understand your message. Can you rephrase?",0,0,0,0
+Greetings,"Hi! How can I assist you today?",0,1,0,0
+Greetings,"Sorry, I couldn't hear you clearly. Could you speak again?",0,0,0,0
+Greetings,"Welcome! How may I assist you today?",0,1,0,0
+Greetings,"I’m not sure I understand what you need. Could you clarify?",0,0,0,0
+Greetings,"Good morning! What can I do for you today?",0,1,0,0
+Greetings,"I didn't quite understand your question. Could you ask again?",0,0,0,0
+Greetings,"Good to see you again! How can I help today?",0,1,0,0
+Greetings,"Hi, welcome back! How can I assist you today?",0,1,0,0
+Greetings,"Hello! How can I assist you today?",0,1,0,0
+Greetings,"Good morning! How can I help you today?",0,1,0,0
+Greetings,"Sorry, I didn’t quite understand your question. Can you try again?",0,0,0,0
+Greetings,"Hello, how can I assist you today?",0,1,0,0
+Greetings,"Good morning! How can I help you today?",0,1,0,0
+Greetings,"Hi, welcome! How can I assist you today?",0,1,0,0
+Greetings,"Hello there! What can I do for you today?",0,1,0,0
+Greetings,"Hi! How are you today? How can I help you?",0,1,0,0
+Greetings,"Good day! What can I assist you with today?",0,1,0,0
+Greetings,"Hey! How can I help you today?",0,1,0,0
+Greetings,"Hello! What’s on your mind today?",0,1,0,0
+Greetings,"Good afternoon! How can I be of service?",0,1,0,0
+Greetings,"Hi there! How can I help you today?",0,1,0,0
+Greetings,"Hello, it seems like you're having some trouble. How can I assist you?",0,1,0,0
+Greetings,"Hi, it seems like there's an issue. Let me know how I can help.",0,1,0,0
+Greetings,"Hello! I see you're reaching out. How can I assist?",0,1,0,0
+Greetings,"Good morning! It looks like you may need some help. What can I do?",0,1,0,0
+Greetings,"Hey! It seems you're facing an issue. How can I help you today?",0,1,0,0
+Greetings,"Hi there! What seems to be the problem today?",0,1,0,0
+Greetings,"Good evening! How can I assist you today?",0,1,0,0
+Greetings,"Hello! How are you doing today?",0,0,0,0
+Greetings,"Hi there! What can I help you with today?",0,1,0,0
+Greetings,"Greetings! How may I help you?",0,1,0,0
+Greetings,"Hey! Welcome! How can I assist you today?",0,1,0,0
+Greetings,"Good to see you! How can I assist you today?",0,1,0,0
+Greetings,"Hi, thanks for reaching out! What can I do for you?",0,1,0,0
+Greetings,"Hello, it’s great to hear from you! How can I help?",0,1,0,0
+Greetings,"Hi! How can I make your day easier?",0,1,0,0
+Greetings,"Hello, seems you're facing an issue. How can I help?",0,1,0,0
+Greetings,"Hi! How can I assist with your problem today?",0,1,0,0
+Greetings,"Hey! I see you’re having some trouble. Let me know how I can help.",0,1,0,0
+Greetings,"Hi, there seems to be an issue. How can I assist?",0,1,0,0
+Greetings,"Hello, looks like you need help. How can I assist?",0,1,0,0
+Greetings,"Hey! I’m here to help, please tell me about your issue.",0,1,0,0
+Greetings,"Good morning! How can I assist you today?",0,1,0,0
+Greetings,"Hey there! How can I be of help?",0,1,0,0
+Greetings,"Hello! How are you doing today? How can I assist?",0,1,0,0
+Greetings,"Hi! Welcome! How can I make your experience better?",0,1,0,0
+Greetings,"Greetings! Let me know how I can help you today.",0,1,0,0
+Greetings,"Good to see you! What can I assist you with?",0,1,0,0
+Greetings,"Hello! How may I help with your query today?",0,1,0,0
+Greetings,"Hey, welcome! How can I assist you today?",0,1,0,0
+Greetings,"Hi, I see you're having an issue. How can I assist?",0,1,0,0
+Greetings,"Hello! I understand you're facing difficulties. Let me help.",0,1,0,0
+Greetings,"Hey! It seems there's a problem. How can I assist you?",0,1,0,0
+Greetings,"Hi there! Let me know how I can help with your issue.",0,1,0,0
+Greetings,"Hello! I see you're encountering a problem. How can I help?",0,1,0,0
+Greetings,"Hi! Looks like there's a challenge. How can I assist?",0,1,0,0
+Greetings,"Hey, seems like there's an issue. Let me know how I can help.",0,1,0,0
+Greetings,"Hi there! How can I assist you today?",0,1,0,0
+Greetings,"Hello! How can I be of help today?",0,1,0,0
+Greetings,"Good day! Let me know how I can assist you.",0,1,0,0
+Greetings,"Welcome! How can I help you today?",0,1,0,0
+Greetings,"Greetings! How can I assist you today?",0,1,0,0
+Greetings,"Hey! How can I help you out today?",0,1,0,0
+Greetings,"Hi! How may I assist you today?",0,1,0,0
+Greetings,"Hi! It seems you're facing an issue. Let me help you out.",0,1,0,0
+Greetings,"Hello! I understand you're having trouble. Let me know how I can help.",0,1,0,0
+Greetings,"Hey! Looks like you need assistance. I'm here to help.",0,1,0,0
+Greetings,"Hi! I see you're encountering a problem. Let me assist you.",0,1,0,0
+Greetings,"Hello! How can I help with your issue today?",0,1,0,0
+Greetings,"Hi there! Let me know how I can solve your problem.",0,1,0,0
+Greetings,"Hey! I see there’s an issue. Let's sort this out together.",0,1,0,0
+Greetings,"Hello! How can I assist you today?",0,1,0,0
+Greetings,"Hi there! What can I do for you today?",0,1,0,0
+Greetings,"Good to see you! How can I help?",0,1,0,0
+Greetings,"Hi! Let me know what you need assistance with.",0,1,0,0
+Greetings,"Hello and welcome! How may I help you today?",0,1,0,0
+Greetings,"Greetings! How can I be of service today?",0,1,0,0
+Greetings,"Hey! How can I assist you today?",0,1,0,0
+Greetings,"Hello! It seems you're having trouble. Let's see how I can help.",0,1,0,0
+Greetings,"Hi there! I understand you're having an issue. How can I assist?",0,1,0,0
+Greetings,"Hi! Looks like you’re facing a problem. Let me help you out.",0,1,0,0
+Greetings,"Hello! I'm here to assist with your issue.",0,1,0,0
+Greetings,"Hey! I see you need assistance. Let me help you.",0,1,0,0
+Greetings,"Hi! It seems you’ve run into a problem. How can I assist?",0,1,0,0
+Greetings,"Hello! I'm here to help you resolve the issue.",0,1,0,0
+Greetings,"Good morning! How can I help you today?",0,1,0,0
+Greetings,"Hi there! I’m here to assist with anything you need.",0,1,0,0
+Greetings,"Welcome! How may I be of service to you today?",0,1,0,0
+Greetings,"Hello! I’m happy to help you with your request.",0,1,0,0
+Greetings,"Hi! Let me know how I can assist you today.",0,1,0,0
+Greetings,"Good day! What can I do for you today?",0,1,0,0
+Greetings,"Hello and thank you for reaching out! How can I assist you?",1,0,0,0
+Greetings,"Hello! I see there’s an issue. Let’s address it together.",0,1,0,0
+Greetings,"Hi! It seems like something’s not right. Let me help.",0,1,0,0
+Greetings,"Hello there! I understand there’s a concern. Let’s resolve it.",0,1,0,0
+Greetings,"Hi! Looks like you’re facing a challenge. Let me assist.",0,1,0,0
+Greetings,"Hello! It seems like you're experiencing an issue. How can I help?",0,1,0,0
+Greetings,"Hi there! Sorry to hear about the trouble. I’m here to help.",0,1,0,0
+Greetings,"Hello! Let me assist you with the problem you’re facing.",0,1,0,0
+Greetings,"Good afternoon! How may I assist you today?",0,1,0,0
+Greetings,"Hi there! I’m here to help you out with any issues.",0,1,0,0
+Greetings,"Hello! What can I do for you today?",0,1,0,0
+Greetings,"Welcome! Feel free to share your queries, and I’ll help.",0,1,0,0
+Greetings,"Good morning! I’m ready to assist you with your request.",0,1,0,0
+Greetings,"Hello! It seems like there might be an issue. Let’s address it.",0,1,0,0
+Greetings,"Hi there! I understand there’s a concern. I’m here to help.",0,1,0,0
+Greetings,"Hello! Let’s work together to resolve the trouble you’re facing.",0,1,0,0
+Greetings,"Hi! Sorry about the inconvenience. Let’s fix it.",0,1,0,0
+Greetings,"Hello there! Let’s get to the bottom of the issue you’re facing.",0,1,0,0
+Greetings,"Hi! Hope you’re having a great day. How can I assist you?",0,1,0,0
+Greetings,"Good evening! Let’s get started on resolving your concern.",0,1,0,0
+Greetings,"Hello there! I’m here to provide you with any support you need.",0,1,0,0
+Greetings,"Welcome! I’m ready to assist. What’s on your mind today?",0,1,0,0
+Greetings,"Good afternoon! Let’s tackle your request right away.",0,1,0,0
+Greetings,"Hi, I hear there’s an issue. Let’s figure this out together.",0,1,0,0
+Greetings,"Hello! I’m sorry to hear about the trouble. I’ll do my best to help.",0,1,0,0
+Greetings,"Hi there! Let’s look into the matter and get it resolved quickly.",0,1,0,0
+Greetings,"Hello! I understand your concern. I’m here to address it for you.",0,1,0,0
+Greetings,"Good evening. Apologies for any inconvenience caused. Let’s sort this out.",0,1,0,0
+Greetings,"Thank you for calling! We appreciate your time.",1,0,0,0
+Greetings,"Thanks for reaching out! How can I help today?",1,0,0,0
+Greetings,"Thank you for calling in. What can I assist you with today?",1,0,0,0
+Greetings,"I appreciate you calling today! How can I assist?",1,0,0,0
+Greetings,"Thank you for choosing us! How can I help?",1,0,0,0
+Greetings,"Thanks for calling! Let me know how I can assist you today.",1,0,0,0
+Greetings,"I really appreciate you reaching out! What can I do for you?",1,0,0,0
+Greetings,"Thanks for your call! How may I be of service today?",1,0,0,0
+Greetings,"Thank you for contacting us! How can I assist with your query?",1,0,0,0
+Greetings,"Thanks for calling us! How can I be of assistance?",1,0,0,0
+Greetings,"I appreciate your call today! Let me know how I can help.",1,0,0,0
+Greetings,"Thank you for calling! I'm happy to help with anything you need.",1,0,0,0
+Greetings,"Thanks for calling today! What can I do to help?",1,0,0,0
+Greetings,"I truly appreciate you calling today. How may I assist?",1,0,0,0
+Greetings,"Thanks for reaching out to us! How can I assist with your concerns?",1,0,0,0
+Greetings,"Thank you for your call! How can I help you today?",1,0,0,0
+Greetings,"Thanks for calling! What can I assist you with today?",1,0,0,0
+Greetings,"Thank you for getting in touch! How can I assist you?",1,0,0,0
+Greetings,"I appreciate your call today. What can I do to help?",1,0,0,0
+Greetings,"Thank you for calling! How can I help with your request?",1,0,0,0
+Greetings,"Thank you for calling, how may I assist you today?",1,0,0,0
+Greetings,"Thanks for getting in touch! What can I help you with?",1,0,0,0
+Greetings,"I appreciate you calling in today! How can I assist?",1,0,0,0
+Greetings,"Thanks for choosing to call us! What can I do for you?",1,0,0,0
+Greetings,"Thank you for calling! How can I make your experience better?",1,0,0,0
+Greetings,"Thanks for calling! I'm happy to assist you with anything you need.",1,0,0,0
+Greetings,"Thank you for contacting us today! How can I help?",1,0,0,0
+Greetings,"Thanks for your call! Let me know how I can help you.",1,0,0,0
+Greetings,"I appreciate your call today. How can I be of service?",1,0,0,0
+Greetings,"Thanks for calling! I'm here to assist with anything you need.",1,0,0,0
+Greetings,"Thank you for reaching out to us! How can I assist you?",1,0,0,0
+Greetings,"Thanks for calling! How can I be of assistance today?",1,0,0,0
+Greetings,"I truly appreciate your call. How can I help you today?",1,0,0,0
+Greetings,"Thank you for calling today! What can I assist you with?",1,0,0,0
+Greetings,"Thanks for contacting us! How may I help you today?",1,0,0,0
+Greetings,"Thank you for calling in! How can I help with your concern?",1,0,0,0
+Greetings,"Thanks for reaching out! Let me know how I can help.",1,0,0,0
+Greetings,"Thank you for calling us today! What can I assist you with?",1,0,0,0
+Greetings,"I appreciate your time today! How can I help?",1,0,0,0
+Greetings,"Thanks for getting in touch! How can I make your day easier?",1,0,0,0
+Greetings,"Hello, this is John from Smith and Martin law offices. How may I assist you?",0,0,1,0
+Greetings,"Hi, this is Taylor from Rocket Speed Internet. How can I help today?",0,0,1,0
+Greetings,"Good morning, this is Miranda from K-State. How can I assist you?",0,0,1,0
+Greetings,"Hello, I'm Rachel from Electronics RS. How can I assist you today?",0,0,1,0
+Greetings,"Hi, this is Ashley from ABC Company. How can I help you today?",0,0,1,0
+Greetings,"Hello, I'm Joyce from Smith and Martin Law Offices. How may I help you?",0,0,1,0
+Greetings,"Hi, this is Rodney from Computer Assistance. How can I help you?",0,0,1,0
+Greetings,"Hello, this is Miranda from Martha's Flowers. How can I assist you today?",0,0,1,0
+Greetings,"Hi, this is Rachel from Electronics RS. How can I assist you today?",0,0,1,0
+Greetings,"Good afternoon, this is Taylor from Rocket Speed Internet. How can I assist?",0,0,1,0
+Greetings,"Hello, this is Ashley from ABC Company. How can I help you today?",0,0,1,0
+Greetings,"Hi, I'm John from Bank of Wealth. How can I help you today?",0,0,1,0
+Greetings,"Hello, this is Miranda from K-State. How can I assist you?",0,0,1,0
+Greetings,"Hi, I'm Rachel from Martha's Flowers. How may I assist you today?",0,0,1,0
+Greetings,"Hi, this is Rodney from Computer Assistance. What can I help you with?",0,0,1,0
+Greetings,"Hello, this is Taylor from Rocket Speed Internet. How can I help?",0,0,1,0
+Greetings,"Hi, I'm Rachel from Electronics RS. How can I assist today?",0,0,1,0
+Greetings,"Hello, this is John from Smith and Martin law offices. How can I help?",0,0,1,0
+Greetings,"Hi, this is Miranda from Martha's Flowers. How may I assist you?",0,0,1,0
+Greetings,"Hello, this is Rachel from Martha's Flowers. How can I assist you today?",0,0,1,0
+Greetings,"Hi, this is Taylor from Rocket Speed Internet. How can I help?",0,0,1,0
+Greetings,"Good afternoon, this is Miranda from K-State. How can I assist you?",0,0,1,0
+Greetings,"Hello, this is John from Smith and Martin Law Offices. How can I help you?",0,0,1,0
+Greetings,"Hi, this is Ashley from ABC Company. What can I do for you today?",0,0,1,0
+Greetings,"Hello, this is Rodney from Computer Assistance. How may I assist you?",0,0,1,0
+Greetings,"Good morning, this is Rachel from Electronics RS. How can I assist?",0,0,1,0
+Greetings,"Hi, I'm Joyce from Smith and Martin Law Offices. How can I help?",0,0,1,0
+Greetings,"Hello, this is Miranda from Martha's Flowers. How can I assist?",0,0,1,0
+Greetings,"Hi, this is Taylor from Rocket Speed Internet. What can I help you with?",0,0,1,0
+Greetings,"Hello, I'm Rachel from Electronics RS. How can I assist you?",0,0,1,0
+Greetings,"Hi, this is Ashley from ABC Company. How may I assist you?",0,0,1,0
+Greetings,"Hello, this is Rodney from Computer Assistance. How can I assist you?",0,0,1,0
+Greetings,"Hi, this is Rachel from Martha's Flowers. How can I help?",0,0,1,0
+Greetings,"Good afternoon, this is Taylor from Rocket Speed Internet. How can I assist?",0,0,1,0
+Greetings,"Hello, I'm John from Bank of Wealth. How can I help you today?",0,0,1,0
+Greetings,"Hi, this is Miranda from K-State. How may I assist you?",0,0,1,0
+Greetings,"Hello, this is Rachel from Martha's Flowers. How can I assist you?",0,0,1,0
+Greetings,"Hi, this is Rodney from Computer Assistance. What can I do for you?",0,0,1,0
+Greetings,"Hello, this is Taylor from Rocket Speed Internet. How can I assist?",0,0,1,0
+Greetings,"Hi, I'm John from Smith and Martin Law Offices. How can I assist you?",0,0,1,0
+Greetings,"Good morning, this is Miranda from K-State. How may I help?",0,0,1,0
+Greetings,"Hello, this is Ashley from ABC Company. What can I assist you with?",0,0,1,0
+Greetings,"Hi, this is Rachel from Electronics RS. How may I assist you?",0,0,1,0
+Greetings,"Good afternoon, this is Rodney from Computer Assistance. How can I help?",0,0,1,0
+Greetings,"Hello, this is Taylor from Rocket Speed Internet. How can I help?",0,0,1,0
+Greetings,"Hi, may I have your name, please?",0,0,0,1
+Greetings,"Hello, could you tell me your name?",0,0,0,1
+Greetings,"Good morning, may I know your name?",0,0,0,1
+Greetings,"Hi, can you please share your name?",0,0,0,1
+Greetings,"Hello, what's your name?",0,0,0,1
+Greetings,"Hi there, can I have your name, please?",0,0,0,1
+Greetings,"Good afternoon, may I know your name?",0,0,0,1
+Greetings,"Hello, could I get your name, please?",0,0,0,1
+Greetings,"Hi, what's your name?",0,0,0,1
+Greetings,"Hello, can you tell me your name?",0,0,0,1
+Greetings,"Hi, may I know your name, please?",0,0,0,1
+Greetings,"Good evening, what is your name?",0,0,0,1
+Greetings,"Hello, can you please tell me your name?",0,0,0,1
+Greetings,"Hi, who am I speaking with today?",0,0,0,1
+Greetings,"Hello, could you provide your name?",0,0,0,1
+Greetings,"Hi, may I have your name for the record?",0,0,0,1
+Greetings,"Good afternoon, who am I speaking with?",0,0,0,1
+Greetings,"Hello, can I get your name, please?",0,0,0,1
+Greetings,"Hi, could you tell me who I'm speaking to?",0,0,0,1
+Greetings,"Hello, what is your name?",0,0,0,1
+Greetings,"Hi, who am I speaking with today?",0,0,0,1
+Greetings,"Good morning, can you tell me your name?",0,0,0,1
+Greetings,"Hello, may I ask for your name?",0,0,0,1
+Greetings,"Hi, what's your full name, please?",0,0,0,1
+Greetings,"Hello, could I ask for your name?",0,0,0,1
+Greetings,"Hi, who is this speaking?",0,0,0,1
+Greetings,"Hi, may I know your name, please?",0,0,0,1
+Greetings,"Hello, could you tell me your name?",0,0,0,1
+Greetings,"Good morning, what's your name?",0,0,0,1
+Greetings,"Hi there, may I have your name?",0,0,0,1
+Greetings,"Hello, could I get your name, please?",0,0,0,1
+Greetings,"Hi, what's your name?",0,0,0,1
+Greetings,"Hello, can I know your name?",0,0,0,1
+Greetings,"Hi, may I know who I'm speaking with?",0,0,0,1
+Greetings,"Hello, can you please tell me your name?",0,0,0,1
+Greetings,"Hi, can you provide your name?",0,0,0,1
+Greetings,"Good afternoon, may I know your name?",0,0,0,1
+Greetings,"Hello, may I ask for your name?",0,0,0,1
+Greetings,"Hi, may I know your name for the record?",0,0,0,1
+Greetings,"Hello, who am I speaking with today?",0,0,0,1
+Greetings,"Hi, can I have your name, please?",0,0,0,1
+Greetings,"Good morning, who am I speaking to?",0,0,0,1
+Greetings,"Hello, could I get your name?",0,0,0,1
+Greetings,"Hi, what's your full name?",0,0,0,1
+Greetings,"Hello, may I have your name?",0,0,0,1
+Greetings,"Hi, can you tell me your name?",0,0,0,1
+Greetings,"Hello, could you share your name?",0,0,0,1
+Greetings,"Hi, may I know who you are?",0,0,0,1
+Greetings,"Good afternoon, what's your name?",0,0,0,1
+Greetings,"Hi, could you tell me your name, please?",0,0,0,1
+Greetings,"Hello, who am I speaking with?",0,0,0,1
+Greetings,"Hi, may I know your name?",0,0,0,1
+Greetings,"Good evening, can I have your name?",0,0,0,1
+Greetings,"Hello, could I ask for your name?",0,0,0,1
+Greetings,"Hi, may I know who is calling?",0,0,0,1
+Greetings,"Hi, may I know your name, please?",0,0,0,1
+Greetings,"Hello, could you tell me your name?",0,0,0,1
+Greetings,"Good morning, what's your name?",0,0,0,1
+Greetings,"Hi there, may I have your name?",0,0,0,1
+Greetings,"Hello, could I get your name, please?",0,0,0,1
+Greetings,"Hi, what's your name?",0,0,0,1
+Greetings,"Hello, can I know your name?",0,0,0,1
+Greetings,"Hi, may I know who I'm speaking with?",0,0,0,1
+Greetings,"Hello, can you please tell me your name?",0,0,0,1
+Greetings,"Hi, can you provide your name?",0,0,0,1
+Greetings,"Good afternoon, may I know your name?",0,0,0,1
+Greetings,"Hello, may I ask for your name?",0,0,0,1
+Greetings,"Hi, may I know your name for the record?",0,0,0,1
+Greetings,"Hello, who am I speaking with today?",0,0,0,1
+Greetings,"Hi, can I have your name, please?",0,0,0,1
+Greetings,"Good morning, who am I speaking to?",0,0,0,1
+Greetings,"Hello, could I get your name?",0,0,0,1
+Greetings,"Hi, what's your full name?",0,0,0,1
+Greetings,"Hello, may I have your name?",0,0,0,1
+Greetings,"Hi, can you tell me your name?",0,0,0,1
+Greetings,"Hello, could you share your name?",0,0,0,1
+Greetings,"Hi, may I know who you are?",0,0,0,1
+Greetings,"Good afternoon, what's your name?",0,0,0,1
+Greetings,"Hi, could you tell me your name, please?",0,0,0,1
+Greetings,"Hello, who am I speaking with?",0,0,0,1
+Greetings,"Hi, may I know your name?",0,0,0,1
+Greetings,"Good evening, can I have your name?",0,0,0,1
+Greetings,"Hello, could I ask for your name?",0,0,0,1
+Greetings,"Hi, may I know who is calling?",0,0,0,1
+Greetings,"Thank you for reaching out! How can I help you today?",1,0,0,0
+Greetings,"I really appreciate your call! What can I do for you today?",1,0,0,0
+Greetings,"Thanks for calling! How may I assist you?",1,0,0,0
+Greetings,"I’m so glad you called! What can I help you with?",1,0,0,0
+Greetings,"Thanks for reaching out! What can I assist with today?",1,0,0,0
+Greetings,"I appreciate you calling today! How can I help?",1,0,0,0
+Greetings,"Thanks for calling in! How can I support you today?",1,0,0,0
+Greetings,"We’re happy to hear from you! How can I assist?",1,0,0,0
+Greetings,"It’s great to have you on the line! What can I do for you?",1,0,0,0
+Greetings,"I’m thankful you called! How can I make your day easier?",1,0,0,0
+Greetings,"Thanks for calling today! Let me know how I can assist.",1,0,0,0
+Greetings,"I’m grateful for your call! How may I help you?",1,0,0,0
+Greetings,"Thank you so much for calling! How can I help you today?",1,0,0,0
+Greetings,"We’re so pleased you reached out! What can I help with?",1,0,0,0
+Greetings,"Thanks a lot for calling! How can I be of service?",1,0,0,0
+Greetings,"I’m thrilled to help you! What’s on your mind today?",1,0,0,0
+Greetings,"We appreciate your call! How can I support you today?",1,0,0,0
+Greetings,"Thanks for reaching out! What assistance do you need?",1,0,0,0
+Greetings,"Thank you for calling! I’m here to help you with anything.",1,0,0,0
+Greetings,"Thank you for your call! How can I make things easier for you?",1,0,0,0

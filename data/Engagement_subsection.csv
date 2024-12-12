@@ -1,0 +1,570 @@
+Category,Text,Apologies and Empathy,Acknowledgment and Gratitude,Reassurance and Solutions,Permission Words
+Engagement,"Oh. I understand that fees are really costly.",1,0,0,0
+Engagement,"I'm really really really sorry sir.",1,0,0,0
+Engagement,"Oh. I understand that fees are really costly.",1,0,0,0
+Engagement,"I truly understand what you're going through Mr. Breed.",1,0,0,0
+Engagement,"You're welcome Mr. Breed.",0,1,0,0
+Engagement,"Oh I'm so sorry for the inconvenience for the website.",1,0,0,0
+Engagement,"I understand Miss Collins.",1,0,0,0
+Engagement,"Wow thank you.",0,1,0,0
+Engagement,"Alright, we are on the right track.",0,0,1,0
+Engagement,"Oh I'm terribly sorry to hear that.",1,0,0,0
+Engagement,"But rest assured, I'll be here to make sure everything's well taken care of.",0,0,1,0
+Engagement,"Sorry yeah, I should have asked for your account number.",1,0,0,0
+Engagement,"Thank you so much, appreciate it.",0,1,0,0
+Engagement,"Thank You Pauline",0,1,0,0
+Engagement,"I understand that is really frustrating.",1,0,0,0
+Engagement,"Yes, yes, ma'am. I will do my best.",0,0,1,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Sorry. I'm still checking some information.",1,0,0,0
+Engagement,"I am really sorry, Miss America.",1,0,0,0
+Engagement,"I understand your situation is very tough right now.",1,0,0,0
+Engagement,"Thanks so much for your patience, Miss America.",0,1,0,0
+Engagement,"Again, I'm really sorry.",1,0,0,0
+Engagement,"How does that sound to you?",0,0,1,1
+Engagement,"Ok that sounds good?",0,0,1,0
+Engagement,"Oh that's very inconvenient.",1,0,0,0
+Engagement,"I understand how you feel, your friends online might already be waiting for you but don't you worry, you've got the right person on the line to help you.",1,0,1,0
+Engagement,"Thank You Mr. Jones.",0,1,0,0
+Engagement,"Oh I just said thank you Mr. Jones.",0,1,0,0
+Engagement,"Great! Thank you.",0,1,0,0
+Engagement,"Oh I see.",0,0,0,0
+Engagement,"How does that sound to you?",0,0,1,1
+Engagement,"Sure, I'll be glad to assist you with that mail.",0,0,1,1
+Engagement,"I am sincerely glad to know that you're all good now.",0,1,1,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Just take care of yourself, okay?",1,0,1,0
+Engagement,"I'll be happy to order the bouquet for you.",0,0,1,1
+Engagement,"Thank You Amanda.",0,1,0,0
+Engagement,"Perfect.",0,0,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Thank You Amanda.",0,1,0,0
+Engagement,"I appreciate that you bring this to our attention sir And sorry for the inconvenience sir.",1,1,0,0
+Engagement,"I understand that your situation is very tough right now.",1,0,0,0
+Engagement,"Yes sir, thank you.",0,1,0,0
+Engagement,"Please stay online for a minute Mr. Sobremonte.",1,0,1,1
+Engagement,"Again sir, I'm terribly sorry.",1,0,0,0
+Engagement,"I'd be happy to take care of your order.",0,0,1,1
+Engagement,"Thank you for that information Randall.",0,1,0,0
+Engagement,"Thank you for the information.",0,1,0,0
+Engagement,"Sure. I will be happy to assist you.",0,0,1,1
+Engagement,"Thank You Mr. Logan.",0,1,0,0
+Engagement,"Thank you for that.",0,1,0,0
+Engagement,"Okay great, thank you Mr. Logan.",0,1,0,0
+Engagement,"Hello Brian, I'm really sorry if you haven't received your parcel.",1,0,0,0
+Engagement,"No worries, since you have me on the line, I'll be more than willing to assist.",0,0,1,0
+Engagement,"Thanks for verifying those information to me.",0,1,0,0
+Engagement,"I'm really sorry for the inconvenience Brian.",1,0,0,0
+Engagement,"If you want, I can also help you track your order and reach you back tomorrow just to make sure that you are receiving the item within the expected date.",0,0,1,1
+Engagement,"Got it, thanks.",0,1,0,0
+Engagement,"Thank you, Brian.",0,1,0,0
+Engagement,"I am sorry to hear about a dollar charge in your account.",1,0,0,0
+Engagement,"But don't you worry. I can definitely help you with that.",0,0,1,0
+Engagement,"You're most welcome.",0,1,0,0
+Engagement,"I am really sorry to hear if you haven't received your item for a special event.",1,0,0,0
+Engagement,"Also if it was tracked as delivered although not yet received.",0,0,0,0
+Engagement,"I do understand your frustration right now for this inconvenience but no worries.",1,0,1,0
+Engagement,"Rest assured that this company isn't a scam and I can definitely help you.",0,0,1,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Okay thank you.",0,1,0,0
+Engagement,"Oh, I understand where you're coming from Athena.",1,0,0,0
+Engagement,"No problem.",0,1,0,0
+Engagement,"It's okay, I understand I would feel the same way if I am in your situation.",1,0,0,0
+Engagement,"Thank you for your patience by the way.",0,1,0,0
+Engagement,"Thank You.",0,1,0,0
+Engagement,"Oh I am so sorry.",1,0,0,0
+Engagement,"Amber, I truly understand how frustrating this is for you.",1,0,0,0
+Engagement,"I truly do, I do.",1,0,0,0
+Engagement,"And I am so sorry that this happened to you.",1,0,0,0
+Engagement,"You're most welcome Amber.",0,1,0,0
+Engagement,"Sure, I'll be happy to pull up your account now and check the billing details for you.",0,0,1,1
+Engagement,"Thank you John.",0,1,0,0
+Engagement,"Just give me a few seconds to pull up your account.",0,0,1,1
+Engagement,"No, don't worry about it John.",1,0,0,0
+Engagement,"You're welcome John.",0,1,0,0
+Engagement,"I do apologize for the inconvenience but let me go ahead and check if there are some notes and order details.",1,0,1,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"I do apologize but the one that you provided is actually not accepting towards our database.",1,0,0,0
+Engagement,"Alright, thank you so much Wilson.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Okay, thank you.",0,1,0,0
+Engagement,"Please hold on for a moment.",1,0,1,1
+Engagement,"Okay?",0,0,0,0
+Engagement,"Alright, okay, thank you for patiently waiting Adam.",0,1,0,0
+Engagement,"I understand.",1,0,0,0
+Engagement,"Is that okay with you?",0,0,1,1
+Engagement,"Alright, thank you so much for that information, Adam.",0,1,0,0
+Engagement,"Thank you John.",0,1,0,0
+Engagement,"I'd be happy to help you with that today.",0,0,1,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Okay?",0,0,0,0
+Engagement,"Thank you John.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Oh, I apologise about the delay.",1,0,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Okay?",0,0,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"I'm doing very well.",0,0,0,0
+Engagement,"Thank you so much for asking.",0,1,0,0
+Engagement,"How about you?",0,0,0,0
+Engagement,"Oh, I hope I can make you feel better today.",1,0,1,0
+Engagement,"I can only imagine how difficult it is for you not to have a working phone.",1,0,0,0
+Engagement,"Okay?",0,0,0,0
+Engagement,"You are welcome.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Okay, I know this must be so difficult for you since I know that you need to talk to your family and friends and I thank you for providing me all the necessary information that I need so I can start troubleshooting your phone.",1,1,1,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Great, thank you for checking those for me.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Thank you so much.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Awesome.",0,0,0,0
+Engagement,"Okay?",0,0,0,0
+Engagement,"Okay, so, it worked.",0,0,1,0
+Engagement,"You're most welcome, ma'am.",0,1,0,0
+Engagement,"I'm sorry to hear that your printer is not working.",1,0,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"Thank you.",0,1,0,0
+Engagement,"You're welcome.",0,1,0,0
+Engagement,"Thank you so much.",0,1,0,0
+Engagement,"Okay, good job.",0,1,0,0
+Engagement,"Alright, so while it's still loading right now, how are you doing today?",0,0,0,0
+Engagement,"Thank you so much for asking.",0,1,0,0
+Engagement,"Alright, congratulations.",0,1,0,0
+Engagement,"Thank you so much and let me fill out the form for you.",0,0,1,1
+Engagement,"Thank you for that information Ms. Hernani.",0,1,0,0
+Engagement,"Do you find that acceptable Ms. Hernani?",0,0,0,1
+Engagement,"Ok one more second Ms. Hernani.",0,0,0,0
+Engagement,"Oh perfect, go ahead please.",0,0,1,1
+Engagement,"Okay John, let me just confirm your information.",0,0,1,0
+Engagement,"Oh, I am sorry to hear that.",1,0,0,0
+Engagement,"Okay, just let me verify that this order number match with the product you placed.",0,0,1,0
+Engagement,"Okay, thank you for waiting, Mr. Pandit.",0,1,0,0
+Engagement,"Okay sir, I totally understand your situation and I would feel the same.",1,0,0,0
+Engagement,"But, please. Calm down and stop yelling at me.",1,0,0,0
+Engagement,"And let me tell you what I could do for you, ok?",0,0,1,0
+Engagement,"Oh, sorry sir, my mistake.",1,0,0,0
+Engagement,"Sorry to hear that sir.",1,0,0,0
+Engagement,"I appreciate that you bring this to our attention sir And sorry for the inconvenience sir.",1,1,0,0
+Engagement,"I understand that your situation is very tough right now.",1,0,0,0
+Engagement,"Yes sir, thank you.",0,1,0,0
+Engagement,"Please stay online for a minute Mr. Sobremonte.",0,0,0,1
+Engagement,"Again sir, I'm terribly sorry.",1,0,0,0
+Engagement,"Sorry for the inconvenience ma'am let me help you instruct your account.",1,0,1,0
+Engagement,"Thank you so much for that information extent.",0,1,0,0
+Engagement,"You are very welcome Roxanne and the delay in the village usually caused by a delay in our system so you can visit our website and login to your account and this bill is more updated and more convenient.",0,1,1,0
+Engagement,"Absolutely! I'm positive that we have what you are looking for so let me take your order.",0,0,1,0
+Engagement,"Are you good with these?",0,0,0,0
+Engagement,"Ok definitely we can definitely go ahead and assist you with that unlock today.",0,0,1,1
+Engagement,"There is no email that I can send you but here you said that it's unlocked and it has been unlocked same.",0,0,0,0
+Engagement,"Can I call you by your first name?",0,0,0,1
+Engagement,"We've had others tell us the same thing we are in the process of adding some telephone lines now so it shouldn't be a problem in the future.",0,0,1,0
+Engagement,"Sorry ma'am but the offer has expired.",1,0,0,0
+Engagement,"No problem I definitely understand it's concern regarding your bill and I'll definitely be more than happy to pull up your account and we can take a look at that charge for you today.",0,1,1,0
+Engagement,"Ok so Mrs. Clark I'm glad to have your pulled up pretty much to go ahead and explain the $40 upgrade fee AT&T does allow our customers to upgrade to the new two-year contract and it doesn't apply a one-time $40 upgrade fee on which it sells.",0,0,1,0
+Engagement,"I'm afraid to tell you ma'am but there was a serious conflict with a shipment of the goods yesterday due to the typhoon.",1,0,0,0
+Engagement,"I apologize for the inconvenience ma'am I would probably feel the same way if I'm in your situation but I'm rest assured that all your concerns will be heard and not be taken for granted.",1,0,1,0
+Engagement,"Thank you for that information Miss Cassandra please bear with me we'll pull up your account in the system.",0,1,0,1
+Engagement,"Thank you for patiently waiting I'm afraid to tell you ma'am but the delivery will not be delivered to you anymore.",1,0,0,0
+Engagement,"Uh ok sir as a technician I could definitely help you out with that right away.",0,0,1,0
+Engagement,"Ok sir thanks let's see what we can do with your router what seems to be the problem sir?",0,0,1,0
+Engagement,"Well that's a good question sir a router basically forwards data packets between computer networks.",0,0,0,0
+Engagement,"Ok please let me know what can I do for you.",0,0,1,1
+Engagement,"I'm pretty sure we'll be able to resolve this matter once and for all.",0,0,1,0
+Engagement,"I'm sorry to hear that your printer is not working let me go and check what's the problem and let us fix it together.",1,0,1,0
+Engagement,"Ok now can you please try printing.",0,0,1,1
+Engagement,"That's 10284563?",0,0,0,0
+Engagement,"And where is the property that you're looking for an estimate on? It's in Westchester I haven't purchased the land yet I'd like to see if I could get an estimate or haven't take a look at it before before I do.",0,0,0,0
+Engagement,"Okay no problem is it a good time to reach you with this number or is that an anytime?",0,0,0,1
+Engagement,"Oh I'm so sorry to hear that sir would you like me to get a hold of the plumber for you.",1,0,1,1
+Engagement,"Would you stay on the line for a moment?",0,0,0,1
+Engagement,"No problem Brian what did you need to know?",0,0,0,0
+Engagement,"Let me get your information and I'll have a security specialist give you a call and discuss your needs.",0,0,1,0
+Engagement,"He was stuck in traffic but he is now on First Avenue and King of Prussia and will be there momentarily.",0,0,0,0
+Engagement,"And I'm so sorry about the delay.",1,0,0,0
+Engagement,"Oh I am so sorry sir.",1,0,0,0
+Engagement,"Um the royal blue is a bit brighter.",0,0,0,0
+Engagement,"Sure I can definitely help you with that.",0,0,1,1
+Engagement,"You can expect your new burner to arrive in about four to six business days.",0,0,1,0
+Engagement,"Okay sure we can definitely help you.",0,0,1,0
+Engagement,"All right Bob we will see you in about a month stop in whenever you are free and we can work out the deposit.",0,0,1,0
+Engagement,"I'd be happy to help you with that today.",0,0,1,0
+Engagement,"Oh nice car.",0,0,0,0
+Engagement,"All right well here are a few reasons to consider purchasing today it looks as though you haven't updated your vehicle for three years so that would be the equivalent of getting three years worth of updates for the price of one.",0,0,1,0
+Engagement,"in addition special offers like the current promotion don't come around too often I would definitely recommend taking advantage of the extra $50 off before it expires",0,0,1,0
+Engagement,"yes ma'am you can call us 24/7 and yes I can help you set up any meeting with counselor Smith what is your preferred date",0,0,1,1
+Engagement,"mi'm sorry ma'am unfortunately that's the only time is free although check to see if there's another time lot sooner than that",1,0,0,0
+Engagement,"oh i am sorry to hear about that ma'am don't worry i'm hear to help you",1,0,1,0
+Engagement,"sorry for the inconvenience madam ",1,0,0,0
+Engagement,"Your account number is located at the top right hand corner of the bill statement. It’s a 9 digit code.",0,1,0,0
+Engagement,"I'd be happy to take care of your order",0,1,1,0
+Engagement,"sure ma'am I can help you out with that",0,0,1,1
+Engagement,"ma'am is your headset working now",0,0,0,0
+Engagement,"ok let me gather some information and see if we can help",0,0,1,0
+Engagement,"I understand how frustrating this is for you and I’m here to help resolve the issue",1,0,1,0
+Engagement,"I appreciate your understanding and we’ll get this sorted out as quickly as possible",0,1,1,0
+Engagement,"I see you're interested in our new product. Let me provide you with more details.",0,0,1,0
+Engagement,"I'm not sure if I have the details you're asking for. Let me check.",0,0,0,0
+Engagement,"I’ll provide you with the information you requested. One moment, please.",0,0,1,1
+Engagement,"It seems like that feature isn’t available at the moment. Sorry for the inconvenience.",1,0,0,0
+Engagement,"Thank you for your patience, I’m gathering the information now.",0,1,0,0
+Engagement,"Unfortunately, we don’t have that feature available yet.",1,0,0,0
+Engagement,"That’s a great question! Let me look up the answer for you.",0,0,1,0
+Engagement,"I’m unable to provide that information at the moment, but I’ll check again.",0,0,0,0
+Engagement,"Sure, I can provide more details on that. Just give me a moment.",0,0,1,1
+Engagement,"I’m afraid I don’t have the resources to help with that request.",1,0,0,0
+Engagement,"I’ve found the information you requested, here it is!",0,1,1,0
+Engagement,"I’m afraid that product is out of stock at the moment.",1,0,0,0
+Engagement,"That’s a great suggestion! I’ll pass it along to the team.",0,1,1,0
+Engagement,"Thanks for your patience! I’ve got the information you requested.",0,1,0,0
+Engagement,"I’m sorry, but I don’t have that information available right now.",1,0,0,0
+Engagement,"Thank you for your patience! I’ve found the details you're looking for.",0,1,0,0
+Engagement,"I’m sorry, but that product is currently unavailable.",1,0,0,0
+Engagement,"We’ve received your feedback, and I’ll ensure it's passed along to the right team.",0,1,1,0
+Engagement,"Thank you for waiting, we’re working hard to resolve this for you.",0,1,1,0
+Engagement,"I’m afraid I don’t have that information right now, but I’ll check back with you soon.",1,0,0,0
+Engagement,"I’ve got the details you asked for. Let me know if you need more information.",0,1,1,0
+Engagement,"Thank you for your feedback! We’re working on implementing improvements.",0,1,1,0
+Engagement,"We’ve received your inquiry and will get back to you shortly with more details.",0,1,1,0
+Engagement,"Thanks for waiting! We’re working hard to get everything sorted for you.",0,1,1,0
+Engagement,"Thank you for your patience, we are diligently working on your request.",0,1,1,0
+Engagement,"We’re happy to assist you! Let me know if you need anything further.",0,1,1,0
+Engagement,"We’re still looking into it, but I’ll update you as soon as I have more information.",0,0,1,0
+Engagement,"Thank you for your patience! We’re working hard to resolve this for you.",0,1,1,0
+Engagement,"Thanks for your patience while we continue to work on your case.",0,1,1,0
+Engagement,"Can you please provide me more details so I can assist better?",0,0,0,1
+Engagement,"I’d be happy to help you. Could you clarify a few things for me?",0,0,0,1
+Engagement,"Let me know if you need any further details or clarification.",0,1,0,0
+Engagement,"Can you give me more information about the issue so I can help?",0,0,0,1
+Engagement,"It would be great if you could provide more specifics.",0,0,0,0
+Engagement,"Can you tell me more about the problem so I can assist you better?",0,0,0,1
+Engagement,"Would you mind providing more details so I can help you?",0,0,0,1
+Engagement,"I’m happy to assist. Could you tell me more about what’s going on?",0,0,0,1
+Engagement,"Could you provide more details so we can move forward?",0,0,0,1
+Engagement,"I’m not sure I understand. Could you clarify a little more?",0,0,0,1
+Engagement,"It would help if you could give more details about the issue.",0,0,0,1
+Engagement,"Could you provide further details to help me understand the situation better?",0,0,0,1
+Engagement,"I need a little more information to proceed with solving this issue.",0,0,0,0
+Engagement,"It seems I need more information to help resolve your issue.",0,0,0,0
+Engagement,"I’m unable to assist further without more information. Could you clarify?",0,0,0,1
+Engagement,"Can you elaborate on that a bit so I can assist you better?",0,0,0,1
+Engagement,"I need more details from you in order to provide the correct solution.",0,0,0,0
+Engagement,"Could you give me more context to better assist you?",0,0,0,1
+Engagement,"Could you please provide some more details so I can help you further?",0,0,0,1
+Engagement,"Please tell me more about the issue, and I’ll assist you promptly.",0,0,0,1
+Engagement,"It would help if you could give me more information about your concern.",0,0,0,1
+Engagement,"Could you elaborate on the situation so I can assist you better?",0,0,0,1
+Engagement,"Can you provide more specifics about the issue so I can help?",0,0,0,1
+Engagement,"I need a bit more information to fully understand the issue. Can you elaborate?",0,0,0,1
+Engagement,"Please share a bit more about the issue so I can guide you through a solution.",0,0,0,1
+Engagement,"I’d love to help! Can you provide a little more context?",0,0,0,1
+Engagement,"Tell me a little more, so I can ensure I’m providing the right help.",0,0,0,1
+Engagement,"Could you clarify what you mean so I can understand better?",0,0,0,1
+Engagement,"I’m not quite sure I understand. Could you explain a bit more?",0,0,0,1
+Engagement,"I need more context to properly help you. Can you explain a bit further?",0,0,0,1
+Engagement,"Can you provide more details? I want to make sure I assist you properly.",0,0,0,1
+Engagement,"It would help if you could explain further. I want to make sure we resolve this.",0,0,0,1
+Engagement,"Could you give me some more context so I can help you more effectively?",0,0,0,1
+Engagement,"I’m not fully understanding the situation, could you clarify?",0,0,0,1
+Engagement,"I need more information to assist you properly. Can you share more details?",0,0,0,1
+Engagement,"It seems I don’t have enough details to help you, could you elaborate?",0,0,0,1
+Engagement,"Can you share more details about the problem so I can help you better?",0,0,0,1
+Engagement,"Please provide more information so I can offer the best solution.",0,0,0,1
+Engagement,"It would be helpful if you could elaborate on the issue so I can assist.",0,0,0,1
+Engagement,"Tell me more about the situation, and I'll guide you through it.",0,0,0,0
+Engagement,"Can you give me a bit more detail so I can assist you fully?",0,0,0,1
+Engagement,"Please share more so I can get a better understanding and assist you.",0,0,0,1
+Engagement,"A little more context will help me assist you better.",0,0,0,0
+Engagement,"If you could provide additional details, I’ll be able to assist more effectively.",0,0,0,1
+Engagement,"Please clarify the issue a little more, so I can help.",0,0,0,1
+Engagement,"I need more context to assist you better. Could you explain more?",0,0,0,1
+Engagement,"Can you clarify the issue further so I can help you more effectively?",0,0,0,1
+Engagement,"I’m having trouble understanding. Could you provide more details?",0,0,0,1
+Engagement,"It would help if you could explain the issue further so I can assist you.",0,0,0,1
+Engagement,"I need more details to help you resolve this. Could you elaborate?",0,0,0,0
+Engagement,"Can you provide more information about the issue? I want to assist properly.",0,0,0,1
+Engagement,"Could you clarify your issue a bit more so I can assist you better?",0,0,0,1
+Engagement,"I’m not sure I fully understand. Can you explain more so I can help?",0,0,0,1
+Engagement,"It would be helpful if you could give me more context on the issue.",0,0,0,1
+Engagement,"Could you tell me a little more about what’s going on?",0,0,0,1
+Engagement,"Please provide more details so I can offer a solution.",0,0,0,1
+Engagement,"Let me know more about the issue, and I can assist you further.",0,0,0,1
+Engagement,"Could you clarify a few things for me so I can help you better?",0,0,0,1
+Engagement,"If you share more details, I can provide a more accurate solution.",0,0,0,1
+Engagement,"Could you elaborate a bit more on the problem?",0,0,0,1
+Engagement,"Please provide more context so I can assist effectively.",0,0,0,1
+Engagement,"Can you give me more information so I can help you better?",0,0,0,1
+Engagement,"I need more details to help you out. Could you explain a bit more?",0,0,0,1
+Engagement,"I’m not sure I understand. Could you clarify the issue for me?",0,0,0,1
+Engagement,"Can you provide more information so I can assist you properly?",0,0,0,1
+Engagement,"I need a little more context to help you better. Could you explain more?",0,0,0,1
+Engagement,"Could you share more details so I can assist you more effectively?",0,0,0,1
+Engagement,"Please explain more so I can understand the issue better and assist.",0,0,0,1
+Engagement,"I’m not sure I understand the problem. Could you give more details?",0,0,0,1
+Engagement,"Could you elaborate on the issue? I need more context to help you.",0,0,0,1
+Engagement,"Can you provide more details so I can help you?",0,0,0,1
+Engagement,"Please share more information so I can assist you better.",0,0,0,1
+Engagement,"Let me know more so I can find the best solution for you.",0,0,0,1
+Engagement,"Please clarify the issue for me so I can provide better support.",0,0,0,1
+Engagement,"Can you describe the problem in more detail?",0,0,0,1
+Engagement,"Tell me more about the issue so I can offer a better solution.",0,0,0,1
+Engagement,"Please provide more details about the situation for better assistance.",0,0,0,1
+Engagement,"Could you elaborate a bit? I need more context to help.",0,0,0,1
+Engagement,"I'm not clear on the issue. Can you explain it further?",0,0,0,1
+Engagement,"I need a bit more information to help you effectively. Could you clarify?",0,0,0,1
+Engagement,"Could you tell me a little more about what's going on?",0,0,0,1
+Engagement,"I need more details to assist you better. Can you explain the issue?",0,0,0,1
+Engagement,"Please clarify the situation so I can better understand how to help.",0,0,0,1
+Engagement,"Can you explain in more detail? I need more information to proceed.",0,0,0,1
+Engagement,"Could you elaborate further on the issue? I need additional details.",0,0,0,1
+Engagement,"Could you give me more specifics so I can assist better?",0,0,0,1
+Engagement,"Let me know exactly what’s happening so I can provide the right help.",0,0,0,1
+Engagement,"Please explain the situation further for better assistance.",0,0,0,1
+Engagement,"I’d like to understand more so I can support you better.",0,0,0,1
+Engagement,"Could you tell me more about the issue for a quicker solution?",0,0,0,1
+Engagement,"Let’s dive into the details so I can help more effectively.",0,0,0,1
+Engagement,"Can you give me more insight into what’s happening?",0,0,0,1
+Engagement,"I need additional details to understand fully. Can you share more?",0,0,0,1
+Engagement,"I’m sorry, but I need more context to assist you effectively.",1,0,0,1
+Engagement,"Could you clarify a bit more? I want to make sure I can help.",0,0,0,1
+Engagement,"I’m not sure I fully understand. Could you provide additional details?",0,0,0,1
+Engagement,"Can you explain further? I need a clearer picture to assist.",0,0,0,1
+Engagement,"I’d like to assist, but I need a bit more information from you.",0,0,0,1
+Engagement,"Please share more context so I can provide accurate assistance.",0,0,0,1
+Engagement,"Could you provide me with some details about the issue?",0,0,0,1
+Engagement,"Let me know the specifics so we can resolve this quickly.",0,0,0,1
+Engagement,"I’d like to hear more about the situation to assist better.",0,0,0,1
+Engagement,"Could you explain further? I’m here to support you.",0,0,0,1
+Engagement,"I need some clarification to understand the problem fully.",0,0,0,1
+Engagement,"Could you elaborate? I want to make sure I address this correctly.",0,0,0,1
+Engagement,"I’m here to help, but I need a bit more context to proceed.",0,0,0,1
+Engagement,"Please share additional details so I can provide the best solution.",0,0,0,1
+Engagement,"Can you tell me more about the situation so I can assist you better?",0,0,0,1
+Engagement,"Let’s go over the details to ensure we’re on the same page.",0,0,0,1
+Engagement,"I’d love to hear more so I can provide the right assistance.",0,0,0,1
+Engagement,"Let me know the specifics, and I’ll help you right away.",0,0,0,1
+Engagement,"I need some further information to work on this effectively.",0,0,0,1
+Engagement,"Could you clarify a bit more about what’s happening?",0,0,0,1
+Engagement,"Your input is important. Please share any additional details you can.",0,0,0,1
+Engagement,"I’m listening. Let’s discuss this thoroughly to resolve it promptly.",0,0,0,1
+Engagement,"I apologize for the confusion, let me clarify the situation for you.",1,0,0,0
+Engagement,"I'm truly sorry for the misunderstanding, can you give me more details?",1,0,0,1
+Engagement,"I regret that this happened. Could you provide more information so I can help?",1,0,0,1
+Engagement,"Apologies for the inconvenience. Please let me know how I can assist you further.",1,0,0,1
+Engagement,"I sincerely apologize for the oversight. Could you help me by elaborating a bit more?",1,0,0,1
+Engagement,"I’m really sorry for the confusion earlier. Could you explain the issue in more detail?",1,0,0,1
+Engagement,"My apologies, I didn’t quite catch that. Could you clarify it for me?",1,0,0,1
+Engagement,"I’m really sorry if I caused any confusion. Could you provide more context?",1,0,0,1
+Engagement,"Sorry about that, let me know more about the issue so I can address it properly.",1,0,0,1
+Engagement,"I apologize for any inconvenience this may have caused. Could you share more details?",1,0,0,1
+Engagement,"I’m sorry for the misunderstanding. Could you explain the situation in more detail?",1,0,0,1
+Engagement,"Sorry for any confusion earlier. Could you clarify the issue so I can assist?",1,0,0,1
+Engagement,"I’m truly sorry about the mix-up. Can you tell me a bit more to help resolve this?",1,0,0,1
+Engagement,"I regret any confusion caused. Please help me understand by giving more details.",1,0,0,1
+Engagement,"I apologize for the delay. Could you elaborate more on what’s happening?",1,0,0,1
+Engagement,"I’m sorry for not being clear earlier. Could you explain the problem further?",1,0,0,1
+Engagement,"My sincere apologies for the confusion. Could you help me by sharing more information?",1,0,0,1
+Engagement,"I’m sorry if I’ve caused any frustration. Could you provide additional details?",1,0,0,1
+Engagement,"I regret that this happened, let me know more about the situation so I can assist.",1,0,0,1
+Engagement,"Apologies for the inconvenience caused. Please give me more information so I can help.",1,0,0,1
+Engagement,"I’m sorry for the confusion earlier, could you kindly clarify your request?",1,0,0,1
+Engagement,"Sorry about that! Could you tell me more about what's going on so I can help?",1,0,0,1
+Engagement,"I’m really sorry for the mix-up. Please share more details so I can assist you properly.",1,0,0,1
+Engagement,"My apologies for any confusion. Could you help by elaborating a little more?",1,0,0,1
+Engagement,"I apologize for the inconvenience, please let me know how I can assist you better.",1,0,0,1
+Engagement,"I’m sorry about that confusion. Could you explain the issue in more detail for me?",1,0,0,1
+Engagement,"I regret the misunderstanding, please clarify so I can help you with the next steps.",1,0,0,1
+Engagement,"I’m really sorry for the confusion earlier. Could you kindly provide more details?",1,0,0,1
+Engagement,"Apologies for the mix-up. Can you give me a little more context to understand better?",1,0,0,1
+Engagement,"I regret the misunderstanding. Could you explain the situation in more detail?",1,0,0,1
+Engagement,"I’m truly sorry for the inconvenience caused. Can you share more information so I can help?",1,0,0,1
+Engagement,"Sorry for the confusion! Please explain the issue further so I can assist you properly.",1,0,0,1
+Engagement,"I apologize if my previous message wasn’t clear. Can you clarify the situation for me?",1,0,0,1
+Engagement,"I’m sorry for the mix-up. Could you provide additional details so I can address this?",1,0,0,1
+Engagement,"I’m really sorry for not understanding the problem fully. Could you give me more information?",1,0,0,1
+Engagement,"Sorry about that! Could you share more context so I can help resolve the issue?",1,0,0,1
+Engagement,"I apologize for the confusion earlier. Could you help me by explaining more?",1,0,0,1
+Engagement,"Sorry for the inconvenience. Could you elaborate a bit more so I can understand?",1,0,0,1
+Engagement,"My apologies for the misunderstanding. Can you explain a bit more so I can assist?",1,0,0,1
+Engagement,"I’m sorry for not being clear earlier. Could you provide more details about the issue?",1,0,0,1
+Engagement,"Apologies for the confusion earlier. Could you clarify a bit more so I can assist you?",1,0,0,1
+Engagement,"I regret any inconvenience caused. Could you share a bit more context so I can help?",1,0,0,1
+Engagement,"I’m sorry if my earlier response wasn’t clear enough. Could you explain further?",1,0,0,1
+Engagement,"I apologize for any confusion. Can you provide more specifics so I can assist you better?",1,0,0,1
+Engagement,"I’m truly sorry for the misunderstanding. Could you clarify the situation for me?",1,0,0,1
+Engagement,"Apologies for the inconvenience caused. Could you give me more details to help?",1,0,0,1
+Engagement,"I’m sorry if I caused any confusion earlier. Could you share more information?",1,0,0,1
+Engagement,"Sorry for the oversight. Please let me know more so I can assist you effectively.",1,0,0,1
+Engagement,"My apologies for any misunderstanding. Could you help me understand the issue better?",1,0,0,1
+Engagement,"I’m really sorry for the inconvenience. Could you explain the situation a bit more?",1,0,0,1
+Engagement,"Sorry for the confusion. Could you share a bit more so I can assist you effectively?",1,0,0,1
+Engagement,"I apologize for the misunderstanding. Can you provide additional context to help me assist?",1,0,0,1
+Engagement,"Sorry for the confusion. Could you explain the issue in more detail so I can help?",1,0,0,1
+Engagement,"Apologies for any inconvenience caused. Can you provide further details to clarify?",1,0,0,1
+Engagement,"I’m sorry for not understanding the situation completely. Could you provide more context?",1,0,0,1
+Engagement,"I regret the misunderstanding. Could you clarify your concern so I can assist you better?",1,0,0,1
+Engagement,"Thank you so much for your patience. I really appreciate your help with this.",0,1,0,0
+Engagement,"I truly value your input. Thanks for sharing that with me!",0,1,0,0
+Engagement,"I’m grateful for your detailed response. It really helps me understand the situation.",0,1,0,0
+Engagement,"I appreciate your quick reply. Thank you for clarifying that for me!",0,1,0,0
+Engagement,"Thanks for your patience while I gather the information you need.",0,1,0,0
+Engagement,"I’m grateful for your time. Your feedback is really helpful!",0,1,0,0
+Engagement,"Thank you for sharing your thoughts with me. I really appreciate your insights.",0,1,0,0
+Engagement,"I appreciate you taking the time to explain that to me. Thank you!",0,1,0,0
+Engagement,"Thank you so much for your understanding. It means a lot to me!",0,1,0,0
+Engagement,"I really appreciate your cooperation. Thanks for being so helpful!",0,1,0,0
+Engagement,"I’m grateful for your assistance. Your input is very valuable.",0,1,0,0
+Engagement,"Thank you for your feedback. It’s been very helpful in moving forward.",0,1,0,0
+Engagement,"I sincerely appreciate your response. It’s exactly what I needed.",0,1,0,0
+Engagement,"I’m really thankful for your help. Your advice is much appreciated.",0,1,0,0
+Engagement,"Thank you for your effort in explaining that. It’s been incredibly useful.",0,1,0,0
+Engagement,"I can’t thank you enough for your assistance. I truly appreciate it!",0,1,0,0
+Engagement,"Thank you for your understanding and support. It’s truly appreciated.",0,1,0,0
+Engagement,"I’m so grateful for your contribution. It’s been invaluable to me.",0,1,0,0
+Engagement,"Thanks for your patience while I work through this. Your support means a lot.",0,1,0,0
+Engagement,"I really appreciate your thoughtful response. It’s exactly what I needed to hear.",0,1,0,0
+Engagement,"Thank you so much for your help! Your input is really important to me.",0,1,0,0
+Engagement,"I’m very grateful for your time and help. Thank you for sharing your insights!",0,1,0,0
+Engagement,"Thank you for the detailed information. I truly appreciate it!",0,1,0,0
+Engagement,"Thanks for your cooperation! I appreciate your effort in helping me resolve this.",0,1,0,0
+Engagement,"I’m so thankful for your willingness to assist. It’s been a great help.",0,1,0,0
+Engagement,"Thank you for your thoughtful feedback. It really helps me move forward.",0,1,0,0
+Engagement,"I appreciate your efforts in providing this information. Thank you so much!",0,1,0,0
+Engagement,"Thank you for your response. It’s exactly what I needed to know.",0,1,0,0
+Engagement,"I’m grateful for your feedback. It’s been really valuable in solving the issue.",0,1,0,0
+Engagement,"Thank you for your detailed explanation. It really clarifies things for me.",0,1,0,0
+Engagement,"I truly appreciate your support. Your help is invaluable.",0,1,0,0
+Engagement,"Thank you for your insightful response. I really appreciate the time you took to explain that.",0,1,0,0
+Engagement,"I’m so grateful for your help. Your response has been extremely useful.",0,1,0,0
+Engagement,"Thanks for providing such a thorough explanation. It’s truly appreciated.",0,1,0,0
+Engagement,"I truly appreciate your time and effort in helping me out. Thank you so much.",0,1,0,0
+Engagement,"I can’t express enough how much your support means to me. Thank you for your help.",0,1,0,0
+Engagement,"Your feedback is incredibly valuable. Thanks so much for sharing your thoughts.",0,1,0,0
+Engagement,"Thank you for your patience and understanding throughout this process.",0,1,0,0
+Engagement,"I sincerely appreciate your detailed answer. It’s been very helpful.",0,1,0,0
+Engagement,"Thank you for your assistance! It’s been a huge help in resolving this issue.",0,1,0,0
+Engagement,"I’m very grateful for your input. It’s exactly what I needed to move forward.",0,1,0,0
+Engagement,"Thank you so much for your thorough explanation. I really appreciate it.",0,1,0,0
+Engagement,"I’m really thankful for your time and effort. Your support has made a big difference.",0,1,0,0
+Engagement,"I can’t thank you enough for your help! It’s been incredibly valuable to me.",0,1,0,0
+Engagement,"Thank you for your continuous support. I really appreciate everything you’ve done.",0,1,0,0
+Engagement,"I’m deeply thankful for your detailed feedback. It’s been very helpful.",0,1,0,0
+Engagement,"Thanks for taking the time to explain everything so clearly. I truly appreciate it.",0,1,0,0
+Engagement,"I appreciate your prompt response. It really helped me understand the issue better.",0,1,0,0
+Engagement,"Thank you so much for your patience. Your understanding has been a big help.",0,1,0,0
+Engagement,"I’m grateful for your thoughtful response. It’s been very informative.",0,1,0,0
+Engagement,"Your help has been invaluable. I truly appreciate the time and effort you’ve given.",0,1,0,0
+Engagement,"I really appreciate your assistance with this. It’s been so helpful in moving things along.",0,1,0,0
+Engagement,"Thank you for your excellent input. It’s been exactly what I needed to resolve the issue.",0,1,0,0
+Engagement,"I’m so thankful for your help. Your support is truly appreciated.",0,1,0,0
+Engagement,"I appreciate you taking the time to provide this information. Thank you!",0,1,0,0
+Engagement,"Thanks so much for your help! It has been instrumental in resolving the issue.",0,1,0,0
+Engagement,"I’m really grateful for your feedback. It’s helping me move forward with the project.",0,1,0,0
+Engagement,"Thank you for your time and effort. Your assistance is greatly appreciated.",0,1,0,0
+Engagement,"I’m thankful for your continued support. It has really made a difference.",0,1,0,0
+Engagement,"I truly appreciate your quick response. Your input is incredibly valuable.",0,1,0,0
+Engagement,"Thanks for your help with this! It’s been very useful in resolving the situation.",0,1,0,0
+Engagement,"Don't worry, I’ll make sure we figure this out together. We can definitely resolve this issue.",0,0,1,0
+Engagement,"Rest assured, we’re on the right track. I’m confident that we’ll find a solution soon.",0,0,1,0
+Engagement,"I understand your concerns, and I’ll take care of this. You can count on me to help solve the problem.",0,0,1,0
+Engagement,"You’re not alone in this. I’ll assist every step of the way, and we’ll get to a solution.",0,0,1,0
+Engagement,"I’ve got this covered, so don’t stress. I’m working on the solution right now.",0,0,1,0
+Engagement,"Everything will be okay! I’m working through it and will have a resolution for you shortly.",0,0,1,0
+Engagement,"No need to worry, I’m taking care of it and will update you once it’s resolved.",0,0,1,0
+Engagement,"It’s all under control. I’m confident we’ll find a way to fix this issue promptly.",0,0,1,0
+Engagement,"I’m on it! You can relax – I’ll keep you updated as soon as we have a solution.",0,0,1,0
+Engagement,"You’re in good hands. I’ll get this sorted out quickly, so no need to stress.",0,0,1,0
+Engagement,"I’ll make sure to address this. It’s not a big problem, and we’ll have it fixed in no time.",0,0,1,0
+Engagement,"Everything is going to be fine. I’ll handle it from here and let you know once it’s resolved.",0,0,1,0
+Engagement,"I’ll take care of the issue, and we’ll get things back on track. You don’t have to worry about it.",0,0,1,0
+Engagement,"No problem at all – I’m on the case and will make sure this gets resolved quickly.",0,0,1,0
+Engagement,"Trust me, I’ll handle everything. You’ll be updated once it’s fixed, so no need to worry.",0,0,1,0
+Engagement,"I’m confident that this will be resolved soon. Please rest assured, I’m working on it.",0,0,1,0
+Engagement,"Let me assure you, I’m actively resolving the issue. It will be taken care of soon.",0,0,1,0
+Engagement,"I’ve already started working on it. Everything will be fine and resolved shortly.",0,0,1,0
+Engagement,"No need for concern, I’ve got this. You’ll hear from me once everything is fixed.",0,0,1,0
+Engagement,"You’re in good hands, I’m already working on the fix and will have it done soon.",0,0,1,0
+Engagement,"I’m here to help, and I’ll work quickly to make sure this gets resolved as soon as possible.",0,0,1,0
+Engagement,"This issue is being addressed right now, and you can count on me to resolve it without delay.",0,0,1,0
+Engagement,"I’m making this a top priority, so you don’t need to worry. It will be resolved shortly.",0,0,1,0
+Engagement,"You can be confident that I’ll take care of it. Everything is being handled, and it’ll be sorted out soon.",0,0,1,0
+Engagement,"I’ve already started working on it. Don’t stress, we’ll have it resolved very soon.",0,0,1,0
+Engagement,"I’m on the case and working to resolve it right now. You’ll be updated as soon as it’s fixed.",0,0,1,0
+Engagement,"Rest assured, I’m handling it, and we’ll have a solution in no time. You don’t need to worry.",0,0,1,0
+Engagement,"I’ve got everything under control. You don’t need to worry, I’ll fix it as soon as possible.",0,0,1,0
+Engagement,"Everything is being handled, and I’ll get it resolved quickly. There’s no need for concern.",0,0,1,0
+Engagement,"I understand, and I’m already working on fixing this. It will be taken care of very soon.",0,0,1,0
+Engagement,"There’s no need to panic. I’m handling the situation, and it’ll be sorted out shortly.",0,0,1,0
+Engagement,"I’m on top of it! I’ll make sure to update you once we have a solution in place.",0,0,1,0
+Engagement,"I’m working on it right now. It won’t take long, and everything will be back to normal.",0,0,1,0
+Engagement,"Don’t worry, I’m addressing this issue right away. You’ll have an update soon.",0,0,1,0
+Engagement,"You can relax – I’ve got it covered, and everything will be fixed shortly.",0,0,1,0
+Engagement,"Rest easy, I’m already working to resolve this. You’ll be notified once it’s handled.",0,0,1,0
+Engagement,"No need to stress. I’m fixing the issue and will have a resolution for you soon.",0,0,1,0
+Engagement,"I’m confident that we’ll resolve this in no time. I’ll let you know once it’s fixed.",0,0,1,0
+Engagement,"Everything is in progress, and I’m making it a priority. You’ll hear from me once it’s fixed.",0,0,1,0
+Engagement,"I’ve already begun working on a solution. You’ll be the first to know once it’s done.",0,0,1,0
+Engagement,"You don’t need to worry – I’m on it! It’ll be resolved before you know it.",0,0,1,0
+Engagement,"It’s already in the works! I’m confident we’ll get everything back to normal shortly.",0,0,1,0
+Engagement,"I’m handling everything, so you can rest assured that it’ll be fixed soon.",0,0,1,0
+Engagement,"No problem! I’m actively working on it and will let you know once it’s resolved.",0,0,1,0
+Engagement,"Don’t worry, I’m already taking care of it. You’ll hear from me soon with a solution.",0,0,1,0
+Engagement,"I’m working through the issue right now. It won’t be long until everything is back on track.",0,0,1,0
+Engagement,"You’re in good hands! I’ll ensure that the issue gets resolved quickly and efficiently.",0,0,1,0
+Engagement,"You can relax, I’m already working on fixing it. You’ll have an update very soon.",0,0,1,0
+Engagement,"I’m on it! You won’t need to worry about it for much longer.",0,0,1,0
+Engagement,"Everything is being handled on my end. I’ll let you know as soon as the issue is resolved.",0,0,1,0
+Engagement,"This is being taken care of right now. I’ll make sure you’re informed when it’s fixed.",0,0,1,0
+Engagement,"I’m taking care of it right now. It’ll be resolved very soon – just hang tight.",0,0,1,0
+Engagement,"I’m truly sorry for the inconvenience. I understand how frustrating this must be for you.",1,0,0,0
+Engagement,"I apologize for the trouble this has caused. Please know I’m working to resolve it as soon as possible.",1,0,0,0
+Engagement,"I’m really sorry you’re dealing with this issue. I understand how annoying it must be.",1,0,0,0
+Engagement,"I can see how this could be frustrating. Please accept my sincere apologies for the trouble.",1,0,0,0
+Engagement,"I understand this is an inconvenience. I’m so sorry you have to go through this.",1,0,0,0
+Engagement,"I apologize for the difficulty. I completely understand your frustration, and I’m here to help.",1,0,0,0
+Engagement,"I’m sorry for the delay. I understand the impact it’s having and I’m working on a solution.",1,0,0,0
+Engagement,"I deeply apologize for the confusion. I understand how this situation is inconvenient for you.",1,0,0,0
+Engagement,"I can only imagine how disappointing this must be. I’m truly sorry for the inconvenience.",1,0,0,0
+Engagement,"I apologize for the trouble you’ve encountered. I know how disruptive this can be.",1,0,0,0
+Engagement,"I’m genuinely sorry for the frustration this has caused. I understand this isn’t ideal.",1,0,0,0
+Engagement,"I regret that this issue has caused you inconvenience. I can see how this situation is frustrating.",1,0,0,0
+Engagement,"Please accept my sincere apologies for the hassle this has caused. I completely understand your concerns.",1,0,0,0
+Engagement,"I’m so sorry for any inconvenience this has caused. I understand your frustration completely.",1,0,0,0
+Engagement,"I’m sorry you’re having to deal with this issue. I understand the frustration it’s causing.",1,0,0,0
+Engagement,"My apologies for the confusion this has created. I completely understand how it’s affecting you.",1,0,0,0
+Engagement,"I’m really sorry for the trouble you’re going through. I understand how annoying this can be.",1,0,0,0
+Engagement,"I apologize for the inconvenience this has caused. I know how important it is to resolve this quickly.",1,0,0,0
+Engagement,"I’m truly sorry for the issues this has caused you. I understand how this can be disruptive.",1,0,0,0
+Engagement,"I apologize for the delay. I can imagine how frustrating this is, and I appreciate your patience.",1,0,0,0
+Engagement,"I’m so sorry that you’re experiencing this problem. I understand the frustration it brings.",1,0,0,0
+Engagement,"I completely understand how annoying this situation is. I apologize for the inconvenience caused.",1,0,0,0
+Engagement,"I’m sincerely sorry for the disruption this has caused. I understand how inconvenient this must be for you.",1,0,0,0
+Engagement,"I’m sorry you’re experiencing this issue. I completely understand how frustrating it can be.",1,0,0,0
+Engagement,"My apologies for the inconvenience. I can understand why this is a frustrating situation.",1,0,0,0
+Engagement,"I truly regret that this is happening. I can empathize with how upsetting this must be.",1,0,0,0
+Engagement,"I apologize for the trouble. I realize this may be causing you a lot of inconvenience.",1,0,0,0
+Engagement,"I’m really sorry for the trouble this has caused you. I understand how challenging this can be.",1,0,0,0
+Engagement,"I regret that you’re going through this issue. I can imagine how frustrating this must feel.",1,0,0,0
+Engagement,"I’m truly sorry for the inconvenience. I completely understand the frustration you must be facing.",1,0,0,0
+Engagement,"I apologize for the situation you’re facing. I understand it must be a difficult experience.",1,0,0,0
+Engagement,"I’m very sorry for the trouble. I know this can be very frustrating and I’m here to help.",1,0,0,0
+Engagement,"I sincerely apologize for the issue. I know how inconvenient this must be for you.",1,0,0,0
+Engagement,"I’m really sorry you’re dealing with this. I completely understand how much of an inconvenience this is.",1,0,0,0
+Engagement,"I deeply regret the situation you’re in. I can empathize with how frustrating this must be.",1,0,0,0
+Engagement,"I apologize for the frustration this issue is causing. I understand it’s not easy to deal with.",1,0,0,0
+Engagement,"I’m very sorry for this inconvenience. I understand how this might be disrupting your day.",1,0,0,0
+Engagement,"I’m truly sorry you’re facing this issue. I can see how upsetting this must be for you.",1,0,0,0
+Engagement,"I apologize for any trouble caused. I completely understand how inconvenient this situation is.",1,0,0,0
+Engagement,"I’m really sorry for the difficulties this has caused you. I understand how it can be frustrating.",1,0,0,0
+Engagement,"I apologize for the delay. I know how important it is to get this resolved quickly.",1,0,0,0
+Engagement,"I’m sorry for the inconvenience. I understand how challenging this can be to work through.",1,0,0,0
+Engagement,"I’m truly sorry for the trouble you’ve encountered. I understand the impact this has on you.",1,0,0,0
+Engagement,"I apologize for the disruption this has caused. I know how frustrating it is when things aren’t working as expected.",1,0,0,0
+Engagement,"I’m sorry this has become such a hassle for you. I understand how overwhelming it can be.",1,0,0,0
+Engagement,"I deeply apologize for the inconvenience. I understand how this situation is affecting your experience.",1,0,0,0

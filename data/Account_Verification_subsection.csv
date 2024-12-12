@@ -1,0 +1,469 @@
+Category,Text,Personal Information,Account and Transaction Details,Permission Words
+Account Verification,"To put your account, can I please have your account number or debit card number?",0,1,1
+Account Verification,"And for additional security can I also have your birthdate and residential address please?",1,0,1
+Account Verification,"May I have your name?",1,0,1
+Account Verification,"May I have the names of the guests?",0,0,1
+Account Verification,"May I have your account number please?",0,1,1
+Account Verification,"May I have your account number so that I can check your account?",0,1,1
+Account Verification,"For verification purposes, can I get your name and birth date, please?;",1,0,1
+Account Verification,"But, what I can do is to open a ticket or submit a report so that the other department assigned can manually complete your payment and reconnect your internet.",0,1,0
+Account Verification,"I just need the payment ID number ma'am and which center did you make the payment?",0,1,0
+Account Verification,"Since you are already pre-approved, I just need to confirm your building address, phone number and email address.",1,0,0
+Account Verification,"Got it, thank you so much.",0,0,0
+Account Verification,"I'll have this submitted and please expect your card in 10 business days and don't hesitate to call our toll-free number for any assistance.",0,0,1
+Account Verification,"Welcome, thank you so much, bye.",0,0,0
+Account Verification,"Can I have your account or phone number please?",0,1,1
+Account Verification,"May I know the name of the account?",1,0,1
+Account Verification,"Sounds great so I was saying may I know the name on the account?",1,0,1
+Account Verification,"Yes, if the account is under your name.",1,0,0
+Account Verification,"May I have the account number or the phone number of the account?",0,1,1
+Account Verification,"May I have your complete name and member ID?",1,1,1
+Account Verification,"How about your date of birth and address?",1,0,1
+Account Verification,"Can I have your name please?",1,0,1
+Account Verification,"Can I please have the name and a shipping address for the order?",0,1,1
+Account Verification,"Thank you, and, the expiration date and CVV code please.",0,1,1
+Account Verification,"Alright and, can I have the billing address of your card please?",0,1,1
+Account Verification,"All I need now, is the email address for the order and your mobile number and we're all set.",1,1,0
+Account Verification,"But first, give me your account number sir.",0,1,0
+Account Verification,"Okay sir, I got it and for verification you will need your name and your birthday",1,0,0
+Account Verification,"And to make it possible sir, I just need your payment ID.",0,1,0
+Account Verification,"May I have your name please?",1,0,1
+Account Verification,"May I have your home or office number area code first?",1,0,1
+Account Verification,"Do you have a fax number or email address?",0,0,0
+Account Verification,"May I have your shipping address?",0,1,1
+Account Verification,"Can I start with your name please?",1,0,1
+Account Verification,"Okay, no problem and can I get the delivery address please?",0,1,1
+Account Verification,"And do you have an email address so I can send your receipt and online tracking too?",0,1,1
+Account Verification,"Great, so all I need now is your visa or MasterCard details please?",0,1,1
+Account Verification,"And, can you also grabbed the security number on the card?",0,1,0
+Account Verification,"Alright, for security purposes, can I have the complete name on the account?",1,0,1
+Account Verification,"Okay, can I also have your email address?",1,0,1
+Account Verification,"Great, can I have your phone number?",1,0,1
+Account Verification,"Alright, Can you start with your name please?",1,0,1
+Account Verification,"How about your email address?",1,0,1
+Account Verification,"Alright, For security purposes can I have your complete name please?",1,0,1
+Account Verification,"Can I also have the email address associated with your account?",1,0,1
+Account Verification,"How about the last four digits of the order number?",0,1,0
+Account Verification,"Got it, so those were man sneaker shoes and an iPhone.",0,0,0
+Account Verification,"To verify could you tell me the shipping address you wanted to ship the parcel?",0,1,1
+Account Verification,"Can I have your account number together with your first and last name?",1,1,1
+Account Verification,"May I ask for the original online order number?",0,1,1
+Account Verification,"thank you may i also have the model of your printer? it's located in front of your printer at the lower right",0,0,1
+Account Verification,"ok mr.matthews can i have the best number you can be reached out and also your apartment number",1,0,1
+Account Verification,"ok great let me get your name what's your first name please",1,0,1
+Account Verification,"and you're last name",1,0,1
+Account Verification,"thank you and may i have your call back number",0,0,1
+Account Verification,"okay let me get your name and number and I can patch you right through to the plumber your name sir",1,0,1
+Account Verification,"ok and your call back number",0,0,1
+Account Verification,"sure bill couch is in charge of the over the phone application process if you could just give me your name and phone number I can pass you right through to him",1,0,1
+Account Verification,"and i also need your phone number brian",1,0,1
+Account Verification,"sure that's great can I have their names and phone numbers please mr. Jones",1,0,1
+Account Verification,"is your email still Z Jones at gmail.com",1,0,1
+Account Verification,"first could I have your name sir",1,0,1
+Account Verification,"and a number where you can be reached",0,0,1
+Account Verification,"and could I get the address of where you would like the security system installed",1,0,1
+Account Verification,"and your zip code please",0,0,1
+Account Verification,"okay what zip code are you located in",0,0,1
+Account Verification,"okay what is your name sir",1,0,1
+Account Verification,"may have your first name please",1,0,1
+Account Verification,"and your last name",1,0,1
+Account Verification,"okay and a callback number",0,0,1
+Account Verification,"what is your first and last name",1,0,1
+Account Verification,"okay can I also have your email address",1,0,1
+Account Verification,"may have your name?",1,0,1
+Account Verification,"can i have your name?",1,0,1
+Account Verification,"okay I think I found your profile here can I have you verify your address and phone number please",1,0,1
+Account Verification,"before anything Alice may I have your name please so I can address you properly as well is tainted for the appointment wrong",1,0,1
+Account Verification,"let's start first by verifying account number",0,1,1
+Account Verification,"may i please verify the last four digit of your social security number?",0,1,1
+Account Verification,"may i have your account number",0,1,1
+Account Verification,"for verification purpose mam can i get your name",1,0,1
+Account Verification,"Yes",0,0,0
+Account Verification,"Can you provide me your account number please?",0,1,1
+Account Verification,"May I please have your Phone or Account Number?",1,1,1
+Account Verification,"Got it",0,0,0
+Account Verification,"may you have your complete name",1,0,1
+Account Verification,"can you have your email address",1,0,1
+Account Verification,"may have your name please",1,0,1
+Account Verification,"thank you for that information Randall may have your home or office number area code first",1,0,1
+Account Verification,"but before anything else may I have your name so that I can address you properly",1,0,1
+Account Verification,"what is your name",1,0,1
+Account Verification,"and your last name",1,0,1
+Account Verification,"i'll be glad to help you may i please get your bank account number and the name on the account",1,1,1
+Account Verification,"ok can you please verify the last four digits of your id",0,1,1
+Account Verification,"Do you actually have a number that starts with triple 0 7 or 7?",0,0,0
+Account Verification,"Or, can I ask for your first and last name so I can manually check it in our database?",1,0,1
+Account Verification,"Okay, let me just quickly look into a portal and check any notes in your order.",0,1,0
+Account Verification,"Can I ask for the order under your name originally?",1,1,1
+Account Verification,"Now what's the phone number that you put into order before?",1,1,0
+Account Verification,"Okay and what's the email address that you gave when you filled out the order form?",1,1,0
+Account Verification,"Did you receive a mailer from us?",0,0,0
+Account Verification,"And, the year making model of your vehicle?",0,0,0
+Account Verification,"Okay, I think I found your profile here.",0,1,0
+Account Verification,"Can I have you verify your address and phone number please?",1,1,1
+Account Verification,"Do you have your phone number so I can pull up your account?",1,1,0
+Account Verification,"Due to the sensitive nature of your account information, I will need to verify your identity for security purposes before proceeding.",1,1,0
+Account Verification,"Please provide your date of birth.",1,0,1
+Account Verification,"What's your order confirmation number?",0,1,0
+Account Verification,"Thank you and your name and the phone number please?",1,1,1
+Account Verification,"Awesome, let me have your first and last name.",1,0,0
+Account Verification,"May I have your home or office number?",1,0,1
+Account Verification,"Your area code first?",0,0,0
+Account Verification,"Do you have an email address?",1,0,0
+Account Verification,"May I have the name and the shipping entries for the order?",1,1,1
+Account Verification,"Thank you and to make sure that I'll be looking at the right account, may I know the phone number that you're calling in about?",1,1,1
+Account Verification,"Thank you so much Amanda and your account security code please?",1,1,1
+Account Verification,"Now, can you please confirm your ICC ID number or your sim card number?",1,1,1
+Account Verification,"Before we start, may I please have your name and best callback number in case a call got disconnected?",1,0,1
+Account Verification,"May I also have the model of your printer?",0,0,1
+Account Verification,"It's located in front of your printer at the lower right side.",0,0,0
+Account Verification,"Can I have your first and last name please?",1,0,1
+Account Verification,"Thank you Brian and for me to pull up your account, can I also have your account number?",1,1,1
+Account Verification,"Okay and now what name would you prefer to be listed on the reservation?",1,0,0
+Account Verification,"Can you spell out your name for me please?",1,0,1
+Account Verification,"And, what is your best callback number?",1,0,0
+Account Verification,"May I have your email address where I can send your reservation number?",1,0,1
+Account Verification,"Before I proceed to the reservation process, may I know who is on the line?",1,0,1
+Account Verification,"Could you spell your first name for me please?",1,0,1
+Account Verification,"Can I have the name of the persons who will be staying Ms. Hernani?",1,0,1
+Account Verification,"So all I need to know is your phone number.",1,0,0
+Account Verification,"Sounds good and can I get your date of birth?",1,0,1
+Account Verification,"Thanks, would you happen to know the prescription number?",0,0,0
+Account Verification,"And the name of the pharmacy?",0,0,0
+Account Verification,"Okay and do you know their phone number?",0,0,0
+Account Verification,"Could you tell me your order number please?",0,1,1
+Account Verification,"But first, give me your account number sir.",1,1,0
+Account Verification,"Okay sir, I got it and for verification you will need your name and your birthday",1,0,0
+Account Verification,"And to make it possible sir, I just need your payment ID.",0,1,0
+Account Verification,"may i have your account number?",1,1,1
+Account Verification,"thank you for verification process can i have your name and date of birth please?",1,0,1
+Account Verification,"awesome! let me have your first and last name",1,0,0
+Account Verification,"thank you! may i have your home or office number area code first?",1,0,1
+Account Verification,"can i have your mobile number please?",1,0,1
+Account Verification,"ok it's not coming up like that. can i have your last name please?",1,0,1
+Account Verification,"may i please have your account number and password?",1,1,1
+Account Verification,"ok now so i can access the account menu verifies the last four digits of your social number",1,1,0
+Account Verification,"so i see on the line that ends in 24956 it has the $40 upgrade do you want it?",0,1,0
+Account Verification,"for us to begin with may i have your account number please",1,1,1
+Account Verification,"just to confirm that's 0123456789",0,1,0
+Account Verification,"now for verification purposes may i have your name and date of birth please",1,0,1
+Account Verification,"but before we move on may i have your full name and your eight digit subscriber number please",1,1,1
+Account Verification,"ok now could you kindly tell me your router's product number please?",0,0,1
+Account Verification,"ok let me verify it on my system and i'll try to set it up remotely",0,0,0
+Account Verification,"before we start may i please have your name and your best call back number in case the call got disconnected",1,0,1
+Account Verification,"What is your full name?",1,0,0
+Account Verification,"Could you provide the last four digits of your Social Security number?",1,0,1
+Account Verification,"Please tell me your date of birth.",1,0,1
+Account Verification,"I need the last name you registered with.",1,0,0
+Account Verification,"Can you confirm your home address?",1,0,1
+Account Verification,"What phone number did you provide on your account?",1,0,0
+Account Verification,"Please share your email address for verification.",1,0,1
+Account Verification,"What is the name of the account holder?",1,0,0
+Account Verification,"Could you tell me your mother's maiden name?",1,0,1
+Account Verification,"What city were you born in?",1,0,0
+Account Verification,"Do you have your account number handy?",1,0,0
+Account Verification,"What is the primary contact number you registered?",1,0,0
+Account Verification,"Please confirm your billing address.",1,0,1
+Account Verification,"Could you provide the name on the account?",1,0,1
+Account Verification,"Can you tell me the date you created this account?",1,0,1
+Account Verification,"What was the username you used to register?",1,0,0
+Account Verification,"What is your current residential address?",1,0,0
+Account Verification,"I need the last purchase order number for confirmation.",1,0,0
+Account Verification,"What is your spouse's name?",1,0,0
+Account Verification,"Can you provide the make and model of the car registered on the account?",1,0,1
+Account Verification,"What is the name of your employer?",1,0,0
+Account Verification,"Could you tell me your mailing address?",1,0,1
+Account Verification,"Please verify the postal code associated with your account.",1,0,1
+Account Verification,"What country is your residence in?",1,0,0
+Account Verification,"Please confirm the name of the bank account holder.",1,0,1
+Account Verification,"What was the last four digits of your payment method?",1,0,0
+Account Verification,"Please share the account creation date.",1,0,1
+Account Verification,"Could you verify the phone number linked to your account?",1,0,1
+Account Verification,"Could you provide the last transaction date?",1,0,1
+Account Verification,"Please provide the full name of the person listed on the account.",1,0,1
+Account Verification,"What is the security question answer associated with your account?",1,0,0
+Account Verification,"Please tell me your ID number for verification purposes.",1,0,1
+Account Verification,"What is your email address on file?",1,0,0
+Account Verification,"Could you tell me the full name of your emergency contact?",1,0,1
+Account Verification,"I need to verify your country of origin.",1,0,0
+Account Verification,"What’s the name of the street where you live?",1,0,0
+Account Verification,"Can you confirm the year of birth you provided?",1,0,1
+Account Verification,"Please verify the date of the last account update.",1,0,1
+Account Verification,"What is your mother's name on your account?",1,0,0
+Account Verification,"What’s your address for account correspondence?",1,0,0
+Account Verification,"Can I have your full name for verification?",1,0,1
+Account Verification,"May I know the last four digits of your credit card?",1,0,1
+Account Verification,"Please confirm the last order number you received.",1,0,1
+Account Verification,"Can you provide the name of your previous employer?",1,0,1
+Account Verification,"May I have the address linked to your account?",1,0,1
+Account Verification,"Please share the name of the bank where you opened the account.",1,0,1
+Account Verification,"Can you confirm the phone number you used to register?",1,0,1
+Account Verification,"May I know the date of birth associated with your profile?",1,0,1
+Account Verification,"Could you provide your contact number for follow-up?",1,0,1
+Account Verification,"Can I confirm your mailing address?",1,0,1
+Account Verification,"Please verify the last transaction date on your account.",1,0,1
+Account Verification,"Can you confirm the email address registered with us?",1,0,1
+Account Verification,"May I have your passport number for identification?",1,0,1
+Account Verification,"Please provide the date when you created your account.",1,0,1
+Account Verification,"Could you tell me your preferred contact number?",1,0,1
+Account Verification,"Can you verify your security question answers?",1,0,1
+Account Verification,"May I ask for your current address?",1,0,1
+Account Verification,"Please provide the date of your last payment.",1,0,1
+Account Verification,"Can I have your full address and postal code?",1,0,1
+Account Verification,"May I confirm the name listed on the payment method?",1,0,1
+Account Verification,"Please tell me your driver's license number for verification.",1,0,1
+Account Verification,"Can you provide the details of your emergency contact?",1,0,1
+Account Verification,"May I know the make and model of your car?",1,0,1
+Account Verification,"Please verify the country of residence associated with your account.",1,0,1
+Account Verification,"Can you confirm your account number for verification?",1,0,1
+Account Verification,"May I ask you to provide the name of the pharmacy?",1,0,1
+Account Verification,"Please provide the last name on the order form.",1,0,1
+Account Verification,"Can I verify the email address linked to the order?",1,0,1
+Account Verification,"May I have your account number to look into your issue?",1,0,1
+Account Verification,"Please tell me the full name of the authorized user.",1,0,1
+Account Verification,"Can you confirm the date of your last account update?",1,0,1
+Account Verification,"May I know the model number of the device you purchased?",1,0,1
+Account Verification,"Please share your order confirmation number.",1,0,1
+Account Verification,"Can I verify the billing address for the payment?",1,0,1
+Account Verification,"May I ask for your full name to proceed with the verification?",1,0,1
+Account Verification,"Please confirm your account status for me.",1,0,1
+Account Verification,"Can you provide the date of your last contact with us?",1,0,1
+Account Verification,"May I have your name as listed on the reservation?",1,0,1
+Account Verification,"Please tell me the model and serial number of your equipment.",1,0,1
+Account Verification,"Can I confirm your phone number for the record?",1,0,1
+Account Verification,"The total amount due on your account is $125.50.",0,1,0
+Account Verification,"Your last payment was processed on the 5th of November.",0,1,0
+Account Verification,"The order number for your recent purchase is 123456789.",0,1,0
+Account Verification,"The current balance on your account is $50.75.",0,1,0
+Account Verification,"The payment was made using your MasterCard ending in 9876.",0,1,0
+Account Verification,"Your most recent transaction ID is 654321.",0,1,0
+Account Verification,"The invoice number for your purchase is 7890123456.",0,1,0
+Account Verification,"The billing address associated with your account is 1234 Main St.",0,1,0
+Account Verification,"Your subscription plan is the premium plan, which renews monthly.",0,1,0
+Account Verification,"The delivery status of your order is currently in transit.",0,1,0
+Account Verification,"The order was placed on the 12th of October and shipped on the 15th.",0,1,0
+Account Verification,"The item you ordered is out of stock, but will be shipped as soon as available.",0,1,0
+Account Verification,"The refund of $30.00 has been processed to your account.",0,1,0
+Account Verification,"The account holder’s name is listed as John Doe on the payment method.",0,1,0
+Account Verification,"The payment was processed through your PayPal account linked to this email.",0,1,0
+Account Verification,"The tracking number for your order is 987654321.",0,1,0
+Account Verification,"Your account was credited with $75.00 for the returned item.",0,1,0
+Account Verification,"The last billing cycle ended on September 30th, and the new one started on October 1st.",0,1,0
+Account Verification,"Your current subscription expires on the 1st of December.",0,1,0
+Account Verification,"The payment of $120.00 was successfully completed for your service renewal.",0,1,0
+Account Verification,"The credit limit on your account is $500.",0,1,0
+Account Verification,"The order number for the refund is 11223344.",0,1,0
+Account Verification,"The status of your payment is marked as completed.",0,1,0
+Account Verification,"The most recent deposit was made on the 3rd of November.",0,1,0
+Account Verification,"Your next payment will be due on the 15th of December.",0,1,0
+Account Verification,"The payment reference number for your last transaction is 567890.",0,1,0
+Account Verification,"The status of your credit application is currently under review.",0,1,0
+Account Verification,"The payment plan for your account is divided into three installments.",0,1,0
+Account Verification,"The renewal fee for your account is $25.00.",0,1,0
+Account Verification,"The payment was declined due to insufficient funds.",0,1,0
+Account Verification,"Your total outstanding balance on the account is $220.00.",0,1,0
+Account Verification,"The order was shipped via UPS and is scheduled to arrive in 3 days.",0,1,0
+Account Verification,"The transaction was successfully completed with a receipt number of 400312.",0,1,0
+Account Verification,"The invoice for the service was sent to your email address.",0,1,0
+Account Verification,"Your latest account statement shows a total of $180.00 in charges.",0,1,0
+Account Verification,"Your most recent payment was applied on the 10th of November.",0,1,0
+Account Verification,"The pending transaction on your account is set to be processed tomorrow.",0,1,0
+Account Verification,"Your order was processed using a Visa credit card ending in 3456.",0,1,0
+Account Verification,"Your purchase was marked as completed on the 9th of November.",0,1,0
+Account Verification,"Your account is eligible for a discount of 15% on the next purchase.",0,1,0
+Account Verification,"Your account balance shows an outstanding amount of $65.40.",0,1,0
+Account Verification,"The transaction you made on the 22nd of October was for $92.15.",0,1,0
+Account Verification,"The current credit on your account is $310.50.",0,1,0
+Account Verification,"Your last payment of $45.60 was processed successfully.",0,1,0
+Account Verification,"Your purchase order number is 8901234567, and it's currently being processed.",0,1,0
+Account Verification,"The payment for your last service subscription was received on the 10th of November.",0,1,0
+Account Verification,"The total amount due on your account is $152.30, which is due by the end of the month.",0,1,0
+Account Verification,"You were charged a late fee of $10.00 for the past due amount.",0,1,0
+Account Verification,"Your refund request has been approved and will be processed within 5 business days.",0,1,0
+Account Verification,"Your recent payment of $128.00 was made via credit card ending in 3456.",0,1,0
+Account Verification,"The shipping charges of $15.50 were added to your order total.",0,1,0
+Account Verification,"A payment of $60.00 was refunded to your original method of payment on November 5th.",0,1,0
+Account Verification,"Your subscription was renewed for a total of $180.00.",0,1,0
+Account Verification,"The balance remaining on your account is $78.90 after the last payment.",0,1,0
+Account Verification,"Your recent purchase included an upgrade fee of $40.00.",0,1,0
+Account Verification,"The last transaction on your account was a purchase of $39.99 on the 3rd of November.",0,1,0
+Account Verification,"A $50.00 charge has been applied for premium services this month.",0,1,0
+Account Verification,"The payment history for your account indicates the last transaction was on the 9th of October.",0,1,0
+Account Verification,"Your account's credit limit has been updated to $1,000.00.",0,1,0
+Account Verification,"The payment made for your service plan renewal was $85.00.",0,1,0
+Account Verification,"The invoice number for the recent transaction is 1122334455.",0,1,0
+Account Verification,"A charge of $100.00 was applied for a yearly subscription renewal.",0,1,0
+Account Verification,"The total refund of $55.00 will be credited to your account within 7 business days.",0,1,0
+Account Verification,"Your order was processed under the confirmation number 7891011.",0,1,0
+Account Verification,"The refund of $22.00 was issued to your credit card ending in 9876.",0,1,0
+Account Verification,"Your recent payment of $65.00 has been applied to your outstanding balance.",0,1,0
+Account Verification,"The current balance on your card is $250.00.",0,1,0
+Account Verification,"Your account history reflects the most recent transaction as a payment of $150.00.",0,1,0
+Account Verification,"The shipping address on file is 456 Maple Ave, Springfield, IL.",0,1,0
+Account Verification,"A charge of $25.00 for shipping was added to your order on the 4th of November.",0,1,0
+Account Verification,"The system has generated an invoice for your purchase with a total of $59.99.",0,1,0
+Account Verification,"The total amount of your order is $112.75, which is due by the 15th of December.",0,1,0
+Account Verification,"A refund of $32.00 was issued for the returned product.",0,1,0
+Account Verification,"Your account shows a credit of $200.00 after the adjustment from your last payment.",0,1,0
+Account Verification,"The payment of $12.50 was successfully charged to your Visa card.",0,1,0
+Account Verification,"The transaction for the $50 gift card was successfully completed on the 10th of November.",0,1,0
+Account Verification,"Your last payment was confirmed as received on November 4th for the amount of $99.00.",0,1,0
+Account Verification,"The outstanding charge on your account for the service is $220.00.",0,1,0
+Account Verification,"The payment for your subscription was successfully processed on the 25th of October.",0,1,0
+Account Verification,"The total refund amount of $150.00 will be credited to your PayPal account.",0,1,0
+Account Verification,"Your most recent invoice was for $215.00, which is now due for payment.",0,1,0
+Account Verification,"Your account was credited with $150.00 for the product return.",0,1,0
+Account Verification,"A payment of $50.00 was made toward your outstanding balance on the 6th of November.",0,1,0
+Account Verification,"Your payment of $200 was successfully processed for the service renewal.",0,1,0
+Account Verification,"The total charge for your recent purchase was $95.75.",0,1,0
+Account Verification,"An invoice with number 987654321 was generated for your recent transaction.",0,1,0
+Account Verification,"Your recent transaction included a discount of $10.00, reducing the total to $89.99.",0,1,0
+Account Verification,"The last payment of $59.45 has been successfully deducted from your account balance.",0,1,0
+Account Verification,"A $20.00 charge was applied for the express delivery option on your order.",0,1,0
+Account Verification,"Your outstanding balance on the account is currently $123.67.",0,1,0
+Account Verification,"The invoice for your subscription renewal, totaling $120.00, was generated on the 1st of November.",0,1,0
+Account Verification,"Your last purchase included a $30.00 surcharge for premium packaging.",0,1,0
+Account Verification,"The transaction of $150.00 was applied to your account for the membership upgrade.",0,1,0
+Account Verification,"Your account reflects a credit of $50.00, following the refund for your returned items.",0,1,0
+Account Verification,"The total bill for the latest services provided was $45.00.",0,1,0
+Account Verification,"Your account was charged $75.00 for the monthly subscription service.",0,1,0
+Account Verification,"The payment made on the 10th of November was for $185.25.",0,1,0
+Account Verification,"The amount of $35.00 has been refunded to your account for the returned product.",0,1,0
+Account Verification,"An adjustment of $10.50 has been made to your account following the overcharge last month.",0,1,0
+Account Verification,"Your order confirmation number is 1029384756, and the total is $250.00.",0,1,0
+Account Verification,"The amount due for your subscription renewal is $99.99, which is due by the 30th of November.",0,1,0
+Account Verification,"A $60.00 charge was processed for your order of new equipment.",0,1,0
+Account Verification,"The transaction summary for your account shows a total of $450.00 charged for the previous quarter.",0,1,0
+Account Verification,"Your payment of $120.00 for the new service was successfully completed on November 8th.",0,1,0
+Account Verification,"The final charge for your product is $89.99, which includes the standard delivery fee.",0,1,0
+Account Verification,"The purchase order for your new device has been processed with a total of $330.00.",0,1,0
+Account Verification,"Your account balance of $540.00 includes all charges from the previous billing cycle.",0,1,0
+Account Verification,"The system has recorded a refund of $22.50 for your canceled service plan.",0,1,0
+Account Verification,"An additional fee of $5.00 was added for expedited processing on your order.",0,1,0
+Account Verification,"The total amount of your order, including shipping, is $104.99.",0,1,0
+Account Verification,"Your transaction history shows a recent payment of $79.00 for service fees.",0,1,0
+Account Verification,"The charge for your new subscription plan, $210.00, has been successfully applied.",0,1,0
+Account Verification,"Your recent payment of $132.50 was applied to the remaining balance on your account.",0,1,0
+Account Verification,"The total amount of $50.00 was deducted for your membership renewal.",0,1,0
+Account Verification,"A total charge of $88.00 has been billed for the product upgrade and its installation.",0,1,0
+Account Verification,"Your recent payment of $295.00 was made using a credit card ending in 1234.",0,1,0
+Account Verification,"The system has successfully processed a refund of $120.00 to your original payment method.",0,1,0
+Account Verification,"A service charge of $10.00 was added to your account for the extended warranty option.",0,1,0
+Account Verification,"Your balance due is $145.00 after the most recent payment of $50.00.",0,1,0
+Account Verification,"Your payment of $70.00 for this month was applied to your service plan.",0,1,0
+Account Verification,"The order has been shipped, and the final total is $180.00, including taxes and delivery fees.",0,1,0
+Account Verification,"The total fee for your recent account upgrade is $40.00.",0,1,0
+Account Verification,"A payment of $52.00 was successfully deducted from your account on the 15th of November.",0,1,0
+Account Verification,"Your last payment, which was for $68.25, was credited on your account on November 3rd.",0,1,0
+Account Verification,"Your account shows a total of $60.00 in charges for the services provided last month.",0,1,0
+Account Verification,"A payment of $300.00 was made towards your balance on November 12th.",0,1,0
+Account Verification,"Your recent purchase totals $225.00, which has been applied to your account.",0,1,0
+Account Verification,"The system reflects a $100.00 credit issued for your canceled service.",0,1,0
+Account Verification,"Your order number 1122334455 was processed with a total of $65.00.",0,1,0
+Account Verification,"The charge of $22.00 has been applied to your account for express shipping.",0,1,0
+Account Verification,"Your account history shows a credit adjustment of $15.00 due to a billing error.",0,1,0
+Account Verification,"A $60.00 refund was processed back to your card ending in 5678 on November 2nd.",0,1,0
+Account Verification,"Can I verify your payment of $200.00 that was processed earlier this week?",0,1,1
+Account Verification,"Please confirm the charge of $145.00 applied to your account for the latest transaction.",0,1,1
+Account Verification,"May I confirm that your payment of $85.50 has been successfully credited?",0,1,1
+Account Verification,"Could you please confirm that the amount due on your account is $122.75?",0,1,1
+Account Verification,"Can I ask if you have received the invoice number 987654321 for your recent purchase?",0,1,1
+Account Verification,"Would you mind confirming the total charge of $190.00 for your last order?",0,1,1
+Account Verification,"Can I verify if your payment for $75.00 has been processed on your account?",0,1,1
+Account Verification,"May I confirm that your balance due is $55.60 as of today?",0,1,1
+Account Verification,"Could you please verify the payment of $300.00 made on your account this month?",0,1,1
+Account Verification,"Would you mind confirming the refund of $50.00 issued to your account last week?",0,1,1
+Account Verification,"Can I check if the $40.00 charge for the service fee has been applied to your account?",0,1,1
+Account Verification,"Please let me know if the $99.00 transaction for the subscription plan was deducted from your account.",0,1,1
+Account Verification,"Could you confirm the refund of $30.00 for the canceled order on your card?",0,1,1
+Account Verification,"Can I check if the payment of $120.00 for your recent purchase was successfully processed?",0,1,1
+Account Verification,"Would you kindly confirm if the additional $10.00 fee for expedited delivery was charged?",0,1,1
+Account Verification,"Can I verify the details of the $180.00 transaction for the product purchase?",0,1,1
+Account Verification,"Please confirm that your recent payment of $225.00 was applied to the correct account.",0,1,1
+Account Verification,"May I ask if the charge of $200.00 for the annual service renewal has been billed correctly?",0,1,1
+Account Verification,"Can I verify if the $60.00 fee for the service upgrade has been charged to your account?",0,1,1
+Account Verification,"Could you please confirm the $500.00 payment made on your account for the upgrade?",0,1,1
+Account Verification,"Please let me know if the refund of $75.00 was successfully credited to your account.",0,1,1
+Account Verification,"Can I confirm the $140.00 payment made on your subscription renewal?",0,1,1
+Account Verification,"Could you confirm if the total balance due on your account is $85.00?",0,1,1
+Account Verification,"Would you mind verifying if your recent charge for $120.00 has been processed?",0,1,1
+Account Verification,"Can I check if the payment of $170.00 for the equipment purchase went through?",0,1,1
+Account Verification,"May I confirm the total charge of $320.00 for your account's renewal and upgrade?",0,1,1
+Account Verification,"Can you confirm the charge of $99.99 for your subscription plan?",0,1,1
+Account Verification,"Please verify the charge of $65.00 that was applied for your premium support plan.",0,1,1
+Account Verification,"Could you kindly confirm if the refund for your canceled subscription, amounting to $110.00, was issued?",0,1,1
+Account Verification,"Can I check if the charge for $75.00 for the new service has been successfully applied?",0,1,1
+Account Verification,"Would you mind confirming that the $15.00 discount was applied to your total bill?",0,1,1
+Account Verification,"Please confirm if the transaction amount of $90.00 was successfully applied to your account.",0,1,1
+Account Verification,"Can I verify the payment for the $135.00 charge that was applied to your account?",0,1,1
+Account Verification,"Would you mind confirming that the $40.00 surcharge for expedited shipping has been billed?",0,1,1
+Account Verification,"Please let me know if the refund of $60.00 has been credited to your payment method.",0,1,1
+Account Verification,"Can I check if your last payment of $250.00 was successfully processed?",0,1,1
+Account Verification,"Could you kindly verify that the charge for $110.00 has been removed from your account?",0,1,1
+Account Verification,"Please confirm that the $50.00 adjustment was made to your account for the service issue.",0,1,1
+Account Verification,"Can I confirm if the $45.00 fee for the product return was deducted from your account?",0,1,1
+Account Verification,"Would you mind verifying if the payment of $120.00 for your recent service upgrade has been successfully processed?",0,1,1
+Account Verification,"Can I check if the $99.99 monthly charge for your subscription has been applied to your account?",0,1,1
+Account Verification,"Can I have your full name to verify the account?",1,0,1
+Account Verification,"May I ask for your phone number to pull up your account?",1,0,1
+Account Verification,"Could you provide your email address for confirmation?",1,0,1
+Account Verification,"Please share your address so I can verify your information in the system.",1,0,1
+Account Verification,"Would you mind confirming your date of birth for security purposes?",1,0,1
+Account Verification,"Can I have your home address to ensure it's up to date in our records?",1,0,1
+Account Verification,"Could you kindly provide your last name to help me find your account?",1,0,1
+Account Verification,"Please tell me the name on the account so I can verify your details.",1,0,1
+Account Verification,"May I ask for your contact number to verify your account?",1,0,1
+Account Verification,"Can you confirm your full name for verification?",1,0,1
+Account Verification,"Could you share your date of birth so I can proceed with the verification?",1,0,1
+Account Verification,"Please provide your first name so I can ensure I have the correct account.",1,0,1
+Account Verification,"Would you be able to confirm the billing address associated with your account?",1,0,1
+Account Verification,"Can I verify your contact email address for security purposes?",1,0,1
+Account Verification,"May I request your full name for further processing of your account?",1,0,1
+Account Verification,"Please confirm the last four digits of your Social Security number for verification.",1,0,1
+Account Verification,"Can I have your contact number so we can proceed with the account check?",1,0,1
+Account Verification,"Could you please provide your first and last name for verification?",1,0,1
+Account Verification,"Would you kindly share your address to verify your account details?",1,0,1
+Account Verification,"Please provide the name associated with the account to help me retrieve the data.",1,0,1
+Account Verification,"May I ask you to confirm your email address for account verification?",1,0,1
+Account Verification,"Can I have your full name so I can locate your account?",1,0,1
+Account Verification,"Please tell me your phone number for verification purposes.",1,0,1
+Account Verification,"Could you confirm your mailing address for our records?",1,0,1
+Account Verification,"May I have your date of birth to confirm your identity?",1,0,1
+Account Verification,"Please provide your full name so I can check your account information.",1,0,1
+Account Verification,"Would you be able to confirm your address for verification?",1,0,1
+Account Verification,"Can I have your contact details so I can verify the account?",1,0,1
+Account Verification,"Please confirm the name on the account to ensure everything is accurate.",1,0,1
+Account Verification,"Can you share your email address to confirm your identity?",1,0,1
+Account Verification,"Could you confirm your date of birth so I can proceed with the verification?",1,0,1
+Account Verification,"Would you mind sharing the name associated with the account?",1,0,1
+Account Verification,"Please provide your address so I can verify the account details.",1,0,1
+Account Verification,"Can I have your full name to begin the verification process?",1,0,1
+Account Verification,"Your full name is required to verify your identity.",1,0,0
+Account Verification,"I need to confirm your contact number for our records.",1,0,0
+Account Verification,"Please provide your date of birth to continue the verification process.",1,0,0
+Account Verification,"The registered address on your account needs to be verified.",1,0,0
+Account Verification,"Confirming the name associated with your account is necessary for validation.",1,0,0
+Account Verification,"Your email address will be used for verification purposes.",1,0,0
+Account Verification,"We need to check the phone number registered to your account.",1,0,0
+Account Verification,"Please give us your date of birth to match our records.",1,0,0
+Account Verification,"Your full name is needed to proceed with account verification.",1,0,0
+Account Verification,"To verify your identity, I will need your address details.",1,0,0
+Account Verification,"The email associated with your account needs to be confirmed.",1,0,0
+Account Verification,"Your phone number needs to be checked for account security.",1,0,0
+Account Verification,"The address on file with your account needs to be confirmed.",1,0,0
+Account Verification,"Your date of birth is required to complete the verification.",1,0,0
+Account Verification,"We need your full name for the purpose of verifying your account.",1,0,0
+Account Verification,"The email address provided during sign-up must be validated.",1,0,0
+Account Verification,"I need to confirm the phone number tied to your account for security.",1,0,0
+Account Verification,"Your contact number is essential for the verification of your account.",1,0,0
+Account Verification,"I need your full name to ensure we are matching the correct records.",1,0,0
+Account Verification,"Confirming your address details is necessary for account validation.",1,0,0
+Account Verification,"Please provide the name registered with your account for identity check.",1,0,0
+Account Verification,"I need your email to confirm your account details.",1,0,0
+Account Verification,"Your phone number must be matched with our records for security purposes.",1,0,0
+Account Verification,"We need to verify your address to proceed with account confirmation.",1,0,0
+Account Verification,"The registered name on your account is required for security verification.",1,0,0
+Account Verification,"Your date of birth must be validated to ensure security in the process.",1,0,0
+Account Verification,"I need your phone number for verifying account details.",1,0,0
+Account Verification,"Your email address is necessary to proceed with account verification.",1,0,0
+Account Verification,"We must check the name associated with your account for security purposes.",1,0,0

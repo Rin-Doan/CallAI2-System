@@ -1,0 +1,488 @@
+Category,Text,Identify the specific issue or concern,Clarify the problem with probing questions,Acknowledge customer’s frustration or emotions
+"Problem Investigation","Let me check your account to see what really happened.",1,0,0
+"Problem Investigation","I'll see what I can do Mr. Breed.",0,0,0
+"Problem Investigation","As I have checked you were charged some fees because you were not able to pay on time so that means we really cannot do anything about it anymore.",1,0,0
+"Problem Investigation","Let me check your account to see what really happened.",1,0,0
+"Problem Investigation","As I have checked, the account was charged some fees because there was no payment made before the cut off time of 4 p.m.",1,0,0
+"Problem Investigation","May I know what error message you got?",1,1,0
+"Problem Investigation","You mentioned you were trying to log in.",0,1,0
+"Problem Investigation","When you logged into shapes rewards website, can you please tell me what happened after?",1,1,0
+"Problem Investigation","Alright this what actually happened.",0,0,0
+"Problem Investigation","When you clicked log in and the screen or the page goes back to the exact same page after loading that means that the page is looping.",1,0,0
+"Problem Investigation","However, your browser has an issue.",0,0,0
+"Problem Investigation","Looping is when the browser page goes back to the same page again and again even though you've already taken action.",0,0,0
+"Problem Investigation","Just like in your case, you've clicked log in but it doesn't go to your profile on Shapes Rewards, right?",1,0,0
+"Problem Investigation","It just keeps going back to the login page but don't worry you've got the right person on the line to help you.",0,0,1
+"Problem Investigation","We just need to do quick troubleshooting on your browser.",0,0,0
+"Problem Investigation","Are you using Mac or PC?",0,1,0
+"Problem Investigation","May I know what browser you're using?",0,1,0
+"Problem Investigation","Is it Google Chrome or Firefox?",0,1,0
+"Problem Investigation","May I know the chrome version?",0,1,0
+"Problem Investigation","Let me check your transactions for you real quick.",1,0,0
+"Problem Investigation","I see that the last transaction made was using your debit card at Target for 179 54, 179 dollars and 54 cents.",1,0,0
+"Problem Investigation","Yes, This just posted today.",0,0,0
+"Problem Investigation","Is this valid?",0,0,0
+"Problem Investigation","I'll be happy to check that for you.",0,0,1
+"Problem Investigation","How many of your friends are staying?",0,1,0
+"Problem Investigation","Do you prefer to stay in one room or separate rooms?",0,1,0
+"Problem Investigation","Alright, let me check if you have an available room for what days?",0,1,0
+"Problem Investigation","Are you going to reserve today?",0,1,0
+"Problem Investigation","Okay, according to our systems data you did pay your last bill last October 20, which was two days ago in one of our affiliated payment centers.",1,0,0
+"Problem Investigation","Unfortunately when you pay through that affiliated center, it takes about 2 to 3 business days more to complete the payment processing.",0,0,0
+"Problem Investigation","So that means that the system considered the payment as still pending and not completed yet.",1,0,0
+"Problem Investigation","So the connection has been cut off, but.",0,0,0
+"Problem Investigation","So we are well aware that you have been a valued customer of deluxe for 8 years now.",0,0,1
+"Problem Investigation","Shows here that you don't have a DSL signal, that's why.you cannot connect",1,0,0
+"Problem Investigation","We can actually fix this over the phone and I'd be glad to walk you through.",0,0,1
+"Problem Investigation","Would that be fine?",0,1,0
+"Problem Investigation","Let me ask, can you please check your modem now and tell me which lights are on?",0,1,0
+"Problem Investigation","Alright, clearly, there is something wrong with your signal which is highly likely connected to your cell phone service.",1,0,0
+"Problem Investigation","So, may I know what your question is?",0,1,0
+"Problem Investigation","I understand sometimes looking at your bill can be quite confusing. So, let me check your account and let's go through this together ok?",0,1,1
+"Problem Investigation","By the way do you have a copy of your bill right now?",0,1,0
+"Problem Investigation","Let's go over your bill together and see the difference.",0,1,0
+"Problem Investigation","Upon checking your account., yes, you're right.",0,0,1
+"Problem Investigation","The bill last month was $25 however this billing period there is an additional charge of 10 dollars for a data usage that totals to 3 gigs.",1,0,0
+"Problem Investigation","Can you please tell me more about the mail you received?",1,1,0
+"Problem Investigation","I will be happy to check your account so that I can help you better.",0,0,1
+"Problem Investigation","Let me check your account real quick, ok?",0,0,0
+"Problem Investigation","I've been checking here Peter, it shows that a claim for $1000 was paid last week that was August 12 and that it says that it actually covers your entire bill.",1,0,0
+"Problem Investigation","So, just to confirm your order is a bouquet of red and white roses that's going to be $45.",1,0,0
+Problem Investigation,"So, just to confirm your order is a bouquet of red and white roses that's going to be $46",0,0,0
+Problem Investigation,"Thank you, just a minute sir,  I'll just look at our data.",0,0,0
+Problem Investigation,"According to our system's data, that you did pay your last bill, last February 5 which was 2 days ago in one of our affiliated payment centers.",0,0,0
+Problem Investigation,"Unfortunately sir, when you pay through that affiliated center, it takes about three to five business days more to complete the payment processing so that means that the system conceded the payment as still pending and not completed yet.",1,0,0
+Problem Investigation,"So, the connection has been cut off. But.",1,0,0
+Problem Investigation,"What product are you interested in purchasing?",0,1,0
+Problem Investigation,"A dozen of red roses, do you want long stems?",0,1,0
+Problem Investigation,"Thank you Mr. Jeremy and did you want the invoice made out in your name or your company name?",0,1,0
+Problem Investigation,"Great, now 217 spotlights are available in 35 watts or 55 watts, which one do you want?",0,1,0
+Problem Investigation,"All right and do you know what colour temperature you want for the vaults?",0,1,0
+Problem Investigation,"Okay, Thank you, now, for the postage, we have registered post or express post. Which one are you interested in?",0,1,0
+Problem Investigation,"It seems that you are referring to Meets Attack 500x5, am i right?",0,1,0
+Problem Investigation,"Cool, based on the information here yeah, it already passed the estimated delivery date.",1,0,0
+Problem Investigation,"Max, when you place your first order, Rex Global contacts your issuing bank to confirm the validity of the payment method.",0,0,0
+Problem Investigation,"It is not an actual charge but a one dollar authorisation hold.",0,0,0
+Problem Investigation,"One second, let me check the details for a while.",0,0,0
+Problem Investigation,"Based on the information, here it was delivered and received.",0,0,0
+Problem Investigation,"Hmm, based on the record here, it seems that the parcel was delivered to the wrong address.",1,0,0
+Problem Investigation,"Give me one moment please so I can pull up your account.",0,0,0
+Problem Investigation,"Okay, I got your order here and it was for a convection oven for 129. Is this correct?",0,1,0
+Problem Investigation,"I know that our shipping department tries to their best to keep the orders as accurate as possible but on very rare occasions this kind of mistake happens from time to time.",1,0,1
+Problem Investigation,"Of course, this is not an excuse and a mistake is a mistake.",0,0,1
+Problem Investigation,"It was for the month of July this year, right?",0,1,0
+Problem Investigation,"Okay, I have your account pulled up now and I'm only seeing a 30 charge for the month of July this year.",1,0,0
+Problem Investigation,"Could you recheck your bill and review the amount?",1,1,0
+Problem Investigation,"I also checked your other month's charges this year from January to July 2020 and all of these months, you were only charged 30.",0,0,0
+Problem Investigation,"Let me just check further though your last year.",0,0,0
+Problem Investigation,"Oh, although I am seeing a 33 dollar charge here but this was way back last year on July 2019.",0,0,0
+Problem Investigation,"Would you mind checking the year of the billing paper you're holding right now?",0,1,0
+Problem Investigation,"Do you still have the return tracking from the courier company when you returned the item?",0,1,0
+Problem Investigation,"That's actually the return authorization from Coats and Gowns.",0,0,0
+Problem Investigation,"When you returned the item to the courier company for shipping, this should have provided you with the return tracking.",0,0,0
+Problem Investigation,"Do you still have that?",0,1,0
+Problem Investigation,"It's actually printed in the upper right part of the receipt.",0,0,0
+Problem Investigation,"Anyway, I tried to search for your name and nothing is coming up.",0,0,0
+Problem Investigation,"Now I just want to make sure that I have the correct details.",0,0,0
+Problem Investigation,"I will check on the details here on my end.",0,0,0
+Problem Investigation,"Now I can actually see here that you have called the quality informers that you'd like to return the item on the 15th of November.",0,1,0
+Problem Investigation,"Is that correct?",0,1,0
+Problem Investigation,"Yes, now did you return the item to company in the same day that you called?",0,1,0
+Problem Investigation,"So, you already checked your account and nothing has been credited yet in the card ending in 753. Is that right?",1,1,0
+Problem Investigation,"Thanks John, I located your information the newest version we have available for your vehicle is version 7.7 which was released in March of 2012.",0,0,0
+Problem Investigation,"The price of the new map is $99 plus shipping and taxes.",0,0,0
+Problem Investigation,"Uhm, I see you've purchased your phone four days ago without mail delivery insurance.",1,0,0
+Problem Investigation,"And, policy states without mail delivery insurance, we can't issue you a replacement.",0,0,1
+Problem Investigation,"Well, according to your account, you are not paying for standard premium or ultra premium insurance.",1,0,0
+Problem Investigation,"So no, it's policy.",0,0,1
+Problem Investigation,"Your account requires immediate action.",1,0,0
+Problem Investigation,"I have an important information about your Grey Home medical account.",1,0,0
+Problem Investigation,"Our records indicate that your account with greyhound medical is past due with a balance of 69.33.",1,0,0
+Problem Investigation,"Let me quickly check the status of your order.",0,1,0
+Problem Investigation,"As I've checked on the tracking information, the dispatch time is 8.45 am and our driver is just five minutes away from your place.",0,0,1
+Problem Investigation,"Again, I apologize for the delay Miss Williams and I would like to thank you for your patience as a valued customer of red plate.",0,0,1
+Problem Investigation,"So, let me take your order.",0,0,0
+Problem Investigation,"What products are you interested in ordering?",0,1,0
+Problem Investigation,"One dozen of white roses.",1,0,0
+Problem Investigation,"Do you want long stems?",0,1,0
+Problem Investigation,"Would you like to add a pack of Fran's chocolates?",0,0,0
+Problem Investigation,"Since you mentioned that you're in hospital right now and you need to get in touch with your son immediately, I'll make sure that I won't let you go unless and until all your services is up and running.",0,0,1
+Problem Investigation,"And, just in case that we need to do some troubleshooting steps, do you have any alternate number that I can use?",0,1,0
+Problem Investigation,"Alright, so as I looked into your account, I've seen that you're in a forty dollar plan that gives you four gigs of data with unlimited calls and text.",0,0,0
+Problem Investigation,"And your plan will not expire until the 14th of October.",0,0,0
+Problem Investigation,"You've mentioned earlier that you don't have a service right.",1,0,0
+Problem Investigation,"So which of your services is not working?",1,1,0
+Problem Investigation,"Alright how about sending and receiving messages?",0,1,0
+Problem Investigation,"Do you have any problems with those?",0,1,0
+Problem Investigation,"What about your internet?",0,1,0
+Problem Investigation,"I just really want to make sure that you don't have any problems with those.",0,0,1
+Problem Investigation,"And, now we just really need to focus on your phone calls.",0,0,0
+Problem Investigation,"So, let me ask you this have you tried doing any basic troubleshooting before you called?",0,1,0
+Problem Investigation,"Like turning off your phone and turning it back?",0,1,0
+Problem Investigation,"When was the last time that you were able to make a phone call?",0,1,0
+Problem Investigation,"Okay, is this happening to all of the phone numbers that you're trying to call in?",0,1,0
+Problem Investigation,"Is this happening in all locations or just one specific location?",0,1,0
+Problem Investigation,"So right now, can you tell me if your wi-fi is on or off?",0,1,0
+Problem Investigation,"What about your airplane mode?",0,1,0
+Problem Investigation,"Is it on or off?",0,1,0
+Problem Investigation,"What about your mobile data?",0,1,0
+Problem Investigation,"It's the same one and also let me check the coverage in your area.",0,0,0
+Problem Investigation,"Are you in Lancaster PA right now?",0,1,0
+Problem Investigation,"What's your zip code?",0,1,0
+Problem Investigation,"Okay, Alright, as I checked, we don't have any problems with the coverage in your area.",0,0,0
+Problem Investigation,"It's 4G and no current outages too.",0,0,0
+Problem Investigation,"Let me go and check what's the problem and let's fix it together.",0,0,1
+Problem Investigation,"Thank you and just to clarify when you said that the printer is not working, do you mean it's not turning on or do you see any error message or you can't print from your computer?",0,1,0
+Problem Investigation,"Alright, do you have a windows computer or a mac?",0,1,0
+Problem Investigation,"It's uh connected wirelessly or usb cable?",0,1,0
+Problem Investigation,"To make sure that this is not a printer problem, we will try to do a copy test.",0,0,0
+Problem Investigation,"So, you have to photocopy any documents and make sure it's coloured and if output is perfect that means that the printer is good.",0,0,0
+Problem Investigation,"That means there's no problem on your printer.",0,0,0
+Problem Investigation,"Okay, I understand that you need assistance on how to clear the browsing history on your browser and I know that this is very important for you to be addressed.",0,0,1
+Problem Investigation,"So let me go ahead and assist you now on how we can clear the browsing history.",0,0,0
+Problem Investigation,"Okay but I need to understand what browser browser are you using on your computer.",0,1,0
+Problem Investigation,"Is the browser that you're using Internet Explorer or Google Chrome?",0,1,0
+Problem Investigation,"Internet Explorer actually looks like a blue letter e icon and about Google Chrome it's a round icon away the red, green and yellow colours inside.",0,0,0
+Problem Investigation,"That's the one you're using.",0,1,0
+Problem Investigation,"So, for us to get started in troubleshooting your browser, please make sure that your Google Chrome or browser is open now on your computer.",0,1,0
+Problem Investigation,"Okay so now that it's done, would you like us to test the resolution?",0,1,0
+Problem Investigation,"Let's see if you can, if you will be able to pull up the websites now with no problem at all.",0,1,0
+Problem Investigation,"Is it working now?",0,0,0
+Problem Investigation,"We have several rooms available for that particular weekend and what is the exact date of your arrival?",0,1,0
+Problem Investigation,"How long will you be staying?",0,1,0
+Problem Investigation,"And, how many people in the reservation?",0,1,0
+Problem Investigation,"And, what kind of room you like?",0,1,0
+Problem Investigation,"Do you like a twin bed or a double bed?",0,1,0
+Problem Investigation,"Great, and, would you prefer to have a room with a view of the ocean?",0,1,0
+Problem Investigation,"The rate of that room is 590 dollars per night.",0,0,0
+Problem Investigation,"May I know which date you would like to make your reservation?",0,1,0
+Problem Investigation,"Yes, we have several rooms available for those particular days.",0,0,0
+Problem Investigation,"May I know what type of room is Ms. Hernani you would like to stay?",0,1,0
+Problem Investigation,"I'm sorry to inform you Ms. Hernani but all our premier rooms have been booked on the 25th of April.",0,0,1
+Problem Investigation,"Now, as for the room Ms. Hernani, do you prefer smoking or non-smoking?",0,1,0
+Problem Investigation,"Now is a queen-size bed okay?",0,1,0
+Problem Investigation,"Would you prefer to have a room with a view of Taal Lake?",0,1,0
+Problem Investigation,"Okay Ms. Hernani. How will the bill be settled?",0,1,0
+Problem Investigation,"What type of card is it?",0,1,0
+Problem Investigation,"And, what is the name of the cardholder?",0,1,0
+Problem Investigation,"Alright John, are you a patient of ours?",0,1,0
+Problem Investigation,"Great, who is your doctor?",0,1,0
+Problem Investigation,"Okay, so, you'll need to have your pharmacy facts over a prescription refill request.",0,0,0
+Problem Investigation,"Do you have a pen to write our fax number down?",0,1,0
+Problem Investigation,"And what is the name of the medication you're looking to get refilled?",0,1,0
+Problem Investigation,"Now, could you tell me what the problem is?",0,1,0
+Problem Investigation,"Ok, sir, just to rule out this possibility, may I ask you if other devices are working properly in that outlet?",0,1,0
+Problem Investigation,"Well, could you please remove the battery and the reconnect it one more time?",0,1,0
+Problem Investigation,"And I appreciate if you can connect it into another outlet.",0,1,0
+Problem Investigation,"I understand that it is very frustrating and to work out on your problem about the abrupt disconnection, is that right sir?",0,0,1
+Problem Investigation,"Thank you, just a minute sir, I'll just look at our data.",0,1,0
+Problem Investigation,"According to our system's data, that you did pay your last bill, last February 5 which was 2 days ago in one of our affiliated payment centers.",0,1,0
+Problem Investigation,"Unfortunately sir, when you pay through that affiliated center, it takes about three to five business days more to complete the payment processing so that means that the system conceded the payment as still pending and not completed yet.",0,0,1
+Problem Investigation,"So, the connection has been cut off. But.",0,0,0
+Problem Investigation,"And here in our system you did paid before which was 2 days ago but our affiliated beam in centers and you currently have a zero balance.",0,0,0
+Problem Investigation,"However the bill you receive was granted a week ago before you made the payment that's why your latest payment has not been reflected. But you can simply disregard the amount indicated in the bill and continue enjoying our services.",0,0,1
+Problem Investigation,"What products are you interested in ordering?",0,1,0
+Problem Investigation,"One dozen of white roses do you want long stems?",0,1,0
+Problem Investigation,"And what kind of phone is it because I see you have 2 accounts here I don't know which one it is?",0,1,0
+Problem Investigation,"Do you have the IMEI number for that?",0,1,0
+Problem Investigation,"Ok it says here that the phone is unlocked.",0,0,0
+Problem Investigation,"Great! How can I help you today John?",0,1,0
+Problem Investigation,"I hear you! I understand that the bill went up suddenly lets check that and see what really happened on your account.",0,1,0
+Problem Investigation,"We'd be happy to sign you up. Let me see now that's the wire walker service right?",0,1,0
+Problem Investigation,"Alright wonderful and just let me know what you have your AT&T app for.",0,1,0
+Problem Investigation,"I can see here that you did a payment of 10000 bases last February 19th and that was three days ago with a credit card and it seems like your problem needs a permission authorized by my supervisor will you be able to hold the call for a minute ma'am?",0,0,1
+Problem Investigation,"I understand you said you are getting an unknown error correct?",0,1,0
+Problem Investigation,"What kind of error?",0,1,0
+Problem Investigation,"Ok let me see here on my system to understand what is your problem. Sir, this is weird it says here that you have a hiporonary ccp router and it doesn't really require a configuration process to install, have you recently updated its software?",0,1,0
+Problem Investigation,"Ok, did you try by rebooting the router?",0,1,0
+Problem Investigation,"thank you and just to clarify when you said the printer is not working do you mean it's not turning on?do you see any error message or you can't print from your computer",1,1,0
+Problem Investigation,"ok to make sure this is not a printer problem we will do a copy test you have to photocopy any document and sure it's colored if the output is perfect that means the printer is good",0,1,0
+Problem Investigation,"ok what seems to be a problem sir",1,0,0
+Problem Investigation,"oh I'm so sorry about that if you could give me the pick up time and location we can get this settled for you",0,1,1
+Problem Investigation,"I totally understand and we're truly sorry I'll have someone there as soon as possible what time was the pickup",0,1,1
+Problem Investigation,"okay letme see if I can help you do you have the item number of the parker scarf",1,1,0
+Problem Investigation,"excellent okay what color did you want the New Yorker",1,1,0
+Problem Investigation,"did you want navy blue or royal blue",1,1,0
+Problem Investigation,"mr. Johnson do you have the Parker scarf in light blue with you now",1,1,0
+Problem Investigation,"and you said there's a leak coming through your kitchen ceiling",1,1,0
+Problem Investigation,"okay great I have located you in our system and you purchased the model numbers 23 0 87 which has been recalled",1,0,0
+Problem Investigation,"and are you currently located in the Philadelphia area or are you near one of our national locations",1,1,0
+Problem Investigation,"okay what type of truck are you looking for to have for the move",1,1,0
+Problem Investigation,"and what date are you looking to move",1,1,0
+Problem Investigation,"did you receive a mailer from us?",1,1,0
+Problem Investigation,"thank you and the year making model of your vehicle",1,1,0
+Problem Investigation,"thank you let's see counselor Smith's early availability is on Friday at 8:00 a.m",1,0,0
+Problem Investigation,"thank you for that information per our system's data you did pay your bill last august 12 which was two days ago however the bill that you received was generated a week ago before you made the payment that is why your last payment had not been reflected you can simply disregard it",1,1,0
+Problem Investigation,"What sort of trouble?",1,0,0
+Problem Investigation,"Are you in front of your PC right now",1,1,0
+Problem Investigation,"Do you have any previous bill with you madam?",1,1,0
+Problem Investigation,"Can you check the date of the bill?",1,1,0
+Problem Investigation,"Agent: Ok",0,0,0
+Problem Investigation,"can you check for me which lights are lit up on your modem.",1,1,0
+Problem Investigation,"the DSL light is flashing red on your modem. That means that you are not getting any dsl signal. The good thing is",1,0,0
+Problem Investigation,"don't worry Laura I will help you resolve it so you cannot complete your booking even if you already refresh the page you also have a strong internet connection and you also double-check your payment method details does it show you any error message",1,1,0
+Problem Investigation,"are your apps automatically updated",1,1,0
+Problem Investigation,"oh but have you updated our software into its latest version",1,1,0
+Problem Investigation,"thank you for the information what flowers do you want to purchase",1,1,0
+Problem Investigation,"okay thank you for that mrs. Blake what exactly do you want to do with your headset",1,1,0
+Problem Investigation,"okay ma'am I may get your headsets model name and number as well as the model of your phone",1,1,0
+Problem Investigation,"okay ma'am so have you tried pairing it with your headset with your phone",1,1,0
+Problem Investigation,"ok and what seems to be a problem today",1,0,0
+Problem Investigation,"ok and what kind of system you have",1,1,0
+Problem Investigation,"ok according to my records the amstar700 is a voiceover internet protocol phone that is appear that becuase your internet is not working your phonr is not working as well",1,0,0
+Problem Investigation,"thanlks let's me just check on it",0,0,0
+Problem Investigation,"Let me take a look at your recent payments and identify the cause of the problem",1,1,0
+Problem Investigation,"Let me review the transactions and see what went wrong",1,1,0
+Problem Investigation,"Let me check your account and see if I can find a discrepancy in the transaction",1,1,0
+Problem Investigation,"Let me review your case and I’ll get back to you with an update shortly",1,0,0
+Problem Investigation,"I’m currently reviewing your case and will provide an update soon",1,0,0
+Problem Investigation,"Let me check with my team to find out more details about your issue",1,1,0
+Problem Investigation,"Let me check your account details to resolve this issue.",1,1,0
+Problem Investigation,"It seems we need more information to investigate this problem.",1,0,0
+Problem Investigation,"I’m reviewing your case right now. I’ll be with you shortly.",1,0,0
+Problem Investigation,"I’m afraid I need more details before we can proceed with the investigation.",1,0,0
+Problem Investigation,"We’ve identified the issue, and I’ll help you resolve it right away.",1,0,0
+Problem Investigation,"Unfortunately, the issue seems more complex than anticipated, and we need further analysis.",1,0,0
+Problem Investigation,"Thanks for your patience. I’m looking into it now.",0,0,1
+Problem Investigation,"We may need to escalate this issue to resolve it effectively.",0,0,1
+"Problem Investigation","I’m gathering the necessary information to investigate this further.",0,0,0
+"Problem Investigation","It looks like the problem is linked to something beyond our control.",0,0,0
+"Problem Investigation","It seems that your issue was caused by a technical glitch. We’ll fix it soon.",0,0,0
+"Problem Investigation","I’m afraid we couldn’t identify the root cause of the issue.",1,0,0
+"Problem Investigation","We’ve resolved the issue, and everything should be back to normal now.",0,0,0
+"Problem Investigation","There seems to be a delay in fixing the issue. Please be patient.",0,0,1
+"Problem Investigation","We’ve identified the issue and are working on a solution.",0,0,0
+"Problem Investigation","Unfortunately, the issue is still being investigated by our technical team.",1,0,0
+"Problem Investigation","We’ve located the issue and it’s being handled right now.",0,0,0
+"Problem Investigation","I’m reviewing the details now, and we’ll find a resolution soon.",0,1,0
+"Problem Investigation","I’ve located the source of the issue and we’re fixing it as we speak.",0,0,0
+"Problem Investigation","We are still investigating the problem, but we’ll keep you updated.",1,0,0
+"Problem Investigation","It appears we need additional time to fully investigate this matter.",1,0,0
+"Problem Investigation","I’ve checked, and it looks like everything is working as expected now.",0,0,0
+"Problem Investigation","The problem is more complicated than expected and may take some time to resolve.",1,0,1
+"Problem Investigation","We’ve identified the issue, and the team is working to fix it.",0,0,0
+"Problem Investigation","We don’t have a solution yet, but we’re working on it.",1,0,0
+"Problem Investigation","Everything seems to be in order now, and the issue is resolved.",0,0,0
+"Problem Investigation","Unfortunately, the issue is still unresolved, and we need more time.",1,0,0
+"Problem Investigation","We’re still looking into your issue, and I’ll update you as soon as I can.",1,0,0
+"Problem Investigation","I’m afraid we need more information to proceed with your case.",1,1,0
+"Problem Investigation","I’ve checked your details, and everything seems fine now.",0,0,0
+"Problem Investigation","I’ve resolved the issue and will confirm once it’s been fully addressed.",0,0,0
+"Problem Investigation","We’re still working on your case and will let you know as soon as we have an update.",0,0,0
+"Problem Investigation","I’ve confirmed the issue has been fixed, everything should be working now.",0,0,0
+"Problem Investigation","Unfortunately, I cannot find any relevant information for your request.",1,0,0
+"Problem Investigation","It appears that your case is more complex than initially thought.",1,0,0
+"Problem Investigation","I've reviewed your case and identified the issue, we’re working on it now.",0,0,0
+"Problem Investigation","I've gathered all the necessary information, and we are resolving the issue.",0,0,0
+"Problem Investigation","It seems we’re experiencing some technical issues on our end. We’re investigating.",1,0,0
+"Problem Investigation","I've identified the problem, and we are addressing it promptly.",0,0,0
+"Problem Investigation","We are still reviewing your issue. Thanks for your patience.",0,1,0
+"Problem Investigation","The issue has been successfully resolved. Thank you for your understanding.",0,0,0
+"Problem Investigation","I’m unable to provide an update at this moment, but we’re working on it.",1,0,0
+"Problem Investigation","I’m happy to inform you that we’ve identified the issue and resolved it.",0,0,0
+"Problem Investigation","I’ve escalated the issue to the technical team, and we’ll resolve it shortly.",0,0,0
+"Problem Investigation","We’re still looking into the problem. Thank you for your patience.",0,1,0
+"Problem Investigation","There seems to be an issue with our system, and we need more time to investigate.",1,0,0
+"Problem Investigation","We’ve resolved the issue, and everything should be working fine now.",0,0,0
+"Problem Investigation","The problem has been addressed and the issue should be resolved.",0,0,0
+"Problem Investigation","We’re still unable to determine the cause of the issue, but we’re working on it.",1,0,0
+"Problem Investigation","We’ve identified the cause and are implementing a fix right now.",0,0,0
+"Problem Investigation","I’ve found the source of the problem, and we’re fixing it right now.",0,0,0
+"Problem Investigation","Unfortunately, we’ve encountered a delay in resolving your issue.",1,0,1
+"Problem Investigation","I’ve escalated your case to the technical team, and they are resolving it now.",0,0,0
+"Problem Investigation","It seems like we’re facing some issues on our end. We’ll keep you updated.",0,0,0
+"Problem Investigation","The issue has been resolved, and everything is functioning normally now.",0,0,0
+"Problem Investigation","I’m sorry, I need more information from you in order to proceed with the investigation.",1,1,0
+"Problem Investigation","I’ve checked your account, and everything is working as expected.",0,0,0
+"Problem Investigation","We are still reviewing your case and will get back to you with an update.",0,0,0
+"Problem Investigation","I’ve identified and resolved the issue. You should be able to use the service now.",0,0,0
+"Problem Investigation","It looks like the issue might be related to a bug, and we're still investigating.",1,0,0
+"Problem Investigation","We’ve identified the source of the problem and are fixing it right now.",1,0,0
+"Problem Investigation","The issue is a bit more complicated than expected, but we’re working on it.",1,0,1
+"Problem Investigation","The issue has been successfully addressed, and your system should be working fine.",0,0,0
+"Problem Investigation","I’ve resolved the problem, and your account should now be working properly.",0,0,0
+"Problem Investigation","We’re still investigating your case and appreciate your patience.",1,0,1
+"Problem Investigation","The problem has been fixed. Everything is functioning as expected now.",0,0,0
+"Problem Investigation","The issue is more complex than anticipated. We're working to find a solution.",1,0,1
+"Problem Investigation","The issue has been resolved, and everything should be good now.",0,0,0
+"Problem Investigation","Unfortunately, I don’t have a solution yet, but we are still investigating.",1,0,0
+"Problem Investigation","The problem is still under investigation. We will update you as soon as we can.",1,0,0
+"Problem Investigation","The issue has been resolved, and I’m happy to confirm that everything is back to normal.",0,0,0
+"Problem Investigation","We are still trying to identify the problem. Thanks for your continued patience.",1,0,1
+"Problem Investigation","I’ve gathered the necessary information, and we’re resolving the issue now.",1,0,0
+"Problem Investigation","The investigation is taking longer than expected. We’ll keep you posted.",1,0,1
+"Problem Investigation","The issue has been resolved, and I’m glad to let you know everything is working now.",0,0,0
+"Problem Investigation","We are still looking into your issue and hope to resolve it soon.",1,0,0
+"Problem Investigation","The issue has been identified and we’re working to fix it.",1,0,0
+"Problem Investigation","I’m sorry, but we are still investigating the root cause of the issue.",1,0,1
+"Problem Investigation","I have found the problem, and it’s being addressed right now.",1,0,0
+"Problem Investigation","Unfortunately, we don’t have a resolution yet, but we are actively working on it.",1,0,1
+"Problem Investigation","Your issue has been identified and resolved. Thank you for your patience.",0,0,1
+"Problem Investigation","The issue is more complicated than we initially thought, but we are working on it.",1,0,1
+"Problem Investigation","I’ve identified the source of the problem, and we are implementing a fix.",1,0,0
+"Problem Investigation","The problem has been resolved. Everything should be functioning properly now.",0,0,0
+"Problem Investigation","We’ve encountered a slight delay in fixing your issue, but we’re on it.",1,0,1
+"Problem Investigation","The issue is fixed and your account is now up and running.",0,0,0
+"Problem Investigation","Unfortunately, we still need more time to resolve the issue. We appreciate your understanding.",1,0,1
+"Problem Investigation","I’ve identified the problem, and a solution is being applied as we speak.",1,0,0
+"Problem Investigation","It seems we are facing some technical difficulties, but we’re actively working on a fix.",1,0,0
+"Problem Investigation","Your case is now resolved! Everything should be working smoothly.",0,0,0
+"Problem Investigation","We need more time to find a resolution for your issue, thanks for your patience.",1,0,1
+"Problem Investigation","I’ve found the issue and it’s being fixed right now.",1,0,0
+"Problem Investigation","Unfortunately, I haven’t found a resolution for you yet. We’re still working on it.",1,0,0
+"Problem Investigation","The issue has been fixed, and everything is working as expected now.",0,0,0
+"Problem Investigation","I’ve identified the problem, and we’re implementing a fix right now.",1,0,0
+"Problem Investigation","We’ve encountered a delay, but we’re still actively investigating your issue.",1,0,0
+"Problem Investigation","We’ve solved the issue. Your system should be working perfectly now.",0,0,0
+"Problem Investigation","The problem has been resolved! Thank you for your patience throughout this process.",0,0,1
+"Problem Investigation","We are still investigating, and we’ll provide an update as soon as we can.",1,0,0
+"Problem Investigation","I’m sorry, but we are still working to identify the cause of the problem.",1,0,1
+"Problem Investigation","I’ve located the problem, and we’re actively working to fix it.",1,0,0
+"Problem Investigation","We are still troubleshooting the issue and will get back to you with an update.",1,0,0
+"Problem Investigation","The issue is resolved, and everything should be working fine now.",0,0,0
+"Problem Investigation","It looks like your issue is taking longer to fix than expected, but we’re on it.",1,0,1
+"Problem Investigation","I’m afraid I don’t have a resolution at the moment, but we are working on it.",1,0,1
+"Problem Investigation","I’ve identified the issue, and it’s being addressed as we speak.",1,0,0
+"Problem Investigation","We are still working on your case. I’ll follow up with an update shortly.",1,0,0
+"Problem Investigation","The issue has been resolved! You should see improvements now.",0,0,0
+Problem Investigation,"The situation is still under review. Thanks for your patience.",0,0,1
+Problem Investigation,"I’ve escalated the issue to the relevant team, and they’re working on it now.",0,0,1
+Problem Investigation,"The issue is still unresolved, but we are doing our best to fix it.",0,0,1
+Problem Investigation,"Your problem has been successfully solved. Thank you for your patience.",1,0,1
+Problem Investigation,"Unfortunately, we haven’t resolved the issue yet. Please try again later.",0,0,1
+Problem Investigation,"We are still investigating the issue. I’ll update you once we have more information.",0,0,1
+Problem Investigation,"The problem is resolved and your account is fully functional again.",1,0,1
+Problem Investigation,"The investigation is ongoing. We appreciate your continued patience.",0,0,1
+Problem Investigation,"We are still looking into it, but we are making progress.",0,0,1
+Problem Investigation,"I’ve resolved the issue, and everything is back to normal now.",1,0,1
+Problem Investigation,"The issue is more complex than we initially thought, but we are investigating it.",0,0,1
+Problem Investigation,"The problem is fixed, and everything should be functioning as expected now.",1,0,1
+Problem Investigation,"We are still reviewing the issue, but I will follow up soon with an update.",0,0,1
+Problem Investigation,"Your case has been resolved. Everything should be working now.",1,0,1
+Problem Investigation,"Unfortunately, we’re still investigating the root cause of your issue.",0,0,1
+Problem Investigation,"The issue has been identified, and we are applying a fix as we speak.",1,0,1
+Problem Investigation,"We are still analyzing the issue and haven’t found a solution yet.",0,0,1
+Problem Investigation,"The issue has been identified, and we are working on a resolution.",1,0,1
+Problem Investigation,"Unfortunately, we don’t have an immediate fix for you yet, but we’re working on it.",0,0,1
+Problem Investigation,"We’ve found the root cause of the issue and are fixing it now.",1,0,1
+Problem Investigation,"The issue is still under investigation, but we are working as quickly as possible.",0,0,1
+Problem Investigation,"The problem is resolved, and everything is working perfectly now.",1,0,1
+Problem Investigation,"We are still looking into the issue and will update you soon.",0,0,1
+Problem Investigation,"The issue has been fixed, and everything should be functioning normally.",1,0,1
+Problem Investigation,"We are still working to find a solution to your issue.",0,0,1
+Problem Investigation,"I’ve identified the issue and a solution is being implemented now.",1,0,1
+Problem Investigation,"We are working hard to resolve your issue but haven’t found a fix yet.",0,0,1
+Problem Investigation,"I’ve found the issue and we are working to resolve it as we speak.",1,0,1
+Problem Investigation,"We haven’t resolved the issue yet, but we are still actively working on it.",0,0,1
+Problem Investigation,"The issue is fixed, and everything is working as it should now.",1,0,1
+Problem Investigation,"Unfortunately, we haven’t identified the problem yet, but we’re still investigating.",0,0,1
+Problem Investigation,"I’ve found the issue, and we’re in the process of fixing it now.",1,0,1
+Problem Investigation,"It looks like the issue is taking a bit longer to resolve, but we are on it.",0,0,1
+Problem Investigation,"The problem has been resolved! Thank you for your patience.",1,0,1
+Problem Investigation,"We are still in the process of troubleshooting the issue. Thanks for bearing with us.",0,0,1
+Problem Investigation,"The issue has been successfully addressed and everything is running smoothly now.",1,0,1
+Problem Investigation,"I’ve found the root cause of the issue, and we are fixing it now.",1,0,1
+Problem Investigation,"We are still investigating the issue, but we hope to have it resolved soon.",0,0,1
+Problem Investigation,"Your case has been resolved, and everything should be working as expected now.",1,0,1
+Problem Investigation,"The issue hasn’t been resolved yet, but we’re still actively working on it.",0,0,1
+Problem Investigation,"We’re still working on a fix, but we’ll update you with any progress.",0,0,1
+Problem Investigation,"The problem has been resolved and everything is functioning properly.",1,0,1
+Problem Investigation,"Unfortunately, the issue is still unresolved, but we are making progress.",0,0,1
+Problem Investigation,"I’ve identified the source of the issue, and we’re currently applying a fix.",1,0,1
+Problem Investigation,"We are still troubleshooting the issue. Thanks for your patience.",0,0,1
+Problem Investigation,"The problem has been identified and resolved. Everything is working fine now.",1,0,1
+Problem Investigation,"Unfortunately, we are still looking into your issue and will update you soon.",0,0,1
+Problem Investigation,"Your issue has been resolved, and everything is functioning properly now.",1,0,1
+Problem Investigation,"We are still working on the issue. It’s taking longer than expected.",0,0,1
+Problem Investigation,"The issue has been identified and is being fixed now. Thank you for your patience.",1,0,1
+Problem Investigation,"Your issue has been fixed and everything should be working smoothly now.",0,0,1
+Problem Investigation,"We are still troubleshooting the problem and will update you shortly.",0,0,1
+Problem Investigation,"I’ve found the issue and it’s being addressed right now.",1,0,0
+Problem Investigation,"Unfortunately, the issue is still unresolved, but we are working on a fix.",1,0,1
+Problem Investigation,"The issue has been resolved. Everything should be working fine now.",0,0,1
+Problem Investigation,"We are still in the process of investigating the root cause.",0,1,0
+Problem Investigation,"We’ve identified the problem, and it’s being fixed now.",1,0,0
+Problem Investigation,"The issue is still being worked on, but we’re actively trying to resolve it.",1,0,1
+Problem Investigation,"The issue has been successfully resolved, and everything is working now.",0,0,1
+Problem Investigation,"We are still investigating the issue, but we’ll keep you updated with progress.",0,1,1
+Problem Investigation,"Your problem has been resolved and should be functioning perfectly now.",0,0,1
+Problem Investigation,"I’ve found the root cause of your problem, and we’re fixing it right now.",1,0,0
+Problem Investigation,"We are still troubleshooting and hope to have a resolution soon.",0,0,1
+Problem Investigation,"Your issue has been fixed and your service should be fully functional now.",0,0,1
+Problem Investigation,"The problem has been resolved. Everything is working as expected now.",0,0,1
+Problem Investigation,"We are still investigating the issue, but we are working on it.",0,1,1
+Problem Investigation,"Your issue has been resolved, and everything should be running smoothly now.",0,0,1
+Problem Investigation,"Unfortunately, we haven’t identified the issue yet, but we’re still working on it.",1,1,1
+Problem Investigation,"We’ve identified the issue, and a fix is currently being applied.",1,0,0
+Problem Investigation,"We are still in the process of identifying the problem, but we are on it.",0,1,0
+Problem Investigation,"I’ve identified the issue, and we are working on a fix right now.",1,0,0
+Problem Investigation,"The issue is taking longer to resolve than expected, but we are still working on it.",1,0,1
+Problem Investigation,"The issue has been fixed, and everything should be working properly now.",0,0,1
+Problem Investigation,"We’re still investigating the issue, but we are trying to resolve it as quickly as possible.",0,1,1
+Problem Investigation,"We’ve identified the root cause of the issue and are fixing it now.",1,0,0
+Problem Investigation,"Unfortunately, the issue is still unresolved, but we are actively investigating it.",1,0,1
+Problem Investigation,"The problem has been identified and resolved. Everything is functioning well now.",0,0,1
+Problem Investigation,"We are still looking into the issue, but we will update you with any progress.",0,1,1
+Problem Investigation,"The issue has been fixed, and everything should be running smoothly now.",0,0,1
+Problem Investigation,"We’re still investigating the issue, but we hope to have a solution soon.",0,1,1
+Problem Investigation,"The issue has been resolved, and everything is now working perfectly.",0,0,1
+Problem Investigation,"We are working on resolving the issue, but it may take a little more time.",0,0,1
+Problem Investigation,"The issue has been fixed and everything is back to normal now.",0,0,1
+Problem Investigation,"Unfortunately, we are still in the process of resolving the issue.",1,0,1
+Problem Investigation,"The problem has been resolved and the system is functioning as expected.",0,0,1
+Problem Investigation,"We are still investigating the cause of the issue and will keep you updated.",0,1,1
+Problem Investigation,"I’ve identified the issue and it’s being addressed now.",1,0,0
+Problem Investigation,"We are still working on the issue, but we are making progress.",0,1,1
+Problem Investigation,"The issue has been fixed and the system is functioning normally now.",0,0,1
+Problem Investigation,"We’re still investigating the issue, but we hope to have an answer soon.",0,1,1
+Problem Investigation,"I’ve found the root cause of the issue and it’s being resolved as we speak.",1,0,0
+Problem Investigation,"The issue remains unresolved, but we are actively working to fix it.",1,0,1
+Problem Investigation,"The problem has been resolved, and everything should be working fine now.",0,0,1
+Problem Investigation,"We are still in the process of troubleshooting the issue.",0,1,1
+Problem Investigation,"The issue has been identified and we are applying a fix right now.",1,0,0
+Problem Investigation,"Unfortunately, the issue is taking longer to resolve than expected.",1,0,1
+Problem Investigation,"Your issue has been resolved and everything is functioning properly now.",0,0,1
+Problem Investigation,"We are still working on fixing the issue, but we’re making progress.",0,1,1
+Problem Investigation,"The issue has been identified and resolved, everything is working smoothly now.",0,0,1
+Problem Investigation,"We are still troubleshooting the issue, but we’re getting closer to a solution.",0,1,1
+Problem Investigation,"I’ve identified the problem and it’s being fixed now.",1,0,0
+Problem Investigation,"We are still working on identifying the cause of the problem.",0,1,0
+Problem Investigation,"The issue has been fixed, and everything should be working now.",0,0,1
+Problem Investigation,"We are actively investigating the issue, but we haven’t found the solution yet.",0,1,1
+Problem Investigation,"Your issue has been resolved and everything is functioning as expected.",0,0,1
+Problem Investigation,"We are still working to identify the root cause of the issue.",0,1,0
+Problem Investigation,"The issue has been identified and is being fixed right now.",1,0,0
+Problem Investigation,"Unfortunately, we have not been able to resolve your issue yet.",1,0,1
+Problem Investigation,"The problem has been identified, and a fix is being applied right now.",1,0,0
+Problem Investigation,"We are still working on resolving the issue, but it’s taking more time than anticipated.",1,0,1
+Problem Investigation,"The issue has been successfully resolved and everything is working fine now.",0,0,1
+Problem Investigation,"Unfortunately, the problem is still unresolved, but we are continuing to investigate.",1,1,1
+Problem Investigation,"I’ve found the issue, and it is currently being fixed.",1,0,0
+Problem Investigation,"The issue is still under investigation, but we are progressing.",0,1,1
+Problem Investigation,"We’ve identified the problem and are applying a fix right now.",1,0,0
+Problem Investigation,"We’re still working on fixing the issue, but we will update you as soon as possible.",0,1,1
+Problem Investigation,"The problem has been resolved. Everything should be working now.",0,0,1
+Problem Investigation,"We’re still in the process of investigating the issue.",0,1,0
+Problem Investigation,"The issue has been resolved, and everything is functioning properly now.",0,0,1
+Problem Investigation,"Unfortunately, we have not yet found a solution to your issue.",1,1,1
+Problem Investigation,"The problem has been identified and fixed. Everything is working now.",1,0,0
+Problem Investigation,"We are still looking into the issue, but we will update you soon.",0,1,1
+Problem Investigation,"Your issue has been resolved and should be functioning properly now.",0,0,1
+Problem Investigation,"We are still investigating the issue, but we’re making progress.",0,1,0
+Problem Investigation,"The issue has been identified and is being worked on.",1,0,0
+Problem Investigation,"I’m checking the issue right now. Let’s find a solution!",0,1,1
+Problem Investigation,"I’m reviewing the details to identify the cause of the problem.",0,1,0
+Problem Investigation,"I’m analyzing the situation and will provide updates shortly.",0,1,1
+Problem Investigation,"Let’s investigate this step-by-step to resolve it effectively.",0,1,1
+Problem Investigation,"The cause isn’t clear yet, but I’m actively looking into it.",0,1,0
+Problem Investigation,"This might take some time. I’m reviewing all possible causes.",0,1,1
+Problem Investigation,"I’m still investigating the root of the issue. Thanks for your patience.",0,1,1
+Problem Investigation,"It’s taking longer than expected, but I’m working to identify the problem.",0,1,1
+Problem Investigation,"I’ve started looking into the issue. Thank you for your patience!",0,1,1
+Problem Investigation,"The investigation is underway. I’ll keep you updated throughout.",0,1,1
+Problem Investigation,"We’re making progress in identifying the issue. Hang tight!",0,1,1
+Problem Investigation,"I’m thoroughly reviewing the situation to find the best solution.",0,1,1
+Problem Investigation,"The root cause is unclear, but I’m continuing to investigate.",0,1,0
+Problem Investigation,"There’s more to analyze, but I’m committed to figuring this out.",0,1,1
+Problem Investigation,"This may take longer than expected. Thanks for bearing with me.",0,1,1
+Problem Investigation,"I’m still working through the details. I appreciate your understanding.",0,1,1
